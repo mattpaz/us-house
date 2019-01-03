@@ -36,7 +36,7 @@ We have completed the following Data Collection [Watch Project](https://github.c
 - [X] Published NPM Package
 
 
-Senator Data
+Representative Data
 ---
 
 This project offers data for the 116th United States House in the following formats:
