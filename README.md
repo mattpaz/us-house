@@ -5,14 +5,14 @@ __Civil Services__ is a collection of tools that make it possible for citizens t
 [![Donate](https://cdn.civil.services/donate-button.png)](https://www.paypal.me/civilservices)
 
 
-115th Congress United States House of Representatives
+116th Congress United States House of Representatives
 ===
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/CivilServiceUSA/us-house/master/LICENSE)  [![GitHub contributors](https://img.shields.io/github/contributors/CivilServiceUSA/us-house.svg)](https://github.com/CivilServiceUSA/us-house/graphs/contributors)
 
 ![Screenshot](screenshot.gif "Screenshot")
 
-We have also built an interactive search tool that can show you some interesting demographic data on US Senators.
+We have also built an interactive search tool that can show you some interesting demographic data on US Representatives.
 
 ## [★ Search House Representatives ⧁](https://civilserviceusa.github.io/us-house/)
 
@@ -39,11 +39,11 @@ We have completed the following Data Collection [Watch Project](https://github.c
 Senator Data
 ---
 
-This project offers data for the 115th United States Senate in the following formats:
+This project offers data for the 116th United States House in the following formats:
 
 * [CSV](us-house/data/us-house.csv)
 * [JSON](us-house/data/us-house.json)
-* [SQL](us-house/data/us-house.sql) & [SQL Table](us-house/data/us-house.table.sql) 
+* [SQL](us-house/data/us-house.sql) & [SQL Table](us-house/data/us-house.table.sql)
 * [XML](us-house/data/us-house.xml)
 * [YML](us-house/data/us-house.yml)
 
