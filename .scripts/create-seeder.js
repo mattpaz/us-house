@@ -2,7 +2,7 @@ var fs = require('fs');
 var path = require('path');
 
 var collection, data;
-var seeder_file = path.join(__dirname, '../us-house/data/20170101000000-house-seeder.js');
+var seeder_file = path.join(__dirname, '../us-house/data/20190101000000-house-seeder.js');
 var data_file = path.join(__dirname, '../us-house/data/us-house.json');
 
 function createSeeder() {
