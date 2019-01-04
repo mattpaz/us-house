@@ -17,7 +17,6 @@
     "vacant": false,
     "bioguide": "R000612",
     "thomas": null,
-    "govtrack": "412818",
     "opensecrets": "N00041599",
     "votesmart": "180452",
     "fec": "H8TN06094",
@@ -56,8 +55,8 @@
     "address_state": "DC",
     "address_zipcode": "20003",
     "address_type": null,
-    "website": null,
-    "contact_page": null,
+    "website": "https://johnrose.house.gov/",
+    "contact_page": "https://johnrose.house.gov/contact",
     "facebook_url": null,
     "twitter_handle": null,
     "twitter_url": null,
@@ -994,16 +993,6 @@
         [
           -87.150371,
           36.566824
-        ]
-      ],
-      [
-        [
-          -86.523452,
-          36.137463
-        ],
-        [
-          -86.523452,
-          36.137463
         ]
       ]
     ]

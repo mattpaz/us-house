@@ -9,7 +9,6 @@
     vacant: false
     bioguide: "Y000033"
     thomas: "1256"
-    govtrack: "400440"
     opensecrets: "N00007999"
     votesmart: "26717"
     fec: "H6AK00045"
@@ -64,7 +63,6 @@
     vacant: false
     bioguide: "B001289"
     thomas: "2197"
-    govtrack: "412601"
     opensecrets: "N00035380"
     votesmart: "27584"
     fec: "H4AL01123"
@@ -119,7 +117,6 @@
     vacant: false
     bioguide: "R000591"
     thomas: "1986"
-    govtrack: "412394"
     opensecrets: "N00030768"
     votesmart: "71604"
     fec: "H0AL02087"
@@ -174,7 +171,6 @@
     vacant: false
     bioguide: "R000575"
     thomas: "1704"
-    govtrack: "400341"
     opensecrets: "N00024759"
     votesmart: "5705"
     fec: "H2AL03032"
@@ -229,7 +225,6 @@
     vacant: false
     bioguide: "A000055"
     thomas: "1460"
-    govtrack: "400004"
     opensecrets: "N00003028"
     votesmart: "441"
     fec: "H6AL04098"
@@ -284,7 +279,6 @@
     vacant: false
     bioguide: "B001274"
     thomas: "1987"
-    govtrack: "412395"
     opensecrets: "N00030910"
     votesmart: "121610"
     fec: "H0AL05163"
@@ -339,7 +333,6 @@
     vacant: false
     bioguide: "P000609"
     thomas: "2221"
-    govtrack: "412608"
     opensecrets: "N00035691"
     votesmart: "146274"
     fec: "H4AL06098"
@@ -394,7 +387,6 @@
     vacant: false
     bioguide: "S001185"
     thomas: "1988"
-    govtrack: "412396"
     opensecrets: "N00030622"
     votesmart: "121621"
     fec: "H0AL07086"
@@ -449,7 +441,6 @@
     vacant: false
     bioguide: "C001087"
     thomas: "1989"
-    govtrack: "412400"
     opensecrets: "N00030770"
     votesmart: "119208"
     fec: "H0AR01083"
@@ -504,7 +495,6 @@
     vacant: false
     bioguide: "H001072"
     thomas: "2223"
-    govtrack: "412609"
     opensecrets: "N00035792"
     votesmart: "146290"
     fec: "H4AR02141"
@@ -559,7 +549,6 @@
     vacant: false
     bioguide: "W000809"
     thomas: "1991"
-    govtrack: "412402"
     opensecrets: "N00031857"
     votesmart: "71815"
     fec: "H0AR03055"
@@ -614,7 +603,6 @@
     vacant: false
     bioguide: "W000821"
     thomas: "2224"
-    govtrack: "412610"
     opensecrets: "N00035527"
     votesmart: "119120"
     fec: "H4AR04048"
@@ -669,7 +657,6 @@
     vacant: false
     bioguide: "O000171"
     thomas: null
-    govtrack: "412682"
     opensecrets: "N00037515"
     votesmart: "28499"
     fec: "H6AZ01199"
@@ -724,7 +711,6 @@
     vacant: false
     bioguide: "K000368"
     thomas: null
-    govtrack: "412286"
     opensecrets: "N00029260"
     votesmart: "28425"
     fec: "H8AZ02151"
@@ -779,7 +765,6 @@
     vacant: false
     bioguide: "G000551"
     thomas: "1708"
-    govtrack: "400162"
     opensecrets: "N00025284"
     votesmart: "28253"
     fec: "H2AZ07070"
@@ -834,7 +819,6 @@
     vacant: false
     bioguide: "G000565"
     thomas: "1992"
-    govtrack: "412397"
     opensecrets: "N00030771"
     votesmart: "123491"
     fec: "H0AZ01259"
@@ -889,7 +873,6 @@
     vacant: false
     bioguide: "B001302"
     thomas: null
-    govtrack: "412683"
     opensecrets: "N00039293"
     votesmart: "28088"
     fec: "H6AZ05083"
@@ -944,7 +927,6 @@
     vacant: false
     bioguide: "S001183"
     thomas: "1994"
-    govtrack: "412399"
     opensecrets: "N00006460"
     votesmart: "106387"
     fec: "H4AZ06045"
@@ -999,7 +981,6 @@
     vacant: false
     bioguide: "G000574"
     thomas: "2226"
-    govtrack: "412612"
     opensecrets: "N00036097"
     votesmart: null
     fec: "H4AZ07043"
@@ -1054,7 +1035,6 @@
     vacant: false
     bioguide: "F000448"
     thomas: "1707"
-    govtrack: "400141"
     opensecrets: "N00006423"
     votesmart: "28399"
     fec: "H4AZ04024"
@@ -1109,7 +1089,6 @@
     vacant: false
     bioguide: "S001211"
     thomas: null
-    govtrack: "412753"
     opensecrets: "N00041750"
     votesmart: "72030"
     fec: "H8AZ09040"
@@ -1148,8 +1127,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://stanton.house.gov"
+    contact_page: "https://stanton.house.gov/contact/email-me"
     facebook_url: "https://www.facebook.com/stantonforarizona"
     twitter_handle: "gregstantonaz"
     twitter_url: "https://twitter.com/gregstantonaz"
@@ -1164,7 +1143,6 @@
     vacant: false
     bioguide: "L000578"
     thomas: "2100"
-    govtrack: "412510"
     opensecrets: "N00033987"
     votesmart: "29713"
     fec: "H2CA02142"
@@ -1219,7 +1197,6 @@
     vacant: false
     bioguide: "H001068"
     thomas: "2101"
-    govtrack: "412511"
     opensecrets: "N00033030"
     votesmart: "59849"
     fec: "H2CA06259"
@@ -1274,7 +1251,6 @@
     vacant: false
     bioguide: "G000559"
     thomas: "1973"
-    govtrack: "412382"
     opensecrets: "N00030856"
     votesmart: "29664"
     fec: "H0CA10149"
@@ -1329,7 +1305,6 @@
     vacant: false
     bioguide: "M001177"
     thomas: "1908"
-    govtrack: "412295"
     opensecrets: "N00006863"
     votesmart: "9715"
     fec: "H8CA04152"
@@ -1384,7 +1359,6 @@
     vacant: false
     bioguide: "T000460"
     thomas: "1593"
-    govtrack: "400403"
     opensecrets: "N00007419"
     votesmart: "3564"
     fec: "H8CA01109"
@@ -1439,7 +1413,6 @@
     vacant: false
     bioguide: "M001163"
     thomas: "1814"
-    govtrack: "400663"
     opensecrets: "N00027459"
     votesmart: "28593"
     fec: "H6CA05195"
@@ -1494,7 +1467,6 @@
     vacant: false
     bioguide: "B001287"
     thomas: "2102"
-    govtrack: "412512"
     opensecrets: "N00030717"
     votesmart: "120030"
     fec: "H0CA03078"
@@ -1549,7 +1521,6 @@
     vacant: false
     bioguide: "C001094"
     thomas: "2103"
-    govtrack: "412513"
     opensecrets: "N00034224"
     votesmart: "58121"
     fec: "H2CA08164"
@@ -1604,7 +1575,6 @@
     vacant: false
     bioguide: "M001166"
     thomas: "1832"
-    govtrack: "412189"
     opensecrets: "N00026926"
     votesmart: "29474"
     fec: "H4CA11081"
@@ -1659,7 +1629,6 @@
     vacant: false
     bioguide: "H001090"
     thomas: null
-    govtrack: "412754"
     opensecrets: "N00040853"
     votesmart: "179326"
     fec: "H8CA10126"
@@ -1698,8 +1667,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://harder.house.gov"
+    contact_page: "https://harder.house.gov/contact/email-me"
     facebook_url: "https://www.facebook.com/harderforcongress/"
     twitter_handle: "joshua_harder"
     twitter_url: "https://twitter.com/joshua_harder"
@@ -1714,7 +1683,6 @@
     vacant: false
     bioguide: "D000623"
     thomas: "2227"
-    govtrack: "412613"
     opensecrets: "N00030709"
     votesmart: null
     fec: "H0CA10073"
@@ -1769,14 +1737,13 @@
     vacant: false
     bioguide: "P000197"
     thomas: "905"
-    govtrack: "400314"
     opensecrets: "N00007360"
     votesmart: "26732"
     fec: "H8CA05035"
     maplight: "408"
     wikidata: "Q170581"
     google_entity_id: "kg:/m/012v1t"
-    title: "house_speaker"
+    title: "house-speaker"
     party: "democrat"
     name: "Nancy Pelosi"
     name_slug: "nancy-pelosi"
@@ -1824,7 +1791,6 @@
     vacant: false
     bioguide: "L000551"
     thomas: "1501"
-    govtrack: "400237"
     opensecrets: "N00008046"
     votesmart: "8315"
     fec: "H8CA09060"
@@ -1879,7 +1845,6 @@
     vacant: false
     bioguide: "S001175"
     thomas: "1890"
-    govtrack: "412259"
     opensecrets: "N00029649"
     votesmart: "8425"
     fec: "H8CA12171"
@@ -1934,7 +1899,6 @@
     vacant: false
     bioguide: "S001193"
     thomas: "2104"
-    govtrack: "412514"
     opensecrets: "N00033508"
     votesmart: "129529"
     fec: "H2CA15094"
@@ -1989,7 +1953,6 @@
     vacant: false
     bioguide: "C001059"
     thomas: "1774"
-    govtrack: "400618"
     opensecrets: "N00026341"
     votesmart: "3577"
     fec: "H4CA20082"
@@ -2044,7 +2007,6 @@
     vacant: false
     bioguide: "K000389"
     thomas: null
-    govtrack: "412684"
     opensecrets: "N00026427"
     votesmart: "29473"
     fec: "H4CA12055"
@@ -2099,7 +2061,6 @@
     vacant: false
     bioguide: "E000215"
     thomas: "355"
-    govtrack: "400124"
     opensecrets: "N00007335"
     votesmart: "26741"
     fec: "H8CA12098"
@@ -2154,7 +2115,6 @@
     vacant: false
     bioguide: "L000397"
     thomas: "701"
-    govtrack: "400245"
     opensecrets: "N00007479"
     votesmart: "21899"
     fec: "H4CA16049"
@@ -2209,7 +2169,6 @@
     vacant: false
     bioguide: "P000613"
     thomas: null
-    govtrack: "412685"
     opensecrets: "N00038601"
     votesmart: "169078"
     fec: "H6CA20152"
@@ -2264,7 +2223,6 @@
     vacant: false
     bioguide: "C001124"
     thomas: null
-    govtrack: "412755"
     opensecrets: "N00028122"
     votesmart: "57197"
     fec: "H6CA19113"
@@ -2303,8 +2261,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://cox.house.gov"
+    contact_page: "https://cox.house.gov/contact/email-me"
     facebook_url: "https://www.facebook.com/tjcoxforcongress"
     twitter_handle: "TJCoxCongress"
     twitter_url: "https://twitter.com/TJCoxCongress"
@@ -2319,7 +2277,6 @@
     vacant: false
     bioguide: "N000181"
     thomas: "1710"
-    govtrack: "400297"
     opensecrets: "N00007248"
     votesmart: "16725"
     fec: "H8CA20059"
@@ -2374,14 +2331,13 @@
     vacant: false
     bioguide: "M001165"
     thomas: "1833"
-    govtrack: "412190"
     opensecrets: "N00028152"
     votesmart: "28918"
     fec: "H6CA22125"
     maplight: "677"
     wikidata: "Q766866"
     google_entity_id: "kg:/m/074qxm"
-    title: "house_minority_leader"
+    title: "house-minority-leader"
     party: "republican"
     name: "Kevin McCarthy"
     name_slug: "kevin-mccarthy"
@@ -2413,8 +2369,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://kevinmccarthy.house.gov"
+    contact_page: "https://kevinmccarthy.house.gov/contact/email-me"
     facebook_url: "https://www.facebook.com/CongressmanKevinMcCarthy/"
     twitter_handle: "GOPLeader"
     twitter_url: "https://twitter.com/GOPLeader"
@@ -2429,7 +2385,6 @@
     vacant: false
     bioguide: "C001112"
     thomas: null
-    govtrack: "412686"
     opensecrets: "N00037015"
     votesmart: "81569"
     fec: "H6CA24303"
@@ -2484,7 +2439,6 @@
     vacant: false
     bioguide: "H001087"
     thomas: null
-    govtrack: "412756"
     opensecrets: "N00040644"
     votesmart: "179354"
     fec: "H8CA25074"
@@ -2523,8 +2477,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://katiehill.house.gov"
+    contact_page: "https://katiehill.house.gov/contact/email-me"
     facebook_url: "https://www.facebook.com/KatieHillforCongress/"
     twitter_handle: "KatieHill4CA"
     twitter_url: "https://twitter.com/KatieHill4CA"
@@ -2539,7 +2493,6 @@
     vacant: false
     bioguide: "B001285"
     thomas: "2106"
-    govtrack: "412516"
     opensecrets: "N00034254"
     votesmart: "59904"
     fec: "H2CA00120"
@@ -2594,7 +2547,6 @@
     vacant: false
     bioguide: "C001080"
     thomas: "1970"
-    govtrack: "412379"
     opensecrets: "N00030600"
     votesmart: "16539"
     fec: "H0CA32101"
@@ -2649,7 +2601,6 @@
     vacant: false
     bioguide: "S001150"
     thomas: "1635"
-    govtrack: "400361"
     opensecrets: "N00009585"
     votesmart: "9489"
     fec: "H0CA27085"
@@ -2688,8 +2639,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://schiff.house.gov"
+    contact_page: "https://schiff.house.gov/contact"
     facebook_url: "https://www.facebook.com/RepAdamSchiff/"
     twitter_handle: "RepAdamSchiff"
     twitter_url: "https://twitter.com/RepAdamSchiff"
@@ -2704,7 +2655,6 @@
     vacant: false
     bioguide: "C001097"
     thomas: "2107"
-    govtrack: "412517"
     opensecrets: "N00033373"
     votesmart: "9754"
     fec: "H2CA28113"
@@ -2759,7 +2709,6 @@
     vacant: false
     bioguide: "S000344"
     thomas: "1526"
-    govtrack: "400371"
     opensecrets: "N00006897"
     votesmart: "142"
     fec: "H6CA24113"
@@ -2814,7 +2763,6 @@
     vacant: false
     bioguide: "A000371"
     thomas: "2229"
-    govtrack: "412615"
     opensecrets: "N00033997"
     votesmart: "70114"
     fec: "H2CA31125"
@@ -2869,7 +2817,6 @@
     vacant: false
     bioguide: "N000179"
     thomas: "1602"
-    govtrack: "400290"
     opensecrets: "N00006789"
     votesmart: "8393"
     fec: "H8CA34068"
@@ -2924,7 +2871,6 @@
     vacant: false
     bioguide: "L000582"
     thomas: "2230"
-    govtrack: "412616"
     opensecrets: "N00035825"
     votesmart: null
     fec: "H4CA33119"
@@ -2979,7 +2925,6 @@
     vacant: false
     bioguide: "G000585"
     thomas: null
-    govtrack: "412739"
     opensecrets: "N00040597"
     votesmart: "138524"
     fec: "H8CA34266"
@@ -3034,7 +2979,6 @@
     vacant: false
     bioguide: "T000474"
     thomas: "2231"
-    govtrack: "412617"
     opensecrets: "N00036107"
     votesmart: null
     fec: "H4CA35031"
@@ -3089,7 +3033,6 @@
     vacant: false
     bioguide: "R000599"
     thomas: "2109"
-    govtrack: "412519"
     opensecrets: "N00033510"
     votesmart: "136407"
     fec: "H2CA36439"
@@ -3144,7 +3087,6 @@
     vacant: false
     bioguide: "B001270"
     thomas: "1996"
-    govtrack: "412404"
     opensecrets: "N00031877"
     votesmart: "28963"
     fec: "H0CA33117"
@@ -3199,7 +3141,6 @@
     vacant: false
     bioguide: "S001156"
     thomas: "1757"
-    govtrack: "400355"
     opensecrets: "N00024870"
     votesmart: "29674"
     fec: "H2CA39078"
@@ -3254,7 +3195,6 @@
     vacant: false
     bioguide: "C001123"
     thomas: null
-    govtrack: "412757"
     opensecrets: "N00041464"
     votesmart: "179370"
     fec: "H8CA39174"
@@ -3293,8 +3233,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://cisneros.house.gov"
+    contact_page: "https://cisneros.house.gov/contact"
     facebook_url: "https://www.facebook.com/GilCisnerosCA/"
     twitter_handle: "GilCisnerosCA"
     twitter_url: "https://twitter.com/GilCisnerosCA"
@@ -3309,7 +3249,6 @@
     vacant: false
     bioguide: "R000486"
     thomas: "997"
-    govtrack: "400347"
     opensecrets: "N00006671"
     votesmart: "26766"
     fec: "H2CA33048"
@@ -3364,7 +3303,6 @@
     vacant: false
     bioguide: "T000472"
     thomas: "2110"
-    govtrack: "412520"
     opensecrets: "N00006701"
     votesmart: "22337"
     fec: "H2CA43245"
@@ -3419,7 +3357,6 @@
     vacant: false
     bioguide: "C000059"
     thomas: "165"
-    govtrack: "400057"
     opensecrets: "N00007099"
     votesmart: "26777"
     fec: "H2CA37023"
@@ -3474,7 +3411,6 @@
     vacant: false
     bioguide: "W000187"
     thomas: "1205"
-    govtrack: "400422"
     opensecrets: "N00006690"
     votesmart: "26759"
     fec: "H4CA23011"
@@ -3529,7 +3465,6 @@
     vacant: false
     bioguide: "B001300"
     thomas: null
-    govtrack: "412687"
     opensecrets: "N00037019"
     votesmart: "166270"
     fec: "H6CA44103"
@@ -3584,7 +3519,6 @@
     vacant: false
     bioguide: "P000618"
     thomas: null
-    govtrack: "412758"
     opensecrets: "N00040865"
     votesmart: "179393"
     fec: "H8CA45130"
@@ -3623,8 +3557,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://porter.house.gov"
+    contact_page: "https://porter.house.gov/contact"
     facebook_url: "https://www.facebook.com/katieporteroc"
     twitter_handle: "katieporteroc"
     twitter_url: "https://twitter.com/katieporteroc"
@@ -3639,7 +3573,6 @@
     vacant: false
     bioguide: "C001110"
     thomas: null
-    govtrack: "412688"
     opensecrets: "N00037260"
     votesmart: "9732"
     fec: "H6CA46116"
@@ -3694,7 +3627,6 @@
     vacant: false
     bioguide: "L000579"
     thomas: "2111"
-    govtrack: "412521"
     opensecrets: "N00033274"
     votesmart: "16469"
     fec: "H2CA00104"
@@ -3749,7 +3681,6 @@
     vacant: false
     bioguide: "R000616"
     thomas: null
-    govtrack: "412759"
     opensecrets: "N00040666"
     votesmart: "179404"
     fec: "H8CA48035"
@@ -3788,8 +3719,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://rouda.house.gov"
+    contact_page: "https://rouda.house.gov/contact"
     facebook_url: "https://www.facebook.com/HarleyforCongress/"
     twitter_handle: "HarleyRouda"
     twitter_url: "https://twitter.com/HarleyRouda"
@@ -3804,7 +3735,6 @@
     vacant: false
     bioguide: "L000593"
     thomas: null
-    govtrack: "412760"
     opensecrets: "N00040667"
     votesmart: "179416"
     fec: "H8CA49058"
@@ -3843,8 +3773,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://mikelevin.house.gov"
+    contact_page: "https://mikelevin.house.gov/contact"
     facebook_url: "https://www.facebook.com/LevinforCongress"
     twitter_handle: "MikeLevinCA"
     twitter_url: "https://twitter.com/MikeLevinCA"
@@ -3859,7 +3789,6 @@
     vacant: false
     bioguide: "H001048"
     thomas: "1909"
-    govtrack: "412283"
     opensecrets: "N00029258"
     votesmart: "104308"
     fec: "H8CA52052"
@@ -3914,7 +3843,6 @@
     vacant: false
     bioguide: "V000130"
     thomas: "2112"
-    govtrack: "412522"
     opensecrets: "N00007021"
     votesmart: "29100"
     fec: "H2CA50026"
@@ -3969,7 +3897,6 @@
     vacant: false
     bioguide: "P000608"
     thomas: "2113"
-    govtrack: "412523"
     opensecrets: "N00033591"
     votesmart: "70351"
     fec: "H2CA52089"
@@ -4024,7 +3951,6 @@
     vacant: false
     bioguide: "D000598"
     thomas: "1641"
-    govtrack: "400097"
     opensecrets: "N00009604"
     votesmart: "8168"
     fec: "H0CA49055"
@@ -4079,7 +4005,6 @@
     vacant: false
     bioguide: "D000197"
     thomas: "1479"
-    govtrack: "400101"
     opensecrets: "N00006134"
     votesmart: "561"
     fec: "H6CO01141"
@@ -4134,7 +4059,6 @@
     vacant: false
     bioguide: "N000191"
     thomas: null
-    govtrack: "412761"
     opensecrets: "N00041080"
     votesmart: "151075"
     fec: "H8CO02160"
@@ -4173,8 +4097,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://neguse.house.gov"
+    contact_page: "https://neguse.house.gov/contact"
     facebook_url: "https://www.facebook.com/joeneguseforcongress/"
     twitter_handle: "JoeNeguse"
     twitter_url: "https://twitter.com/JoeNeguse"
@@ -4189,7 +4113,6 @@
     vacant: false
     bioguide: "T000470"
     thomas: "1997"
-    govtrack: "412405"
     opensecrets: "N00027509"
     votesmart: "65403"
     fec: "H6CO03139"
@@ -4244,7 +4167,6 @@
     vacant: false
     bioguide: "B001297"
     thomas: "2233"
-    govtrack: "412619"
     opensecrets: "N00030829"
     votesmart: "125319"
     fec: "S0CO00237"
@@ -4299,7 +4221,6 @@
     vacant: false
     bioguide: "L000564"
     thomas: "1834"
-    govtrack: "412191"
     opensecrets: "N00028133"
     votesmart: "2698"
     fec: "H6CO05159"
@@ -4354,7 +4275,6 @@
     vacant: false
     bioguide: "C001121"
     thomas: null
-    govtrack: "412762"
     opensecrets: "N00040876"
     votesmart: "180218"
     fec: "H8CO06229"
@@ -4393,8 +4313,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://crow.house.gov"
+    contact_page: "https://crow.house.gov/contact"
     facebook_url: "https://www.facebook.com/JasonCrowforCongress/"
     twitter_handle: "JasonCrowCO6"
     twitter_url: "https://twitter.com/JasonCrowCO6"
@@ -4409,7 +4329,6 @@
     vacant: false
     bioguide: "P000593"
     thomas: "1835"
-    govtrack: "412192"
     opensecrets: "N00027510"
     votesmart: "2653"
     fec: "H6CO07023"
@@ -4464,7 +4383,6 @@
     vacant: false
     bioguide: "L000557"
     thomas: "1583"
-    govtrack: "400233"
     opensecrets: "N00000575"
     votesmart: "17188"
     fec: "H8CT01046"
@@ -4519,7 +4437,6 @@
     vacant: false
     bioguide: "C001069"
     thomas: "1836"
-    govtrack: "412193"
     opensecrets: "N00024842"
     votesmart: "30333"
     fec: "H2CT02112"
@@ -4574,7 +4491,6 @@
     vacant: false
     bioguide: "D000216"
     thomas: "281"
-    govtrack: "400103"
     opensecrets: "N00000615"
     votesmart: "26788"
     fec: "H0CT03072"
@@ -4629,7 +4545,6 @@
     vacant: false
     bioguide: "H001047"
     thomas: "1913"
-    govtrack: "412282"
     opensecrets: "N00029070"
     votesmart: "106744"
     fec: "H8CT04172"
@@ -4684,7 +4599,6 @@
     vacant: false
     bioguide: "H001081"
     thomas: null
-    govtrack: "412763"
     opensecrets: "N00043421"
     votesmart: "181744"
     fec: "H8CT05245"
@@ -4723,8 +4637,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://hayes.house.gov"
+    contact_page: "https://hayes.house.gov/contact"
     facebook_url: "https://www.facebook.com/jahanahayesct/"
     twitter_handle: "jahanahayesct?lang=en"
     twitter_url: "https://twitter.com/jahanahayesct?lang=en"
@@ -4739,7 +4653,6 @@
     vacant: false
     bioguide: "B001303"
     thomas: null
-    govtrack: "412689"
     opensecrets: "N00038414"
     votesmart: "173249"
     fec: "H6DE00206"
@@ -4794,7 +4707,6 @@
     vacant: false
     bioguide: "G000578"
     thomas: null
-    govtrack: "412690"
     opensecrets: "N00039503"
     votesmart: "117101"
     fec: "H6FL01119"
@@ -4849,7 +4761,6 @@
     vacant: false
     bioguide: "D000628"
     thomas: null
-    govtrack: "412691"
     opensecrets: "N00037442"
     votesmart: "166297"
     fec: "H6FL02208"
@@ -4904,7 +4815,6 @@
     vacant: false
     bioguide: "Y000065"
     thomas: "2115"
-    govtrack: "412525"
     opensecrets: "N00033220"
     votesmart: "137622"
     fec: "H2FL06109"
@@ -4959,7 +4869,6 @@
     vacant: false
     bioguide: "R000609"
     thomas: null
-    govtrack: "412692"
     opensecrets: "N00039777"
     votesmart: "172542"
     fec: "H6FL04105"
@@ -5014,7 +4923,6 @@
     vacant: false
     bioguide: "L000586"
     thomas: null
-    govtrack: "412693"
     opensecrets: "N00030642"
     votesmart: "24263"
     fec: "H0FL02086"
@@ -5069,7 +4977,6 @@
     vacant: false
     bioguide: "W000823"
     thomas: null
-    govtrack: "412764"
     opensecrets: "N00042403"
     votesmart: "182261"
     fec: "H8FL06148"
@@ -5108,8 +5015,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://waltz.house.gov"
+    contact_page: "https://waltz.house.gov/contact"
     facebook_url: "https://www.facebook.com/Michael.G.Waltz.CandidateforCongressFL6/"
     twitter_handle: "michaelgwaltz"
     twitter_url: "https://twitter.com/michaelgwaltz"
@@ -5124,7 +5031,6 @@
     vacant: false
     bioguide: "M001202"
     thomas: null
-    govtrack: "412694"
     opensecrets: "N00040133"
     votesmart: "173426"
     fec: "H6FL07140"
@@ -5179,7 +5085,6 @@
     vacant: false
     bioguide: "P000599"
     thomas: "1915"
-    govtrack: "412309"
     opensecrets: "N00029662"
     votesmart: "24280"
     fec: "H8FL15107"
@@ -5234,7 +5139,6 @@
     vacant: false
     bioguide: "S001200"
     thomas: null
-    govtrack: "412695"
     opensecrets: "N00037422"
     votesmart: "67618"
     fec: "H6FL09179"
@@ -5289,7 +5193,6 @@
     vacant: false
     bioguide: "D000627"
     thomas: null
-    govtrack: "412696"
     opensecrets: "N00033449"
     votesmart: "137637"
     fec: "H2FL08063"
@@ -5344,7 +5247,6 @@
     vacant: false
     bioguide: "W000806"
     thomas: "2002"
-    govtrack: "412410"
     opensecrets: "N00026335"
     votesmart: "24302"
     fec: "H0FL08208"
@@ -5399,7 +5301,6 @@
     vacant: false
     bioguide: "B001257"
     thomas: "1838"
-    govtrack: "412250"
     opensecrets: "N00027462"
     votesmart: "17318"
     fec: "H6FL09070"
@@ -5454,7 +5355,6 @@
     vacant: false
     bioguide: "C001111"
     thomas: null
-    govtrack: "412697"
     opensecrets: "N00002942"
     votesmart: "24311"
     fec: "H6FL13205"
@@ -5509,7 +5409,6 @@
     vacant: false
     bioguide: "C001066"
     thomas: "1839"
-    govtrack: "412195"
     opensecrets: "N00027514"
     votesmart: "53825"
     fec: "H6FL11126"
@@ -5564,7 +5463,6 @@
     vacant: false
     bioguide: "S001210"
     thomas: null
-    govtrack: "412765"
     opensecrets: "N00043319"
     votesmart: "142164"
     fec: "H8FL15230"
@@ -5603,8 +5501,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://spano.house.gov"
+    contact_page: "https://spano.house.gov/contact"
     facebook_url: "https://www.facebook.com/RossSpano/"
     twitter_handle: "RossSpano"
     twitter_url: "https://twitter.com/RossSpano"
@@ -5619,7 +5517,6 @@
     vacant: false
     bioguide: "B001260"
     thomas: "1840"
-    govtrack: "412196"
     opensecrets: "N00027626"
     votesmart: "66247"
     fec: "H6FL13148"
@@ -5674,7 +5571,6 @@
     vacant: false
     bioguide: "S001214"
     thomas: null
-    govtrack: "412766"
     opensecrets: "N00042808"
     votesmart: "117248"
     fec: "H8FL17053"
@@ -5713,67 +5609,12 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://steube.house.gov"
+    contact_page: "https://steube.house.gov/contact"
     facebook_url: "https://www.facebook.com/GregSteube/"
     twitter_handle: "gregsteube"
     twitter_url: "https://twitter.com/gregsteube"
     photo_url: "https://cdn.civil.services/us-house/headshots/512x512/gregory-steube.jpg"
-  - 
-    state_name: "Florida"
-    state_name_slug: "florida"
-    state_code: "FL"
-    state_code_slug: "fl"
-    district: "19"
-    at_large: false
-    vacant: false
-    bioguide: "R000607"
-    thomas: null
-    govtrack: "412699"
-    opensecrets: "N00040007"
-    votesmart: "172678"
-    fec: "H6FL19087"
-    maplight: "2211"
-    wikidata: "Q5482337"
-    google_entity_id: null
-    title: "representative"
-    party: "republican"
-    name: "Francis Rooney"
-    name_slug: "francis-rooney"
-    first_name: "Francis"
-    middle_name: null
-    last_name: "Rooney"
-    name_suffix: null
-    goes_by: null
-    pronunciation: "FRANN-sis ROO-nee"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "roman-catholic"
-    openly_lgbtq: "no"
-    date_of_birth: "1953-12-04"
-    entered_office: "2017-01-03"
-    term_end: "2021-01-03"
-    biography: "Francis Rooney, a Representative from Florida; born in Tulsa, Tulsa County, Okla., December 4, 1953; graduated from Georgetown Preparatory School, North Bethesda, Md., 1971; A.B., Georgetown University, Washington, D.C., 1975; J.D., Georgetown University, Washington, D.C., 1978; business owner; United States Ambassador to the Holy See, 2005-2008; elected as a Republican to the One Hundred Fifteenth Congress (January 3, 2017-present)."
-    phone: "202-225-2536"
-    fax: null
-    latitude: "38.8863235"
-    longitude: "-77.011373"
-    address_complete: "2436 Rayburn Hob, Washington, DC 20515"
-    address_number: "2436"
-    address_prefix: null
-    address_street: "Rayburn Hob"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20515"
-    address_type: null
-    website: "https://francisrooney.house.gov"
-    contact_page: "https://francisrooney.house.gov/contact/email"
-    facebook_url: "https://www.facebook.com/Francis-Rooney-1630804517180066/"
-    twitter_handle: "FrancisRooney"
-    twitter_url: "https://twitter.com/FrancisRooney"
-    photo_url: "https://cdn.civil.services/us-house/headshots/512x512/francis-rooney.jpg"
   - 
     state_name: "Florida"
     state_name_slug: "florida"
@@ -5784,7 +5625,6 @@
     vacant: false
     bioguide: "M001199"
     thomas: null
-    govtrack: "412698"
     opensecrets: "N00037269"
     votesmart: "166245"
     fec: "H6FL18097"
@@ -5834,12 +5674,65 @@
     state_name_slug: "florida"
     state_code: "FL"
     state_code_slug: "fl"
+    district: "19"
+    at_large: false
+    vacant: false
+    bioguide: "R000607"
+    thomas: null
+    opensecrets: "N00040007"
+    votesmart: "172678"
+    fec: "H6FL19087"
+    maplight: "2211"
+    wikidata: "Q5482337"
+    google_entity_id: null
+    title: "representative"
+    party: "republican"
+    name: "Francis Rooney"
+    name_slug: "francis-rooney"
+    first_name: "Francis"
+    middle_name: null
+    last_name: "Rooney"
+    name_suffix: null
+    goes_by: null
+    pronunciation: "FRANN-sis ROO-nee"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "roman-catholic"
+    openly_lgbtq: "no"
+    date_of_birth: "1953-12-04"
+    entered_office: "2017-01-03"
+    term_end: "2021-01-03"
+    biography: "Francis Rooney, a Representative from Florida; born in Tulsa, Tulsa County, Okla., December 4, 1953; graduated from Georgetown Preparatory School, North Bethesda, Md., 1971; A.B., Georgetown University, Washington, D.C., 1975; J.D., Georgetown University, Washington, D.C., 1978; business owner; United States Ambassador to the Holy See, 2005-2008; elected as a Republican to the One Hundred Fifteenth Congress (January 3, 2017-present)."
+    phone: "202-225-2536"
+    fax: null
+    latitude: "38.8863235"
+    longitude: "-77.011373"
+    address_complete: "2436 Rayburn Hob, Washington, DC 20515"
+    address_number: "2436"
+    address_prefix: null
+    address_street: "Rayburn Hob"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20515"
+    address_type: null
+    website: "https://francisrooney.house.gov"
+    contact_page: "https://francisrooney.house.gov/contact/email"
+    facebook_url: "https://www.facebook.com/Francis-Rooney-1630804517180066/"
+    twitter_handle: "FrancisRooney"
+    twitter_url: "https://twitter.com/FrancisRooney"
+    photo_url: "https://cdn.civil.services/us-house/headshots/512x512/francis-rooney.jpg"
+  - 
+    state_name: "Florida"
+    state_name_slug: "florida"
+    state_code: "FL"
+    state_code_slug: "fl"
     district: "20"
     at_large: false
     vacant: false
     bioguide: "H000324"
     thomas: "511"
-    govtrack: "400170"
     opensecrets: "N00002884"
     votesmart: "26798"
     fec: "H2FL23021"
@@ -5894,7 +5787,6 @@
     vacant: false
     bioguide: "F000462"
     thomas: "2119"
-    govtrack: "412529"
     opensecrets: "N00002893"
     votesmart: "8102"
     fec: "H2FL14053"
@@ -5949,7 +5841,6 @@
     vacant: false
     bioguide: "D000610"
     thomas: "1976"
-    govtrack: "412385"
     opensecrets: "N00031317"
     votesmart: "67151"
     fec: "H0FL19080"
@@ -6004,7 +5895,6 @@
     vacant: false
     bioguide: "W000797"
     thomas: "1777"
-    govtrack: "400623"
     opensecrets: "N00026106"
     votesmart: "24301"
     fec: "H4FL20023"
@@ -6059,7 +5949,6 @@
     vacant: false
     bioguide: "W000808"
     thomas: "2004"
-    govtrack: "412412"
     opensecrets: "N00030650"
     votesmart: "17319"
     fec: "H0FL17068"
@@ -6114,7 +6003,6 @@
     vacant: false
     bioguide: "D000600"
     thomas: "1717"
-    govtrack: "400108"
     opensecrets: "N00025337"
     votesmart: "24312"
     fec: "H2FL25018"
@@ -6169,7 +6057,6 @@
     vacant: false
     bioguide: "M001207"
     thomas: null
-    govtrack: "412767"
     opensecrets: "N00041561"
     votesmart: "173449"
     fec: "H8FL26039"
@@ -6208,8 +6095,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://mucarsel-powell.house.gov"
+    contact_page: "https://mucarsel-powell.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -6224,7 +6111,6 @@
     vacant: false
     bioguide: "S001206"
     thomas: null
-    govtrack: "412768"
     opensecrets: "N00042811"
     votesmart: "182301"
     fec: "H8FL27193"
@@ -6263,8 +6149,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://shalala.house.gov"
+    contact_page: "https://shalala.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -6279,7 +6165,6 @@
     vacant: false
     bioguide: "C001103"
     thomas: "2236"
-    govtrack: "412622"
     opensecrets: "N00035346"
     votesmart: "32085"
     fec: "H4GA01039"
@@ -6334,7 +6219,6 @@
     vacant: false
     bioguide: "B000490"
     thomas: "91"
-    govtrack: "400030"
     opensecrets: "N00002674"
     votesmart: "26817"
     fec: "H2GA02031"
@@ -6389,7 +6273,6 @@
     vacant: false
     bioguide: "F000465"
     thomas: null
-    govtrack: "412700"
     opensecrets: "N00039090"
     votesmart: "168132"
     fec: "H6GA03113"
@@ -6444,7 +6327,6 @@
     vacant: false
     bioguide: "J000288"
     thomas: "1843"
-    govtrack: "412199"
     opensecrets: "N00027848"
     votesmart: "68070"
     fec: "H6GA04129"
@@ -6499,7 +6381,6 @@
     vacant: false
     bioguide: "L000287"
     thomas: "688"
-    govtrack: "400240"
     opensecrets: "N00002577"
     votesmart: "26820"
     fec: "H6GA05217"
@@ -6554,7 +6435,6 @@
     vacant: false
     bioguide: "M001208"
     thomas: null
-    govtrack: "412769"
     opensecrets: "N00042813"
     votesmart: "178538"
     fec: "H8GA06393"
@@ -6593,8 +6473,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://mcbath.house.gov"
+    contact_page: "https://mcbath.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -6609,7 +6489,6 @@
     vacant: false
     bioguide: "W000810"
     thomas: "2008"
-    govtrack: "412416"
     opensecrets: "N00032416"
     votesmart: "122251"
     fec: "H0GA07133"
@@ -6664,7 +6543,6 @@
     vacant: false
     bioguide: "S001189"
     thomas: "2009"
-    govtrack: "412417"
     opensecrets: "N00032457"
     votesmart: "11812"
     fec: "H0GA08099"
@@ -6719,7 +6597,6 @@
     vacant: false
     bioguide: "C001093"
     thomas: "2121"
-    govtrack: "412531"
     opensecrets: "N00033518"
     votesmart: "67851"
     fec: "H2GA09150"
@@ -6774,7 +6651,6 @@
     vacant: false
     bioguide: "H001071"
     thomas: "2237"
-    govtrack: "412623"
     opensecrets: "N00032243"
     votesmart: "122246"
     fec: "H0GA07125"
@@ -6829,7 +6705,6 @@
     vacant: false
     bioguide: "L000583"
     thomas: "2238"
-    govtrack: "412624"
     opensecrets: "N00035347"
     votesmart: "31618"
     fec: "H4GA11061"
@@ -6884,7 +6759,6 @@
     vacant: false
     bioguide: "A000372"
     thomas: "2239"
-    govtrack: "412625"
     opensecrets: "N00033720"
     votesmart: "136062"
     fec: "H2GA12121"
@@ -6939,7 +6813,6 @@
     vacant: false
     bioguide: "S001157"
     thomas: "1722"
-    govtrack: "400363"
     opensecrets: "N00024871"
     votesmart: "7826"
     fec: "H2GA13012"
@@ -6994,7 +6867,6 @@
     vacant: false
     bioguide: "G000560"
     thomas: "1979"
-    govtrack: "412388"
     opensecrets: "N00030788"
     votesmart: "31969"
     fec: "H0GA09030"
@@ -7049,7 +6921,6 @@
     vacant: false
     bioguide: "C001055"
     thomas: null
-    govtrack: "400069"
     opensecrets: "N00025882"
     votesmart: "3422"
     fec: "H2HI02128"
@@ -7088,8 +6959,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://case.house.gov/"
+    contact_page: "https://case.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -7104,7 +6975,6 @@
     vacant: false
     bioguide: "G000571"
     thomas: "2122"
-    govtrack: "412532"
     opensecrets: "N00033281"
     votesmart: "129306"
     fec: "H2HI02508"
@@ -7159,7 +7029,6 @@
     vacant: false
     bioguide: "F000467"
     thomas: null
-    govtrack: "412771"
     opensecrets: "N00040888"
     votesmart: "151127"
     fec: "H8IA01094"
@@ -7198,8 +7067,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://finkenauer.house.gov/"
+    contact_page: "https://finkenauer.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -7214,7 +7083,6 @@
     vacant: false
     bioguide: "L000565"
     thomas: "1846"
-    govtrack: "412209"
     opensecrets: "N00027741"
     votesmart: "68964"
     fec: "H6IA02146"
@@ -7269,7 +7137,6 @@
     vacant: false
     bioguide: "A000378"
     thomas: null
-    govtrack: "412772"
     opensecrets: "N00041104"
     votesmart: "179226"
     fec: "H8IA03124"
@@ -7308,8 +7175,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://axne.house.gov/"
+    contact_page: "https://axne.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -7324,7 +7191,6 @@
     vacant: false
     bioguide: "K000362"
     thomas: "1724"
-    govtrack: "400220"
     opensecrets: "N00025237"
     votesmart: "10853"
     fec: "H2IA05072"
@@ -7379,7 +7245,6 @@
     vacant: false
     bioguide: "F000469"
     thomas: null
-    govtrack: "412773"
     opensecrets: "N00041335"
     votesmart: "33091"
     fec: "H8ID01124"
@@ -7418,8 +7283,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://fulcher.house.gov/"
+    contact_page: "https://fulcher.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -7434,7 +7299,6 @@
     vacant: false
     bioguide: "S001148"
     thomas: "1590"
-    govtrack: "400376"
     opensecrets: "N00006263"
     votesmart: "2917"
     fec: "H8ID02064"
@@ -7489,7 +7353,6 @@
     vacant: false
     bioguide: "R000515"
     thomas: "1003"
-    govtrack: "400350"
     opensecrets: "N00004887"
     votesmart: "26831"
     fec: "H2IL01042"
@@ -7544,7 +7407,6 @@
     vacant: false
     bioguide: "K000385"
     thomas: "2190"
-    govtrack: "412595"
     opensecrets: "N00035215"
     votesmart: "33384"
     fec: "H2IL02172"
@@ -7599,7 +7461,6 @@
     vacant: false
     bioguide: "L000563"
     thomas: "1781"
-    govtrack: "400630"
     opensecrets: "N00027239"
     votesmart: "33692"
     fec: "H4IL03077"
@@ -7654,7 +7515,6 @@
     vacant: false
     bioguide: "G000586"
     thomas: null
-    govtrack: "412774"
     opensecrets: "N00042114"
     votesmart: "6261"
     fec: "H8IL04134"
@@ -7693,8 +7553,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://jesusgarcia.house.gov/"
+    contact_page: "https://jesusgarcia.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -7709,7 +7569,6 @@
     vacant: false
     bioguide: "Q000023"
     thomas: "1967"
-    govtrack: "412331"
     opensecrets: "N00030581"
     votesmart: "83310"
     fec: "H0IL05096"
@@ -7764,7 +7623,6 @@
     vacant: false
     bioguide: "C001117"
     thomas: null
-    govtrack: "412775"
     opensecrets: "N00041338"
     votesmart: "176982"
     fec: "H8IL06139"
@@ -7803,8 +7661,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://casten.house.gov/"
+    contact_page: "https://casten.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -7819,7 +7677,6 @@
     vacant: false
     bioguide: "D000096"
     thomas: "1477"
-    govtrack: "400093"
     opensecrets: "N00004884"
     votesmart: "233"
     fec: "H4IL07037"
@@ -7874,7 +7731,6 @@
     vacant: false
     bioguide: "K000391"
     thomas: null
-    govtrack: "412701"
     opensecrets: "N00033240"
     votesmart: "117519"
     fec: "H6IL08147"
@@ -7929,7 +7785,6 @@
     vacant: false
     bioguide: "S001145"
     thomas: "1588"
-    govtrack: "400360"
     opensecrets: "N00004724"
     votesmart: "6387"
     fec: "H8IL09067"
@@ -7984,7 +7839,6 @@
     vacant: false
     bioguide: "S001190"
     thomas: "2124"
-    govtrack: "412534"
     opensecrets: "N00033101"
     votesmart: "134948"
     fec: "H2IL10068"
@@ -8039,7 +7893,6 @@
     vacant: false
     bioguide: "F000454"
     thomas: "1888"
-    govtrack: "412257"
     opensecrets: "N00029139"
     votesmart: "101632"
     fec: "H8IL14067"
@@ -8094,7 +7947,6 @@
     vacant: false
     bioguide: "B001295"
     thomas: "2243"
-    govtrack: "412629"
     opensecrets: "N00035420"
     votesmart: null
     fec: "H4IL12060"
@@ -8149,7 +8001,6 @@
     vacant: false
     bioguide: "D000619"
     thomas: "2126"
-    govtrack: "412536"
     opensecrets: "N00034784"
     votesmart: "9622"
     fec: "H2IL13120"
@@ -8204,7 +8055,6 @@
     vacant: false
     bioguide: "U000040"
     thomas: null
-    govtrack: "412776"
     opensecrets: "N00041569"
     votesmart: "177001"
     fec: "H8IL14174"
@@ -8243,8 +8093,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://underwood.house.gov/"
+    contact_page: "https://underwood.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -8259,7 +8109,6 @@
     vacant: false
     bioguide: "S000364"
     thomas: "1527"
-    govtrack: "400373"
     opensecrets: "N00004961"
     votesmart: "246"
     fec: "H2IL20042"
@@ -8314,7 +8163,6 @@
     vacant: false
     bioguide: "K000378"
     thomas: "2014"
-    govtrack: "412421"
     opensecrets: "N00030667"
     votesmart: "116559"
     fec: "H0IL11052"
@@ -8369,7 +8217,6 @@
     vacant: false
     bioguide: "B001286"
     thomas: "2127"
-    govtrack: "412537"
     opensecrets: "N00033390"
     votesmart: "134964"
     fec: "H2IL17071"
@@ -8424,7 +8271,6 @@
     vacant: false
     bioguide: "L000585"
     thomas: "2295"
-    govtrack: "412674"
     opensecrets: "N00037031"
     votesmart: "128760"
     fec: "H6IL18088"
@@ -8479,7 +8325,6 @@
     vacant: false
     bioguide: "V000108"
     thomas: "1188"
-    govtrack: "400417"
     opensecrets: "N00003813"
     votesmart: "26851"
     fec: "H4IN01012"
@@ -8534,7 +8379,6 @@
     vacant: false
     bioguide: "W000813"
     thomas: "2128"
-    govtrack: "412538"
     opensecrets: "N00031226"
     votesmart: "34205"
     fec: "H0IN02190"
@@ -8589,7 +8433,6 @@
     vacant: false
     bioguide: "B001299"
     thomas: null
-    govtrack: "412702"
     opensecrets: "N00037185"
     votesmart: "116801"
     fec: "H6IN03229"
@@ -8644,7 +8487,6 @@
     vacant: false
     bioguide: "B001307"
     thomas: null
-    govtrack: "412777"
     opensecrets: "N00041954"
     votesmart: "86013"
     fec: "H8IN04199"
@@ -8683,8 +8525,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://baird.house.gov/"
+    contact_page: "https://baird.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -8699,7 +8541,6 @@
     vacant: false
     bioguide: "B001284"
     thomas: "2129"
-    govtrack: "412539"
     opensecrets: "N00033495"
     votesmart: "135988"
     fec: "H2IN05082"
@@ -8754,7 +8595,6 @@
     vacant: false
     bioguide: "P000615"
     thomas: null
-    govtrack: "412778"
     opensecrets: "N00041956"
     votesmart: "177876"
     fec: "H8IN06129"
@@ -8793,8 +8633,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://pence.house.gov/"
+    contact_page: "https://pence.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -8809,7 +8649,6 @@
     vacant: false
     bioguide: "C001072"
     thomas: "1889"
-    govtrack: "412258"
     opensecrets: "N00029513"
     votesmart: "84917"
     fec: "H8IN07184"
@@ -8859,67 +8698,11 @@
     state_name_slug: "indiana"
     state_code: "IN"
     state_code_slug: "in"
-    district: "8"
-    at_large: false
-    vacant: false
-    bioguide: "B001275"
-    thomas: "2018"
-    govtrack: "412427"
-    opensecrets: "N00031227"
-    votesmart: "120335"
-    fec: "H0IN08114"
-    maplight: "1438"
-    wikidata: "Q944286"
-    google_entity_id: "kg:/m/0dd9k_y"
-    title: "representative"
-    party: "republican"
-    name: "Larry Bucshon"
-    name_slug: "larry-bucshon"
-    first_name: "Larry"
-    middle_name: null
-    last_name: "Bucshon"
-    name_suffix: null
-    goes_by: null
-    pronunciation: "LAIR-ee boo-SHAHN"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "lutheran"
-    openly_lgbtq: "no"
-    date_of_birth: "1962-05-31"
-    entered_office: "2011-01-05"
-    term_end: "2021-01-03"
-    biography: "Larry Bucshon, a Representative from Indiana; born in Taylorville, Bartholomew County, Ill., May 31, 1962; B.S., University of Illinois, Urbana-Champaign, Ill., 1984; M.D., University of Illinois, Chicago, Ill., 1988; physician; United States Navy Reserve, 1989-1998; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present)."
-    phone: "202-225-4636"
-    fax: "202-225-3284"
-    latitude: "38.8863235"
-    longitude: "-77.011373"
-    address_complete: "2436 Rayburn Hob, Washington, DC 20515"
-    address_number: "2436"
-    address_prefix: null
-    address_street: "Rayburn Hob"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20515"
-    address_type: null
-    website: "https://bucshon.house.gov"
-    contact_page: "https://bucshon.house.gov/contact"
-    facebook_url: "https://www.facebook.com/RepLarryBucshon/"
-    twitter_handle: "RepLarryBucshon"
-    twitter_url: "https://twitter.com/RepLarryBucshon"
-    photo_url: "https://cdn.civil.services/us-house/headshots/512x512/larry-bucshon.jpg"
-  - 
-    state_name: "Indiana"
-    state_name_slug: "indiana"
-    state_code: "IN"
-    state_code_slug: "in"
     district: "9"
     at_large: false
     vacant: false
     bioguide: "H001074"
     thomas: null
-    govtrack: "412703"
     opensecrets: "N00038429"
     votesmart: "167423"
     fec: "H6IN09176"
@@ -8974,7 +8757,6 @@
     vacant: false
     bioguide: "M001198"
     thomas: null
-    govtrack: "412704"
     opensecrets: "N00037034"
     votesmart: "172080"
     fec: "H6KS01179"
@@ -9029,7 +8811,6 @@
     vacant: false
     bioguide: "W000824"
     thomas: null
-    govtrack: "412779"
     opensecrets: "N00042126"
     votesmart: "181200"
     fec: "H8KS02199"
@@ -9068,12 +8849,66 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://watkins.house.gov/"
+    contact_page: "https://watkins.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
     photo_url: "https://cdn.civil.services/us-house/headshots/512x512/steven-watkins.jpg"
+  - 
+    state_name: "Indiana"
+    state_name_slug: "indiana"
+    state_code: "IN"
+    state_code_slug: "in"
+    district: "8"
+    at_large: false
+    vacant: false
+    bioguide: "B001275"
+    thomas: "2018"
+    opensecrets: "N00031227"
+    votesmart: "120335"
+    fec: "H0IN08114"
+    maplight: "1438"
+    wikidata: "Q944286"
+    google_entity_id: "kg:/m/0dd9k_y"
+    title: "representative"
+    party: "republican"
+    name: "Larry Bucshon"
+    name_slug: "larry-bucshon"
+    first_name: "Larry"
+    middle_name: null
+    last_name: "Bucshon"
+    name_suffix: null
+    goes_by: null
+    pronunciation: "LAIR-ee boo-SHAHN"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "lutheran"
+    openly_lgbtq: "no"
+    date_of_birth: "1962-05-31"
+    entered_office: "2011-01-05"
+    term_end: "2021-01-03"
+    biography: "Larry Bucshon, a Representative from Indiana; born in Taylorville, Bartholomew County, Ill., May 31, 1962; B.S., University of Illinois, Urbana-Champaign, Ill., 1984; M.D., University of Illinois, Chicago, Ill., 1988; physician; United States Navy Reserve, 1989-1998; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present)."
+    phone: "202-225-4636"
+    fax: "202-225-3284"
+    latitude: "38.8863235"
+    longitude: "-77.011373"
+    address_complete: "2436 Rayburn Hob, Washington, DC 20515"
+    address_number: "2436"
+    address_prefix: null
+    address_street: "Rayburn Hob"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20515"
+    address_type: null
+    website: "https://bucshon.house.gov"
+    contact_page: "https://bucshon.house.gov/contact"
+    facebook_url: "https://www.facebook.com/RepLarryBucshon/"
+    twitter_handle: "RepLarryBucshon"
+    twitter_url: "https://twitter.com/RepLarryBucshon"
+    photo_url: "https://cdn.civil.services/us-house/headshots/512x512/larry-bucshon.jpg"
   - 
     state_name: "Kansas"
     state_name_slug: "kansas"
@@ -9084,7 +8919,6 @@
     vacant: false
     bioguide: "D000629"
     thomas: null
-    govtrack: "412780"
     opensecrets: "N00042626"
     votesmart: "181201"
     fec: "H8KS03155"
@@ -9102,7 +8936,7 @@
     goes_by: null
     pronunciation: "SHA-rees DAY-vidz"
     gender: "female"
-    ethnicity: "white-american"
+    ethnicity: "native-american"
     religion: "unspecified"
     openly_lgbtq: "no"
     date_of_birth: "1980-05-22"
@@ -9123,8 +8957,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://davids.house.gov/"
+    contact_page: "https://davids.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -9139,7 +8973,6 @@
     vacant: false
     bioguide: "E000298"
     thomas: null
-    govtrack: "412735"
     opensecrets: "N00040712"
     votesmart: "125031"
     fec: "H8KS04112"
@@ -9194,7 +9027,6 @@
     vacant: false
     bioguide: "C001108"
     thomas: null
-    govtrack: "412676"
     opensecrets: "N00038260"
     votesmart: "35169"
     fec: "H6KY01110"
@@ -9249,7 +9081,6 @@
     vacant: false
     bioguide: "G000558"
     thomas: "1922"
-    govtrack: "412278"
     opensecrets: "N00029675"
     votesmart: "18829"
     fec: "H8KY02031"
@@ -9304,7 +9135,6 @@
     vacant: false
     bioguide: "Y000062"
     thomas: "1853"
-    govtrack: "412211"
     opensecrets: "N00028073"
     votesmart: "58579"
     fec: "H6KY03124"
@@ -9359,7 +9189,6 @@
     vacant: false
     bioguide: "M001184"
     thomas: "2094"
-    govtrack: "412503"
     opensecrets: "N00034041"
     votesmart: "132068"
     fec: "H2KY04121"
@@ -9414,7 +9243,6 @@
     vacant: false
     bioguide: "R000395"
     thomas: "977"
-    govtrack: "400340"
     opensecrets: "N00003473"
     votesmart: "26875"
     fec: "H0KY05015"
@@ -9469,7 +9297,6 @@
     vacant: false
     bioguide: "B001282"
     thomas: "2131"
-    govtrack: "412541"
     opensecrets: "N00031233"
     votesmart: "117290"
     fec: "H0KY06104"
@@ -9524,14 +9351,13 @@
     vacant: false
     bioguide: "S001176"
     thomas: "1892"
-    govtrack: "412261"
     opensecrets: "N00009660"
     votesmart: "9026"
     fec: "H0LA01087"
     maplight: "742"
     wikidata: "Q1857141"
     google_entity_id: "kg:/m/0br34c"
-    title: "house_minority_whip"
+    title: "house-minority-whip"
     party: "republican"
     name: "Steve Scalise"
     name_slug: "steve-scalise"
@@ -9579,7 +9405,6 @@
     vacant: false
     bioguide: "R000588"
     thomas: "2023"
-    govtrack: "412432"
     opensecrets: "N00030184"
     votesmart: "35384"
     fec: "H8LA02054"
@@ -9634,7 +9459,6 @@
     vacant: false
     bioguide: "H001077"
     thomas: null
-    govtrack: "412705"
     opensecrets: "N00039953"
     votesmart: "174484"
     fec: "H6LA03148"
@@ -9653,7 +9477,7 @@
     pronunciation: "KLAY HIG-inz"
     gender: "male"
     ethnicity: "white-american"
-    religion: null
+    religion: "christian"
     openly_lgbtq: "no"
     date_of_birth: "1961-08-24"
     entered_office: "2017-01-03"
@@ -9689,7 +9513,6 @@
     vacant: false
     bioguide: "J000299"
     thomas: null
-    govtrack: "412706"
     opensecrets: "N00039106"
     votesmart: "156097"
     fec: "H6LA04138"
@@ -9744,7 +9567,6 @@
     vacant: false
     bioguide: "A000374"
     thomas: "2244"
-    govtrack: "412630"
     opensecrets: "N00036633"
     votesmart: "155414"
     fec: "H4LA05221"
@@ -9799,7 +9621,6 @@
     vacant: false
     bioguide: "G000577"
     thomas: "2245"
-    govtrack: "412631"
     opensecrets: "N00036135"
     votesmart: "155424"
     fec: "H4LA06153"
@@ -9854,7 +9675,6 @@
     vacant: false
     bioguide: "N000015"
     thomas: "854"
-    govtrack: "400291"
     opensecrets: "N00000153"
     votesmart: "26895"
     fec: "H8MA02041"
@@ -9909,7 +9729,6 @@
     vacant: false
     bioguide: "M000312"
     thomas: "1504"
-    govtrack: "400263"
     opensecrets: "N00000179"
     votesmart: "552"
     fec: "H4MA03022"
@@ -9964,7 +9783,6 @@
     vacant: false
     bioguide: "T000482"
     thomas: null
-    govtrack: "412781"
     opensecrets: "N00041808"
     votesmart: "182310"
     fec: "H8MA03106"
@@ -10003,8 +9821,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://trahan.house.gov/"
+    contact_page: "https://trahan.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -10019,7 +9837,6 @@
     vacant: false
     bioguide: "K000379"
     thomas: "2172"
-    govtrack: "412543"
     opensecrets: "N00034044"
     votesmart: "141275"
     fec: "H2MA04073"
@@ -10074,7 +9891,6 @@
     vacant: false
     bioguide: "C001101"
     thomas: "2196"
-    govtrack: "412600"
     opensecrets: "N00035278"
     votesmart: "35858"
     fec: "H4MA05084"
@@ -10129,7 +9945,6 @@
     vacant: false
     bioguide: "M001196"
     thomas: "2246"
-    govtrack: "412632"
     opensecrets: "N00035431"
     votesmart: "146299"
     fec: "H4MA06090"
@@ -10184,7 +9999,6 @@
     vacant: false
     bioguide: "P000617"
     thomas: null
-    govtrack: "412782"
     opensecrets: "N00042581"
     votesmart: "122700"
     fec: "H8MA07032"
@@ -10223,8 +10037,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://pressley.house.gov/"
+    contact_page: "https://pressley.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -10239,7 +10053,6 @@
     vacant: false
     bioguide: "L000562"
     thomas: "1686"
-    govtrack: "400249"
     opensecrets: "N00013855"
     votesmart: "4844"
     fec: "H2MA09072"
@@ -10294,7 +10107,6 @@
     vacant: false
     bioguide: "K000375"
     thomas: "2025"
-    govtrack: "412435"
     opensecrets: "N00031933"
     votesmart: "4743"
     fec: "H0MA10082"
@@ -10349,7 +10161,6 @@
     vacant: false
     bioguide: "H001052"
     thomas: "2026"
-    govtrack: "412434"
     opensecrets: "N00029147"
     votesmart: "19157"
     fec: "H8MD01094"
@@ -10404,7 +10215,6 @@
     vacant: false
     bioguide: "R000576"
     thomas: "1728"
-    govtrack: "400349"
     opensecrets: "N00025482"
     votesmart: "36130"
     fec: "H2MD02160"
@@ -10459,7 +10269,6 @@
     vacant: false
     bioguide: "S001168"
     thomas: "1854"
-    govtrack: "412212"
     opensecrets: "N00027751"
     votesmart: "66575"
     fec: "H6MD03292"
@@ -10514,7 +10323,6 @@
     vacant: false
     bioguide: "B001304"
     thomas: null
-    govtrack: "412707"
     opensecrets: "N00036999"
     votesmart: "19344"
     fec: "H6MD04209"
@@ -10569,14 +10377,13 @@
     vacant: false
     bioguide: "H000874"
     thomas: "566"
-    govtrack: "400189"
     opensecrets: "N00001821"
     votesmart: "26890"
     fec: "H2MD05155"
     maplight: "293"
     wikidata: "Q516515"
     google_entity_id: "kg:/m/025k5p"
-    title: "house_majority_leader"
+    title: "house-majority-leader"
     party: "democrat"
     name: "Steny Hoyer"
     name_slug: "steny-hoyer"
@@ -10624,7 +10431,6 @@
     vacant: false
     bioguide: "T000483"
     thomas: null
-    govtrack: "412783"
     opensecrets: "N00039122"
     votesmart: "167336"
     fec: "H8MD06168"
@@ -10663,8 +10469,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://trone.house.gov/"
+    contact_page: "https://trone.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -10679,7 +10485,6 @@
     vacant: false
     bioguide: "C000984"
     thomas: "256"
-    govtrack: "400090"
     opensecrets: "N00001971"
     votesmart: "345"
     fec: "H6MD07160"
@@ -10734,7 +10539,6 @@
     vacant: false
     bioguide: "R000606"
     thomas: null
-    govtrack: "412708"
     opensecrets: "N00037036"
     votesmart: "65904"
     fec: "H6MD08457"
@@ -10789,7 +10593,6 @@
     vacant: false
     bioguide: "P000597"
     thomas: "1927"
-    govtrack: "412307"
     opensecrets: "N00013817"
     votesmart: "6586"
     fec: "H8ME01120"
@@ -10844,7 +10647,6 @@
     vacant: false
     bioguide: "G000592"
     thomas: null
-    govtrack: null
     opensecrets: "N00041668"
     votesmart: "151420"
     fec: "H8ME02185"
@@ -10883,8 +10685,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://golden.house.gov/"
+    contact_page: "https://golden.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -10899,7 +10701,6 @@
     vacant: false
     bioguide: "B001301"
     thomas: null
-    govtrack: "412709"
     opensecrets: "N00039533"
     votesmart: "170172"
     fec: "H6MI01226"
@@ -10918,7 +10719,7 @@
     pronunciation: "JACK BERG-muhn"
     gender: "male"
     ethnicity: "white-american"
-    religion: null
+    religion: "unspecified"
     openly_lgbtq: "no"
     date_of_birth: "1947-02-02"
     entered_office: "2017-01-03"
@@ -10954,7 +10755,6 @@
     vacant: false
     bioguide: "H001058"
     thomas: "2028"
-    govtrack: "412437"
     opensecrets: "N00030673"
     votesmart: "38351"
     fec: "H0MI02094"
@@ -11009,7 +10809,6 @@
     vacant: false
     bioguide: "A000367"
     thomas: "2029"
-    govtrack: "412438"
     opensecrets: "N00031938"
     votesmart: "105566"
     fec: "H0MI03126"
@@ -11064,7 +10863,6 @@
     vacant: false
     bioguide: "M001194"
     thomas: "2248"
-    govtrack: "412634"
     opensecrets: "N00036275"
     votesmart: "37676"
     fec: "H4MI04126"
@@ -11119,7 +10917,6 @@
     vacant: false
     bioguide: "K000380"
     thomas: "2134"
-    govtrack: "412546"
     opensecrets: "N00033395"
     votesmart: "136102"
     fec: "H2MI05119"
@@ -11174,7 +10971,6 @@
     vacant: false
     bioguide: "U000031"
     thomas: "1177"
-    govtrack: "400414"
     opensecrets: "N00004133"
     votesmart: "26906"
     fec: "H6MI04113"
@@ -11229,7 +11025,6 @@
     vacant: false
     bioguide: "W000798"
     thomas: "1855"
-    govtrack: "412213"
     opensecrets: "N00026368"
     votesmart: "8618"
     fec: "H4MI07103"
@@ -11284,7 +11079,6 @@
     vacant: false
     bioguide: "L000592"
     thomas: null
-    govtrack: "412785"
     opensecrets: "N00042149"
     votesmart: "66287"
     fec: "H8MI09118"
@@ -11323,8 +11117,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://andylevin.house.gov/"
+    contact_page: "https://andylevin.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -11339,7 +11133,6 @@
     vacant: false
     bioguide: "S001208"
     thomas: null
-    govtrack: "412784"
     opensecrets: "N00041357"
     votesmart: "181080"
     fec: "H8MI08102"
@@ -11378,8 +11171,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://slotkin.house.gov/"
+    contact_page: "https://slotkin.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -11394,7 +11187,6 @@
     vacant: false
     bioguide: "M001201"
     thomas: null
-    govtrack: "412710"
     opensecrets: "N00036274"
     votesmart: "152464"
     fec: "H4MI04118"
@@ -11413,7 +11205,7 @@
     pronunciation: "PAWL MIT-chuhl"
     gender: "male"
     ethnicity: "white-american"
-    religion: null
+    religion: "unspecified"
     openly_lgbtq: "no"
     date_of_birth: "1961-05-08"
     entered_office: "2017-01-03"
@@ -11444,12 +11236,65 @@
     state_name_slug: "michigan"
     state_code: "MI"
     state_code_slug: "mi"
+    district: "11"
+    at_large: false
+    vacant: false
+    bioguide: "S001215"
+    thomas: null
+    opensecrets: "N00040915"
+    votesmart: "181092"
+    fec: "H8MI11254"
+    maplight: null
+    wikidata: null
+    google_entity_id: null
+    title: "representative"
+    party: "democrat"
+    name: "Haley Stevens"
+    name_slug: "haley-stevens"
+    first_name: "Haley"
+    middle_name: "M."
+    last_name: "Stevens"
+    name_suffix: null
+    goes_by: null
+    pronunciation: "HAY-lee STEE-vens"
+    gender: "female"
+    ethnicity: "white-american"
+    religion: "unspecified"
+    openly_lgbtq: "no"
+    date_of_birth: "1983-06-24"
+    entered_office: "2019-01-03"
+    term_end: "2021-01-03"
+    biography: "Haley Stevens is the Democratic representative from Michigan's 11th Congressional District in the U.S. House. Stevens was elected to the office on November 6, 2018."
+    phone: "202-225-8171"
+    fax: null
+    latitude: "38.8863235"
+    longitude: "-77.011373"
+    address_complete: "227 Cannon House Office Building, Washington, DC 20003"
+    address_number: "227"
+    address_prefix: null
+    address_street: "Cannon House Office"
+    address_sec_unit_type: "Building"
+    address_sec_unit_num: "Washingto"
+    address_city: "n"
+    address_state: "DC"
+    address_zipcode: "20003"
+    address_type: null
+    website: "https://stevens.house.gov/"
+    contact_page: "https://stevens.house.gov/contact"
+    facebook_url: null
+    twitter_handle: null
+    twitter_url: null
+    photo_url: "https://cdn.civil.services/us-house/headshots/512x512/haley-stevens.jpg"
+  - 
+    state_name: "Michigan"
+    state_name_slug: "michigan"
+    state_code: "MI"
+    state_code_slug: "mi"
     district: "12"
     at_large: false
     vacant: false
     bioguide: "D000624"
     thomas: "2251"
-    govtrack: "412637"
     opensecrets: "N00036149"
     votesmart: "152482"
     fec: "H4MI12079"
@@ -11499,67 +11344,11 @@
     state_name_slug: "michigan"
     state_code: "MI"
     state_code_slug: "mi"
-    district: "11"
-    at_large: false
-    vacant: false
-    bioguide: "S001215"
-    thomas: null
-    govtrack: "412786"
-    opensecrets: "N00040915"
-    votesmart: "181092"
-    fec: "H8MI11254"
-    maplight: null
-    wikidata: null
-    google_entity_id: null
-    title: "representative"
-    party: "democrat"
-    name: "Haley Stevens"
-    name_slug: "haley-stevens"
-    first_name: "Haley"
-    middle_name: "M."
-    last_name: "Stevens"
-    name_suffix: null
-    goes_by: null
-    pronunciation: "HAY-lee STEE-vens"
-    gender: "female"
-    ethnicity: "white-american"
-    religion: "unspecified"
-    openly_lgbtq: "no"
-    date_of_birth: "1983-06-24"
-    entered_office: "2019-01-03"
-    term_end: "2021-01-03"
-    biography: "Haley Stevens is the Democratic representative from Michigan's 11th Congressional District in the U.S. House. Stevens was elected to the office on November 6, 2018."
-    phone: "202-225-8171"
-    fax: null
-    latitude: "38.8863235"
-    longitude: "-77.011373"
-    address_complete: "227 Cannon House Office Building, Washington, DC 20003"
-    address_number: "227"
-    address_prefix: null
-    address_street: "Cannon House Office"
-    address_sec_unit_type: "Building"
-    address_sec_unit_num: "Washingto"
-    address_city: "n"
-    address_state: "DC"
-    address_zipcode: "20003"
-    address_type: null
-    website: null
-    contact_page: null
-    facebook_url: null
-    twitter_handle: null
-    twitter_url: null
-    photo_url: "https://cdn.civil.services/us-house/headshots/512x512/haley-stevens.jpg"
-  - 
-    state_name: "Michigan"
-    state_name_slug: "michigan"
-    state_code: "MI"
-    state_code_slug: "mi"
     district: "13"
     at_large: false
     vacant: false
     bioguide: "T000481"
     thomas: null
-    govtrack: "412787"
     opensecrets: "N00042649"
     votesmart: "105368"
     fec: "H8MI13250"
@@ -11598,8 +11387,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://tlaib.house.gov/"
+    contact_page: "https://tlaib.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -11614,7 +11403,6 @@
     vacant: false
     bioguide: "L000581"
     thomas: "2252"
-    govtrack: "412638"
     opensecrets: "N00034068"
     votesmart: "78851"
     fec: "H2MI14111"
@@ -11669,7 +11457,6 @@
     vacant: false
     bioguide: "H001088"
     thomas: null
-    govtrack: "412788"
     opensecrets: "N00031390"
     votesmart: "146027"
     fec: "H0MN01045"
@@ -11708,8 +11495,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://hagedorn.house.gov/"
+    contact_page: "https://hagedorn.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -11724,7 +11511,6 @@
     vacant: false
     bioguide: "C001119"
     thomas: null
-    govtrack: "412789"
     opensecrets: "N00037039"
     votesmart: "166261"
     fec: "H6MN02131"
@@ -11763,8 +11549,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://craig.house.gov/"
+    contact_page: "https://craig.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -11779,7 +11565,6 @@
     vacant: false
     bioguide: "P000616"
     thomas: null
-    govtrack: "412790"
     opensecrets: "N00041134"
     votesmart: "181357"
     fec: "H8MN03143"
@@ -11818,8 +11603,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://phillips.house.gov/"
+    contact_page: "https://phillips.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -11834,7 +11619,6 @@
     vacant: false
     bioguide: "M001143"
     thomas: "1653"
-    govtrack: "400259"
     opensecrets: "N00012942"
     votesmart: "3812"
     fec: "H0MN04049"
@@ -11889,7 +11673,6 @@
     vacant: false
     bioguide: "O000173"
     thomas: null
-    govtrack: "412791"
     opensecrets: "N00043581"
     votesmart: "171628"
     fec: "H8MN05239"
@@ -11928,8 +11711,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://omar.house.gov/"
+    contact_page: "https://omar.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -11944,7 +11727,6 @@
     vacant: false
     bioguide: "E000294"
     thomas: "2253"
-    govtrack: "412639"
     opensecrets: "N00035440"
     votesmart: "38894"
     fec: "H4MN06087"
@@ -11999,7 +11781,6 @@
     vacant: false
     bioguide: "P000258"
     thomas: "910"
-    govtrack: "400316"
     opensecrets: "N00004558"
     votesmart: "26926"
     fec: "H2MN07014"
@@ -12054,7 +11835,6 @@
     vacant: false
     bioguide: "S001212"
     thomas: null
-    govtrack: "412792"
     opensecrets: "N00041511"
     votesmart: "159954"
     fec: "H8MN08043"
@@ -12093,8 +11873,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://stauber.house.gov/"
+    contact_page: "https://stauber.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -12109,7 +11889,6 @@
     vacant: false
     bioguide: "C001049"
     thomas: "1654"
-    govtrack: "400074"
     opensecrets: "N00012460"
     votesmart: "8967"
     fec: "H0MO01066"
@@ -12164,7 +11943,6 @@
     vacant: false
     bioguide: "W000812"
     thomas: "2137"
-    govtrack: "412548"
     opensecrets: "N00033106"
     votesmart: "136083"
     fec: "H2MO02102"
@@ -12219,7 +11997,6 @@
     vacant: false
     bioguide: "L000569"
     thomas: "1931"
-    govtrack: "412292"
     opensecrets: "N00030026"
     votesmart: "20400"
     fec: "H8MO09153"
@@ -12274,7 +12051,6 @@
     vacant: false
     bioguide: "H001053"
     thomas: "2032"
-    govtrack: "412444"
     opensecrets: "N00031005"
     votesmart: "8783"
     fec: "H0MO04086"
@@ -12329,7 +12105,6 @@
     vacant: false
     bioguide: "C001061"
     thomas: "1790"
-    govtrack: "400639"
     opensecrets: "N00026790"
     votesmart: "39507"
     fec: "H4MO05234"
@@ -12384,7 +12159,6 @@
     vacant: false
     bioguide: "G000546"
     thomas: "1656"
-    govtrack: "400158"
     opensecrets: "N00013323"
     votesmart: "9425"
     fec: "H0MO06073"
@@ -12439,7 +12213,6 @@
     vacant: false
     bioguide: "L000576"
     thomas: "2033"
-    govtrack: "412445"
     opensecrets: "N00030676"
     votesmart: "123401"
     fec: "H0MO07113"
@@ -12494,7 +12267,6 @@
     vacant: false
     bioguide: "S001195"
     thomas: "2191"
-    govtrack: "412596"
     opensecrets: "N00035282"
     votesmart: "59318"
     fec: "H4MO08162"
@@ -12549,7 +12321,6 @@
     vacant: false
     bioguide: "K000388"
     thomas: "2294"
-    govtrack: "412673"
     opensecrets: "N00037003"
     votesmart: "156389"
     fec: "H6MS01131"
@@ -12604,7 +12375,6 @@
     vacant: false
     bioguide: "T000193"
     thomas: "1151"
-    govtrack: "400402"
     opensecrets: "N00003288"
     votesmart: "26929"
     fec: "H4MS02068"
@@ -12643,8 +12413,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://benniethompson.house.gov/"
+    contact_page: "https://benniethompson.house.gov/contact"
     facebook_url: "https://www.facebook.com/CongressmanBennieGThompson/"
     twitter_handle: "BennieGThompson"
     twitter_url: "https://twitter.com/BennieGThompson"
@@ -12659,7 +12429,6 @@
     vacant: false
     bioguide: "G000591"
     thomas: null
-    govtrack: "412793"
     opensecrets: "N00042458"
     votesmart: "179667"
     fec: "H8MS03125"
@@ -12698,8 +12467,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://guest.house.gov/"
+    contact_page: "https://guest.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -12714,7 +12483,6 @@
     vacant: false
     bioguide: "P000601"
     thomas: "2035"
-    govtrack: "412443"
     opensecrets: "N00031958"
     votesmart: "69521"
     fec: "H0MS04120"
@@ -12769,7 +12537,6 @@
     vacant: false
     bioguide: "Z000018"
     thomas: "2254"
-    govtrack: "412640"
     opensecrets: "N00035616"
     votesmart: null
     fec: "H4MT01041"
@@ -12824,7 +12591,6 @@
     vacant: false
     bioguide: "B001251"
     thomas: "1761"
-    govtrack: "400616"
     opensecrets: "N00027035"
     votesmart: "41077"
     fec: "H4NC01046"
@@ -12879,7 +12645,6 @@
     vacant: false
     bioguide: "H001065"
     thomas: "2143"
-    govtrack: "412553"
     opensecrets: "N00033399"
     votesmart: "136462"
     fec: "H2NC13110"
@@ -12934,7 +12699,6 @@
     vacant: false
     bioguide: "J000255"
     thomas: "612"
-    govtrack: "400209"
     opensecrets: "N00002299"
     votesmart: "21785"
     fec: "H2NC01081"
@@ -12989,7 +12753,6 @@
     vacant: false
     bioguide: "P000523"
     thomas: "930"
-    govtrack: "400326"
     opensecrets: "N00002260"
     votesmart: "119"
     fec: "H6NC04037"
@@ -13044,7 +12807,6 @@
     vacant: false
     bioguide: "F000450"
     thomas: "1791"
-    govtrack: "400643"
     opensecrets: "N00026166"
     votesmart: "6051"
     fec: "H4NC05146"
@@ -13099,7 +12861,6 @@
     vacant: false
     bioguide: "W000819"
     thomas: "2255"
-    govtrack: "412670"
     opensecrets: "N00035311"
     votesmart: "146255"
     fec: "H4NC06052"
@@ -13154,7 +12915,6 @@
     vacant: false
     bioguide: "R000603"
     thomas: "2256"
-    govtrack: "412641"
     opensecrets: "N00033527"
     votesmart: "102964"
     fec: "H2NC07096"
@@ -13209,7 +12969,6 @@
     vacant: false
     bioguide: "H001067"
     thomas: "2140"
-    govtrack: "412550"
     opensecrets: "N00033630"
     votesmart: "136448"
     fec: "H2NC08185"
@@ -13264,7 +13023,6 @@
     vacant: true
     bioguide: "H000248"
     thomas: null
-    govtrack: "405126"
     opensecrets: "N00035491"
     votesmart: "146230"
     fec: "H8NC09131"
@@ -13319,7 +13077,6 @@
     vacant: false
     bioguide: "M001156"
     thomas: "1792"
-    govtrack: "400644"
     opensecrets: "N00026627"
     votesmart: "21031"
     fec: "H4NC10047"
@@ -13374,7 +13131,6 @@
     vacant: false
     bioguide: "M001187"
     thomas: "2142"
-    govtrack: "412552"
     opensecrets: "N00033631"
     votesmart: "136459"
     fec: "H2NC11080"
@@ -13429,7 +13185,6 @@
     vacant: false
     bioguide: "A000370"
     thomas: "2201"
-    govtrack: "412607"
     opensecrets: "N00035451"
     votesmart: "5935"
     fec: "H4NC12100"
@@ -13484,7 +13239,6 @@
     vacant: false
     bioguide: "B001305"
     thomas: null
-    govtrack: "412712"
     opensecrets: "N00039551"
     votesmart: "171489"
     fec: "H6NC13129"
@@ -13503,7 +13257,7 @@
     pronunciation: "TED BUHD"
     gender: "male"
     ethnicity: "white-american"
-    religion: null
+    religion: "unspecified"
     openly_lgbtq: "no"
     date_of_birth: "1971-10-21"
     entered_office: "2017-01-03"
@@ -13523,8 +13277,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://budd.house.gov/"
+    contact_page: "https://budd.house.gov/contact"
     facebook_url: "https://www.facebook.com/tedbuddforcongress/"
     twitter_handle: "RepHolding"
     twitter_url: "https://twitter.com/RepHolding"
@@ -13539,7 +13293,6 @@
     vacant: false
     bioguide: "A000377"
     thomas: null
-    govtrack: "412794"
     opensecrets: "N00042868"
     votesmart: "139338"
     fec: "H8ND00096"
@@ -13578,8 +13331,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://armstrong.house.gov/"
+    contact_page: "https://armstrong.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -13594,7 +13347,6 @@
     vacant: false
     bioguide: "F000449"
     thomas: "1793"
-    govtrack: "400640"
     opensecrets: "N00026631"
     votesmart: "41929"
     fec: "H4NE01064"
@@ -13649,7 +13401,6 @@
     vacant: false
     bioguide: "B001298"
     thomas: null
-    govtrack: "412713"
     opensecrets: "N00037049"
     votesmart: "166299"
     fec: "H6NE02125"
@@ -13668,7 +13419,7 @@
     pronunciation: "DAHN BAY-kuhn"
     gender: "male"
     ethnicity: "white-american"
-    religion: null
+    religion: "unspecified"
     openly_lgbtq: "no"
     date_of_birth: "1963-08-16"
     entered_office: "2017-01-03"
@@ -13704,7 +13455,6 @@
     vacant: false
     bioguide: "S001172"
     thomas: "1860"
-    govtrack: "412217"
     opensecrets: "N00027623"
     votesmart: "21284"
     fec: "H6NE03115"
@@ -13759,7 +13509,6 @@
     vacant: false
     bioguide: "P000614"
     thomas: null
-    govtrack: "412795"
     opensecrets: "N00042161"
     votesmart: "42635"
     fec: "H8NH01210"
@@ -13798,8 +13547,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://pappas.house.gov/"
+    contact_page: "https://pappas.house.gov/contact/"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -13814,7 +13563,6 @@
     vacant: false
     bioguide: "K000382"
     thomas: "2145"
-    govtrack: "412557"
     opensecrets: "N00030875"
     votesmart: "122256"
     fec: "H0NH02181"
@@ -13869,7 +13617,6 @@
     vacant: false
     bioguide: "N000188"
     thomas: "2202"
-    govtrack: "412606"
     opensecrets: "N00036154"
     votesmart: "116277"
     fec: "H4NJ01084"
@@ -13924,7 +13671,6 @@
     vacant: false
     bioguide: "V000133"
     thomas: null
-    govtrack: "412796"
     opensecrets: "N00042164"
     votesmart: "24685"
     fec: "H8NJ02166"
@@ -13963,8 +13709,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://vandrew.house.gov/"
+    contact_page: "https://vandrew.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -13979,7 +13725,6 @@
     vacant: false
     bioguide: "K000394"
     thomas: null
-    govtrack: "412797"
     opensecrets: "N00041370"
     votesmart: "179640"
     fec: "H8NJ03206"
@@ -14018,8 +13763,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://kim.house.gov/"
+    contact_page: "https://kim.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -14034,7 +13779,6 @@
     vacant: false
     bioguide: "S000522"
     thomas: "1071"
-    govtrack: "400380"
     opensecrets: "N00009816"
     votesmart: "26952"
     fec: "H8NJ04014"
@@ -14089,7 +13833,6 @@
     vacant: false
     bioguide: "G000583"
     thomas: null
-    govtrack: "412714"
     opensecrets: "N00036944"
     votesmart: "169202"
     fec: "H6NJ05171"
@@ -14108,7 +13851,7 @@
     pronunciation: "JAHSH GAHT-hahy-mer"
     gender: "male"
     ethnicity: "white-american"
-    religion: null
+    religion: "unspecified"
     openly_lgbtq: "no"
     date_of_birth: "1975-03-08"
     entered_office: "2017-01-03"
@@ -14144,7 +13887,6 @@
     vacant: false
     bioguide: "P000034"
     thomas: "887"
-    govtrack: "400308"
     opensecrets: "N00000781"
     votesmart: "26951"
     fec: "H8NJ03073"
@@ -14199,7 +13941,6 @@
     vacant: false
     bioguide: "M001203"
     thomas: null
-    govtrack: "412798"
     opensecrets: "N00041843"
     votesmart: "179645"
     fec: "H8NJ07223"
@@ -14238,8 +13979,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://malinowski.house.gov/"
+    contact_page: "https://malinowski.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -14254,7 +13995,6 @@
     vacant: false
     bioguide: "S001165"
     thomas: "1818"
-    govtrack: "412186"
     opensecrets: "N00027523"
     votesmart: "22510"
     fec: "H6NJ13191"
@@ -14309,7 +14049,6 @@
     vacant: false
     bioguide: "P000096"
     thomas: "1510"
-    govtrack: "400309"
     opensecrets: "N00000751"
     votesmart: "478"
     fec: "H6NJ08118"
@@ -14364,7 +14103,6 @@
     vacant: false
     bioguide: "P000604"
     thomas: "2097"
-    govtrack: "412506"
     opensecrets: "N00034639"
     votesmart: "90668"
     fec: "H2NJ10154"
@@ -14419,7 +14157,6 @@
     vacant: false
     bioguide: "S001207"
     thomas: null
-    govtrack: "412799"
     opensecrets: "N00041154"
     votesmart: "179651"
     fec: "H8NJ11142"
@@ -14458,8 +14195,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://sherrill.house.gov/"
+    contact_page: "https://sherrill.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -14474,7 +14211,6 @@
     vacant: false
     bioguide: "W000822"
     thomas: "2259"
-    govtrack: "412644"
     opensecrets: "N00036158"
     votesmart: "24799"
     fec: "H4NJ12149"
@@ -14529,7 +14265,6 @@
     vacant: false
     bioguide: "H001080"
     thomas: null
-    govtrack: "412800"
     opensecrets: "N00040933"
     votesmart: "149368"
     fec: "H8NM01331"
@@ -14547,7 +14282,7 @@
     goes_by: "Deb"
     pronunciation: "DEB-ruh HAH-land"
     gender: "female"
-    ethnicity: "white-american"
+    ethnicity: "native-american"
     religion: "unspecified"
     openly_lgbtq: "no"
     date_of_birth: "1960-12-02"
@@ -14568,8 +14303,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://haaland.house.gov/"
+    contact_page: "https://haaland.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -14584,7 +14319,6 @@
     vacant: false
     bioguide: "T000484"
     thomas: null
-    govtrack: "412801"
     opensecrets: "N00042467"
     votesmart: "177978"
     fec: "H8NM02248"
@@ -14602,7 +14336,7 @@
     goes_by: null
     pronunciation: "SOH-chee TAW-ris-SMAWL"
     gender: "female"
-    ethnicity: "white-american"
+    ethnicity: "hispanic-american"
     religion: "unspecified"
     openly_lgbtq: "no"
     date_of_birth: "1984-11-15"
@@ -14623,8 +14357,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://torressmall.house.gov/"
+    contact_page: "https://torressmall.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -14639,7 +14373,6 @@
     vacant: false
     bioguide: "L000570"
     thomas: "1939"
-    govtrack: "412293"
     opensecrets: "N00029562"
     votesmart: "102842"
     fec: "H8NM03196"
@@ -14694,7 +14427,6 @@
     vacant: false
     bioguide: "T000468"
     thomas: "1940"
-    govtrack: "412318"
     opensecrets: "N00030191"
     votesmart: "2629"
     fec: "H8NV03036"
@@ -14749,7 +14481,6 @@
     vacant: false
     bioguide: "A000369"
     thomas: "2090"
-    govtrack: "412500"
     opensecrets: "N00031177"
     votesmart: "12537"
     fec: "H2NV02395"
@@ -14804,7 +14535,6 @@
     vacant: false
     bioguide: "L000590"
     thomas: null
-    govtrack: "412802"
     opensecrets: "N00037247"
     votesmart: "169344"
     fec: "H8NV03200"
@@ -14843,8 +14573,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://susielee.house.gov/"
+    contact_page: "https://susielee.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -14859,7 +14589,6 @@
     vacant: false
     bioguide: "H001066"
     thomas: null
-    govtrack: "412559"
     opensecrets: "N00033638"
     votesmart: "44064"
     fec: "H2NV04011"
@@ -14898,8 +14627,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://horsford.house.gov/"
+    contact_page: "https://horsford.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -14914,7 +14643,6 @@
     vacant: false
     bioguide: "Z000017"
     thomas: "2261"
-    govtrack: "412646"
     opensecrets: "N00029404"
     votesmart: "110252"
     fec: "H8NY01148"
@@ -14969,7 +14697,6 @@
     vacant: false
     bioguide: "K000210"
     thomas: "635"
-    govtrack: "400219"
     opensecrets: "N00001193"
     votesmart: "26968"
     fec: "H2NY03089"
@@ -15024,7 +14751,6 @@
     vacant: false
     bioguide: "S001201"
     thomas: null
-    govtrack: "412717"
     opensecrets: "N00038742"
     votesmart: "92111"
     fec: "H6NY03247"
@@ -15079,7 +14805,6 @@
     vacant: false
     bioguide: "R000602"
     thomas: "2262"
-    govtrack: "412647"
     opensecrets: "N00035927"
     votesmart: "127653"
     fec: "H4NY04075"
@@ -15134,7 +14859,6 @@
     vacant: false
     bioguide: "M001137"
     thomas: "1506"
-    govtrack: "400271"
     opensecrets: "N00001171"
     votesmart: "4360"
     fec: "H8NY06048"
@@ -15189,7 +14913,6 @@
     vacant: false
     bioguide: "M001188"
     thomas: "2148"
-    govtrack: "412560"
     opensecrets: "N00034547"
     votesmart: "69157"
     fec: "H2NY06116"
@@ -15244,7 +14967,6 @@
     vacant: false
     bioguide: "V000081"
     thomas: "1184"
-    govtrack: "400416"
     opensecrets: "N00001102"
     votesmart: "26975"
     fec: "H2NY00010"
@@ -15299,7 +15021,6 @@
     vacant: false
     bioguide: "J000294"
     thomas: "2149"
-    govtrack: "412561"
     opensecrets: "N00033640"
     votesmart: "55285"
     fec: "H2NY10092"
@@ -15354,7 +15075,6 @@
     vacant: false
     bioguide: "C001067"
     thomas: "1864"
-    govtrack: "412221"
     opensecrets: "N00026961"
     votesmart: "44741"
     fec: "H4NY11138"
@@ -15409,7 +15129,6 @@
     vacant: false
     bioguide: "N000002"
     thomas: "850"
-    govtrack: "400289"
     opensecrets: "N00000939"
     votesmart: "26980"
     fec: "H2NY17071"
@@ -15464,7 +15183,6 @@
     vacant: false
     bioguide: "R000613"
     thomas: null
-    govtrack: "412803"
     opensecrets: "N00041588"
     votesmart: "180409"
     fec: "H8NY11113"
@@ -15503,8 +15221,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://maxrose.house.gov/"
+    contact_page: "https://maxrose.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -15519,7 +15237,6 @@
     vacant: false
     bioguide: "M000087"
     thomas: "729"
-    govtrack: "400251"
     opensecrets: "N00000078"
     votesmart: "26978"
     fec: "H2NY14037"
@@ -15574,7 +15291,6 @@
     vacant: false
     bioguide: "E000297"
     thomas: null
-    govtrack: "412718"
     opensecrets: "N00034549"
     votesmart: "14379"
     fec: "H2NY13096"
@@ -15629,7 +15345,6 @@
     vacant: false
     bioguide: "O000172"
     thomas: null
-    govtrack: "412804"
     opensecrets: "N00041162"
     votesmart: "180416"
     fec: "H8NY15148"
@@ -15668,8 +15383,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://ocasio-cortez.house.gov/"
+    contact_page: "https://ocasio-cortez.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -15684,7 +15399,6 @@
     vacant: false
     bioguide: "S000248"
     thomas: "1042"
-    govtrack: "400366"
     opensecrets: "N00001813"
     votesmart: "26981"
     fec: "H0NY18065"
@@ -15739,7 +15453,6 @@
     vacant: false
     bioguide: "E000179"
     thomas: "344"
-    govtrack: "400122"
     opensecrets: "N00001003"
     votesmart: "26972"
     fec: "H8NY19058"
@@ -15794,7 +15507,6 @@
     vacant: false
     bioguide: "L000480"
     thomas: "709"
-    govtrack: "400246"
     opensecrets: "N00001024"
     votesmart: "26982"
     fec: "H8NY20056"
@@ -15849,7 +15561,6 @@
     vacant: false
     bioguide: "M001185"
     thomas: "2150"
-    govtrack: "412562"
     opensecrets: "N00034277"
     votesmart: "139760"
     fec: "H2NY22139"
@@ -15904,7 +15615,6 @@
     vacant: false
     bioguide: "D000630"
     thomas: null
-    govtrack: "412805"
     opensecrets: "N00040741"
     votesmart: "180313"
     fec: "H8NY19181"
@@ -15943,8 +15653,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://delgado.house.gov/"
+    contact_page: "https://delgado.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -15959,7 +15669,6 @@
     vacant: false
     bioguide: "T000469"
     thomas: "1942"
-    govtrack: "412319"
     opensecrets: "N00030196"
     votesmart: "4403"
     fec: "H8NY21203"
@@ -16014,7 +15723,6 @@
     vacant: false
     bioguide: "S001196"
     thomas: "2263"
-    govtrack: "412648"
     opensecrets: "N00035523"
     votesmart: "152539"
     fec: "H4NY21079"
@@ -16069,7 +15777,6 @@
     vacant: false
     bioguide: "B001308"
     thomas: null
-    govtrack: "412806"
     opensecrets: "N00041385"
     votesmart: "135258"
     fec: "H8NY22151"
@@ -16108,8 +15815,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://brindisi.house.gov/"
+    contact_page: "https://brindisi.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -16124,7 +15831,6 @@
     vacant: false
     bioguide: "R000585"
     thomas: "1982"
-    govtrack: "412393"
     opensecrets: "N00030949"
     votesmart: "127046"
     fec: "H0NY29054"
@@ -16179,7 +15885,6 @@
     vacant: false
     bioguide: "K000386"
     thomas: "2264"
-    govtrack: "412649"
     opensecrets: "N00035934"
     votesmart: "152546"
     fec: "H4NY24073"
@@ -16234,7 +15939,6 @@
     vacant: false
     bioguide: "S000480"
     thomas: "1069"
-    govtrack: "400378"
     opensecrets: "N00001311"
     votesmart: "26991"
     fec: "H6NY03031"
@@ -16289,7 +15993,6 @@
     vacant: false
     bioguide: "H001038"
     thomas: "1794"
-    govtrack: "400641"
     opensecrets: "N00027060"
     votesmart: "23127"
     fec: "H4NY27076"
@@ -16344,7 +16047,6 @@
     vacant: false
     bioguide: "C001092"
     thomas: "2151"
-    govtrack: "412563"
     opensecrets: "N00001285"
     votesmart: "139770"
     fec: "H8NY29032"
@@ -16399,7 +16101,6 @@
     vacant: false
     bioguide: "C000266"
     thomas: "186"
-    govtrack: "400071"
     opensecrets: "N00003689"
     votesmart: "21790"
     fec: "H8OH01043"
@@ -16454,7 +16155,6 @@
     vacant: false
     bioguide: "W000815"
     thomas: "2152"
-    govtrack: "412564"
     opensecrets: "N00033310"
     votesmart: "135326"
     fec: "H2OH02085"
@@ -16509,7 +16209,6 @@
     vacant: false
     bioguide: "B001281"
     thomas: "2153"
-    govtrack: "412565"
     opensecrets: "N00033904"
     votesmart: "2427"
     fec: "H2OH03125"
@@ -16564,7 +16263,6 @@
     vacant: false
     bioguide: "J000289"
     thomas: "1868"
-    govtrack: "412226"
     opensecrets: "N00027894"
     votesmart: "8158"
     fec: "H6OH04082"
@@ -16619,7 +16317,6 @@
     vacant: false
     bioguide: "L000566"
     thomas: "1885"
-    govtrack: "412256"
     opensecrets: "N00012233"
     votesmart: "9926"
     fec: "H8OH05036"
@@ -16674,7 +16371,6 @@
     vacant: false
     bioguide: "J000292"
     thomas: "2046"
-    govtrack: "412460"
     opensecrets: "N00032088"
     votesmart: "120649"
     fec: "H0OH06189"
@@ -16729,7 +16425,6 @@
     vacant: false
     bioguide: "G000563"
     thomas: "2049"
-    govtrack: "412463"
     opensecrets: "N00031128"
     votesmart: "45466"
     fec: "H0OH18077"
@@ -16784,7 +16479,6 @@
     vacant: false
     bioguide: "D000626"
     thomas: "2296"
-    govtrack: "412675"
     opensecrets: "N00038767"
     votesmart: "166760"
     fec: "H6OH08315"
@@ -16839,7 +16533,6 @@
     vacant: false
     bioguide: "K000009"
     thomas: "616"
-    govtrack: "400211"
     opensecrets: "N00003522"
     votesmart: "27016"
     fec: "H2OH09031"
@@ -16894,7 +16587,6 @@
     vacant: false
     bioguide: "T000463"
     thomas: "1741"
-    govtrack: "400411"
     opensecrets: "N00025175"
     votesmart: "45519"
     fec: "H2OH03067"
@@ -16949,7 +16641,6 @@
     vacant: false
     bioguide: "F000455"
     thomas: "1895"
-    govtrack: "412327"
     opensecrets: "N00030490"
     votesmart: "110640"
     fec: "H8OH11141"
@@ -17004,7 +16695,6 @@
     vacant: false
     bioguide: "T000462"
     thomas: "1664"
-    govtrack: "400406"
     opensecrets: "N00009699"
     votesmart: "8404"
     fec: "H0OH12062"
@@ -17059,7 +16749,6 @@
     vacant: false
     bioguide: "R000577"
     thomas: "1756"
-    govtrack: "400352"
     opensecrets: "N00025280"
     votesmart: "45638"
     fec: "H2OH17109"
@@ -17114,7 +16803,6 @@
     vacant: false
     bioguide: "J000295"
     thomas: "2154"
-    govtrack: "412566"
     opensecrets: "N00035007"
     votesmart: "143052"
     fec: "H2OH14064"
@@ -17169,7 +16857,6 @@
     vacant: false
     bioguide: "S001187"
     thomas: "2047"
-    govtrack: "412461"
     opensecrets: "N00029574"
     votesmart: "45333"
     fec: "H8OH15076"
@@ -17224,7 +16911,6 @@
     vacant: false
     bioguide: "G000588"
     thomas: null
-    govtrack: "412807"
     opensecrets: "N00041690"
     votesmart: "178867"
     fec: "H8OH16124"
@@ -17263,8 +16949,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://anthonygonzalez.house.gov/"
+    contact_page: "https://anthonygonzalez.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -17279,7 +16965,6 @@
     vacant: false
     bioguide: "B001283"
     thomas: "2155"
-    govtrack: "412567"
     opensecrets: "N00033532"
     votesmart: "135894"
     fec: "H2OK01143"
@@ -17334,7 +17019,6 @@
     vacant: false
     bioguide: "M001190"
     thomas: "2156"
-    govtrack: "412568"
     opensecrets: "N00033410"
     votesmart: "135898"
     fec: "H2OK02083"
@@ -17389,7 +17073,6 @@
     vacant: false
     bioguide: "L000491"
     thomas: "711"
-    govtrack: "400247"
     opensecrets: "N00005559"
     votesmart: "27032"
     fec: "H4OK06056"
@@ -17444,7 +17127,6 @@
     vacant: false
     bioguide: "C001053"
     thomas: "1742"
-    govtrack: "400077"
     opensecrets: "N00025726"
     votesmart: "46034"
     fec: "H2OK04055"
@@ -17499,7 +17181,6 @@
     vacant: false
     bioguide: "H001083"
     thomas: null
-    govtrack: "412808"
     opensecrets: "N00041394"
     votesmart: "180018"
     fec: "H8OK05109"
@@ -17538,8 +17219,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://horn.house.gov/"
+    contact_page: "https://horn.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -17554,7 +17235,6 @@
     vacant: false
     bioguide: "B001278"
     thomas: "2092"
-    govtrack: "412501"
     opensecrets: "N00033474"
     votesmart: "59641"
     fec: "H2OR01133"
@@ -17609,7 +17289,6 @@
     vacant: false
     bioguide: "W000791"
     thomas: "1596"
-    govtrack: "400419"
     opensecrets: "N00007690"
     votesmart: "2979"
     fec: "H6OR02116"
@@ -17664,7 +17343,6 @@
     vacant: false
     bioguide: "B000574"
     thomas: "99"
-    govtrack: "400033"
     opensecrets: "N00007727"
     votesmart: "367"
     fec: "H6OR03064"
@@ -17719,7 +17397,6 @@
     vacant: false
     bioguide: "D000191"
     thomas: "279"
-    govtrack: "400100"
     opensecrets: "N00007781"
     votesmart: "27037"
     fec: "H6OR04047"
@@ -17774,7 +17451,6 @@
     vacant: false
     bioguide: "S001180"
     thomas: "1950"
-    govtrack: "412315"
     opensecrets: "N00030071"
     votesmart: "10813"
     fec: "H8OR05107"
@@ -17829,7 +17505,6 @@
     vacant: false
     bioguide: "F000466"
     thomas: null
-    govtrack: "412721"
     opensecrets: "N00038779"
     votesmart: "167708"
     fec: "H6PA08277"
@@ -17884,7 +17559,6 @@
     vacant: false
     bioguide: "B001296"
     thomas: "2267"
-    govtrack: "412652"
     opensecrets: "N00035307"
     votesmart: "47357"
     fec: "H4PA13199"
@@ -17939,7 +17613,6 @@
     vacant: false
     bioguide: "E000296"
     thomas: null
-    govtrack: "412677"
     opensecrets: "N00038450"
     votesmart: "9128"
     fec: "H6PA02171"
@@ -17958,7 +17631,7 @@
     pronunciation: "DWAHYT EH-vuhnz"
     gender: "male"
     ethnicity: "african-american"
-    religion: null
+    religion: "unspecified"
     openly_lgbtq: "no"
     date_of_birth: "1954-05-16"
     entered_office: "2016-11-14"
@@ -17994,7 +17667,6 @@
     vacant: false
     bioguide: "D000631"
     thomas: null
-    govtrack: "412809"
     opensecrets: null
     votesmart: null
     fec: "H8PA04116"
@@ -18033,8 +17705,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://dean.house.gov/"
+    contact_page: "https://dean.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -18049,7 +17721,6 @@
     vacant: false
     bioguide: "S001205"
     thomas: null
-    govtrack: "412750"
     opensecrets: null
     votesmart: null
     fec: "H8PA07200"
@@ -18088,8 +17759,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://scanlon.house.gov/"
+    contact_page: "https://scanlon.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -18104,7 +17775,6 @@
     vacant: false
     bioguide: "H001085"
     thomas: null
-    govtrack: "412810"
     opensecrets: "N00040949"
     votesmart: "178893"
     fec: "H8PA06087"
@@ -18143,8 +17813,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://houlahan.house.gov/"
+    contact_page: "https://houlahan.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -18159,7 +17829,6 @@
     vacant: false
     bioguide: "W000826"
     thomas: null
-    govtrack: "412751"
     opensecrets: null
     votesmart: null
     fec: "H8PA15229"
@@ -18198,8 +17867,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://wild.house.gov/"
+    contact_page: "https://wild.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -18214,7 +17883,6 @@
     vacant: false
     bioguide: "C001090"
     thomas: "2159"
-    govtrack: "412571"
     opensecrets: "N00034128"
     votesmart: "136236"
     fec: "H2PA17079"
@@ -18269,7 +17937,6 @@
     vacant: false
     bioguide: "M001204"
     thomas: null
-    govtrack: "412811"
     opensecrets: "N00029416"
     votesmart: "102438"
     fec: "H8PA10147"
@@ -18308,8 +17975,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://meuser.house.gov/"
+    contact_page: "https://meuser.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -18324,7 +17991,6 @@
     vacant: false
     bioguide: "P000605"
     thomas: "2157"
-    govtrack: "412569"
     opensecrets: "N00034120"
     votesmart: "59980"
     fec: "H2PA04135"
@@ -18379,7 +18045,6 @@
     vacant: false
     bioguide: "S001199"
     thomas: null
-    govtrack: "412722"
     opensecrets: "N00038781"
     votesmart: "102454"
     fec: "H6PA16320"
@@ -18398,7 +18063,7 @@
     pronunciation: "LOYD SMUH-ker"
     gender: "male"
     ethnicity: "white-american"
-    religion: null
+    religion: "unspecified"
     openly_lgbtq: "no"
     date_of_birth: "1964-01-23"
     entered_office: "2017-01-03"
@@ -18434,7 +18099,6 @@
     vacant: false
     bioguide: "M001179"
     thomas: "2053"
-    govtrack: "412468"
     opensecrets: "N00031777"
     votesmart: "119478"
     fec: "H0PA10078"
@@ -18489,7 +18153,6 @@
     vacant: false
     bioguide: "J000302"
     thomas: null
-    govtrack: "412812"
     opensecrets: "N00043242"
     votesmart: "178911"
     fec: "H8PA13125"
@@ -18528,8 +18191,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://johnjoyce.house.gov/"
+    contact_page: "https://johnjoyce.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -18544,7 +18207,6 @@
     vacant: false
     bioguide: "R000610"
     thomas: null
-    govtrack: "412813"
     opensecrets: "N00041871"
     votesmart: "166004"
     fec: "H8PA18199"
@@ -18583,8 +18245,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://reschenthaler.house.gov/"
+    contact_page: "https://reschenthaler.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -18599,7 +18261,6 @@
     vacant: false
     bioguide: "T000467"
     thomas: "1952"
-    govtrack: "412317"
     opensecrets: "N00029736"
     votesmart: "24046"
     fec: "H8PA05071"
@@ -18654,7 +18315,6 @@
     vacant: false
     bioguide: "K000376"
     thomas: "2051"
-    govtrack: "412465"
     opensecrets: "N00031647"
     votesmart: "119463"
     fec: "H0PA03271"
@@ -18709,7 +18369,6 @@
     vacant: false
     bioguide: "L000588"
     thomas: null
-    govtrack: "412744"
     opensecrets: "N00041870"
     votesmart: "177656"
     fec: "H8PA18181"
@@ -18748,8 +18407,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://lamb.house.gov/"
+    contact_page: "https://lamb.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -18764,7 +18423,6 @@
     vacant: false
     bioguide: "D000482"
     thomas: "316"
-    govtrack: "400114"
     opensecrets: "N00001373"
     votesmart: "21853"
     fec: "H4PA18131"
@@ -18819,7 +18477,6 @@
     vacant: false
     bioguide: "C001084"
     thomas: "2055"
-    govtrack: "412470"
     opensecrets: "N00032019"
     votesmart: "7349"
     fec: "H0RI01073"
@@ -18874,7 +18531,6 @@
     vacant: false
     bioguide: "L000559"
     thomas: "1668"
-    govtrack: "400230"
     opensecrets: "N00009724"
     votesmart: "55787"
     fec: "H0RI02139"
@@ -18929,7 +18585,6 @@
     vacant: false
     bioguide: "C001122"
     thomas: null
-    govtrack: "412814"
     opensecrets: "N00041400"
     votesmart: "179601"
     fec: "H8SC01116"
@@ -18968,8 +18623,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://cunningham.house.gov/"
+    contact_page: "https://cunningham.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -18984,7 +18639,6 @@
     vacant: false
     bioguide: "W000795"
     thomas: "1688"
-    govtrack: "400433"
     opensecrets: "N00024809"
     votesmart: "3985"
     fec: "H2SC02059"
@@ -19039,7 +18693,6 @@
     vacant: false
     bioguide: "D000615"
     thomas: "2057"
-    govtrack: "412472"
     opensecrets: "N00030752"
     votesmart: "47967"
     fec: "H0SC03077"
@@ -19094,7 +18747,6 @@
     vacant: false
     bioguide: "T000480"
     thomas: null
-    govtrack: "412815"
     opensecrets: "N00042715"
     votesmart: "168923"
     fec: "H8SC04250"
@@ -19133,8 +18785,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://timmons.house.gov/"
+    contact_page: "https://timmons.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -19149,7 +18801,6 @@
     vacant: false
     bioguide: "N000190"
     thomas: null
-    govtrack: "412738"
     opensecrets: "N00027783"
     votesmart: "47930"
     fec: "H8SC05158"
@@ -19204,14 +18855,13 @@
     vacant: false
     bioguide: "C000537"
     thomas: "208"
-    govtrack: "400075"
     opensecrets: "N00002408"
     votesmart: "27066"
     fec: "H2SC02042"
     maplight: "192"
     wikidata: "Q1289889"
     google_entity_id: "kg:/m/03c469"
-    title: "house_majority_whip"
+    title: "house-majority-whip"
     party: "democrat"
     name: "James Clyburn"
     name_slug: "james-clyburn"
@@ -19259,7 +18909,6 @@
     vacant: false
     bioguide: "R000597"
     thomas: "2160"
-    govtrack: "412572"
     opensecrets: "N00033832"
     votesmart: "132382"
     fec: "H2SC07066"
@@ -19298,8 +18947,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: "https://tomriceforms.house.gov"
-    contact_page: "http://tomriceforms.house.gov/contact/"
+    website: "https://rice.house.gov/"
+    contact_page: "https://rice.house.gov/contact/"
     facebook_url: "https://www.facebook.com/reptomrice"
     twitter_handle: "RepTomRice"
     twitter_url: "https://twitter.com/RepTomRice"
@@ -19314,7 +18963,6 @@
     vacant: false
     bioguide: "J000301"
     thomas: null
-    govtrack: "412816"
     opensecrets: "N00040559"
     votesmart: "48307"
     fec: "H8SD01055"
@@ -19353,8 +19001,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://dustyjohnson.house.gov/"
+    contact_page: "https://dustyjohnson.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -19369,7 +19017,6 @@
     vacant: false
     bioguide: "R000582"
     thomas: "1954"
-    govtrack: "412310"
     opensecrets: "N00028463"
     votesmart: "65306"
     fec: "H6TN01388"
@@ -19424,7 +19071,6 @@
     vacant: false
     bioguide: "B001309"
     thomas: null
-    govtrack: "412817"
     opensecrets: "N00041594"
     votesmart: "24379"
     fec: "H8TN02119"
@@ -19463,8 +19109,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://burchett.house.gov/"
+    contact_page: "https://burchett.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -19479,7 +19125,6 @@
     vacant: false
     bioguide: "F000459"
     thomas: "2061"
-    govtrack: "412476"
     opensecrets: "N00030815"
     votesmart: "123456"
     fec: "H0TN03254"
@@ -19534,7 +19179,6 @@
     vacant: false
     bioguide: "D000616"
     thomas: "2062"
-    govtrack: "412477"
     opensecrets: "N00030957"
     votesmart: "123473"
     fec: "H0TN04195"
@@ -19589,7 +19233,6 @@
     vacant: false
     bioguide: "C000754"
     thomas: "231"
-    govtrack: "400081"
     opensecrets: "N00003132"
     votesmart: "48891"
     fec: "H2TN05131"
@@ -19644,7 +19287,6 @@
     vacant: false
     bioguide: "R000612"
     thomas: null
-    govtrack: "412818"
     opensecrets: "N00041599"
     votesmart: "180452"
     fec: "H8TN06094"
@@ -19683,8 +19325,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://johnrose.house.gov/"
+    contact_page: "https://johnrose.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -19699,7 +19341,6 @@
     vacant: false
     bioguide: "G000590"
     thomas: null
-    govtrack: "412819"
     opensecrets: "N00041873"
     votesmart: "139030"
     fec: "H8TN07076"
@@ -19738,8 +19379,8 @@
     address_state: "DC"
     address_zipcode: "20003"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://markgreen.house.gov/"
+    contact_page: "https://markgreen.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -19754,7 +19395,6 @@
     vacant: false
     bioguide: "K000392"
     thomas: null
-    govtrack: "412724"
     opensecrets: "N00025445"
     votesmart: "48997"
     fec: "H2TN07103"
@@ -19809,7 +19449,6 @@
     vacant: false
     bioguide: "C001068"
     thomas: "1878"
-    govtrack: "412236"
     opensecrets: "N00003225"
     votesmart: "24340"
     fec: "H6TN09068"
@@ -19864,7 +19503,6 @@
     vacant: false
     bioguide: "G000552"
     thomas: "1801"
-    govtrack: "400651"
     opensecrets: "N00026148"
     votesmart: "50029"
     fec: "H4TX04039"
@@ -19919,7 +19557,6 @@
     vacant: false
     bioguide: "C001120"
     thomas: null
-    govtrack: "412820"
     opensecrets: "N00042224"
     votesmart: "177270"
     fec: "H8TX02166"
@@ -19958,8 +19595,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://crenshaw.house.gov/"
+    contact_page: "https://crenshaw.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -19974,7 +19611,6 @@
     vacant: false
     bioguide: "T000479"
     thomas: null
-    govtrack: "412821"
     opensecrets: "N00027709"
     votesmart: "147737"
     fec: "H8TX03123"
@@ -20013,8 +19649,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://vantaylor.house.gov/"
+    contact_page: "https://vantaylor.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -20029,7 +19665,6 @@
     vacant: false
     bioguide: "R000601"
     thomas: "2268"
-    govtrack: "412653"
     opensecrets: "N00035972"
     votesmart: "147381"
     fec: "H4TX04153"
@@ -20084,7 +19719,6 @@
     vacant: false
     bioguide: "G000589"
     thomas: null
-    govtrack: "412822"
     opensecrets: "N00042237"
     votesmart: "116935"
     fec: "H8TX05144"
@@ -20123,8 +19757,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://gooden.house.gov/"
+    contact_page: "https://gooden.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -20139,7 +19773,6 @@
     vacant: false
     bioguide: "W000827"
     thomas: null
-    govtrack: "412823"
     opensecrets: "N00042240"
     votesmart: "78666"
     fec: "H8TX06233"
@@ -20178,8 +19811,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://wright.house.gov/"
+    contact_page: "https://wright.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -20194,7 +19827,6 @@
     vacant: false
     bioguide: "F000468"
     thomas: null
-    govtrack: "412824"
     opensecrets: "N00041194"
     votesmart: "177031"
     fec: "H8TX07140"
@@ -20233,8 +19865,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://fletcher.house.gov/"
+    contact_page: "https://fletcher.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -20249,7 +19881,6 @@
     vacant: false
     bioguide: "B000755"
     thomas: "1468"
-    govtrack: "400046"
     opensecrets: "N00005883"
     votesmart: "361"
     fec: "H6TX08100"
@@ -20304,7 +19935,6 @@
     vacant: false
     bioguide: "G000553"
     thomas: "1803"
-    govtrack: "400653"
     opensecrets: "N00026686"
     votesmart: "49680"
     fec: "H4TX09095"
@@ -20359,7 +19989,6 @@
     vacant: false
     bioguide: "M001157"
     thomas: "1804"
-    govtrack: "400654"
     opensecrets: "N00026460"
     votesmart: "49210"
     fec: "H4TX10093"
@@ -20414,7 +20043,6 @@
     vacant: false
     bioguide: "C001062"
     thomas: "1805"
-    govtrack: "400655"
     opensecrets: "N00026041"
     votesmart: "49935"
     fec: "H4TX19136"
@@ -20469,7 +20097,6 @@
     vacant: false
     bioguide: "G000377"
     thomas: "1487"
-    govtrack: "400157"
     opensecrets: "N00008799"
     votesmart: "334"
     fec: "H6TX12060"
@@ -20524,7 +20151,6 @@
     vacant: false
     bioguide: "T000238"
     thomas: "1155"
-    govtrack: "400404"
     opensecrets: "N00006052"
     votesmart: "21706"
     fec: "H4TX13014"
@@ -20579,7 +20205,6 @@
     vacant: false
     bioguide: "W000814"
     thomas: "2161"
-    govtrack: "412574"
     opensecrets: "N00033539"
     votesmart: "102026"
     fec: "H2TX14149"
@@ -20634,7 +20259,6 @@
     vacant: false
     bioguide: "G000581"
     thomas: null
-    govtrack: "412725"
     opensecrets: "N00038809"
     votesmart: "166483"
     fec: "H6TX15162"
@@ -20653,12 +20277,12 @@
     pronunciation: "vi-SEN-tay gon-ZAH-lez"
     gender: "male"
     ethnicity: "hispanic-american"
-    religion: null
+    religion: "unspecified"
     openly_lgbtq: "no"
     date_of_birth: "1967-09-04"
     entered_office: "2017-01-03"
     term_end: "2021-01-03"
-    biography: "Vicente GonzÃ¡lez, a Representative from Texas; born in Corpus Christi, Nueces County, Tex., September 4, 1967; earned G.E.D., 1985; B.A., Embry-Riddle Aeronautical University, Naval Air Station, Corpus Christi, Tex., 1992; J.D., Texas Wesleyan School of Law, Fort Worth, Tex., 1996; lawyer, private practice; elected as a Democrat to the One Hundred Fifteenth Congress (January 3, 2017-present)."
+    biography: "Vicente Gonzalez, a Representative from Texas; born in Corpus Christi, Nueces County, Tex., September 4, 1967; earned G.E.D., 1985; B.A., Embry-Riddle Aeronautical University, Naval Air Station, Corpus Christi, Tex., 1992; J.D., Texas Wesleyan School of Law, Fort Worth, Tex., 1996; lawyer, private practice; elected as a Democrat to the One Hundred Fifteenth Congress (January 3, 2017-present)."
     phone: "202-225-2531"
     fax: "202-225-5688"
     latitude: "38.8863235"
@@ -20673,8 +20297,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://gonzalez.house.gov/"
+    contact_page: "https://gonzalez.house.gov/contact"
     facebook_url: "https://www.facebook.com/votevicente"
     twitter_handle: "votevicente"
     twitter_url: "https://twitter.com/votevicente"
@@ -20689,7 +20313,6 @@
     vacant: false
     bioguide: "E000299"
     thomas: null
-    govtrack: "412825"
     opensecrets: "N00041702"
     votesmart: "99345"
     fec: "H8TX16109"
@@ -20728,8 +20351,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://escobar.house.gov/"
+    contact_page: "https://escobar.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -20744,7 +20367,6 @@
     vacant: false
     bioguide: "F000461"
     thomas: "2065"
-    govtrack: "412480"
     opensecrets: "N00031545"
     votesmart: "116906"
     fec: "H0TX17104"
@@ -20799,7 +20421,6 @@
     vacant: false
     bioguide: "J000032"
     thomas: "588"
-    govtrack: "400199"
     opensecrets: "N00005818"
     votesmart: "21692"
     fec: "H4TX18054"
@@ -20854,7 +20475,6 @@
     vacant: false
     bioguide: "A000375"
     thomas: null
-    govtrack: "412726"
     opensecrets: "N00038285"
     votesmart: "155685"
     fec: "H6TX19099"
@@ -20909,7 +20529,6 @@
     vacant: false
     bioguide: "C001091"
     thomas: "2163"
-    govtrack: "412576"
     opensecrets: "N00033316"
     votesmart: "49227"
     fec: "H2TX35011"
@@ -20964,7 +20583,6 @@
     vacant: false
     bioguide: "R000614"
     thomas: null
-    govtrack: "412826"
     opensecrets: "N00042268"
     votesmart: "177319"
     fec: "H8TX21307"
@@ -21003,8 +20621,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://roy.house.gov/"
+    contact_page: "https://roy.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -21019,7 +20637,6 @@
     vacant: false
     bioguide: "O000168"
     thomas: "1955"
-    govtrack: "412302"
     opensecrets: "N00029285"
     votesmart: "102008"
     fec: "H8TX22107"
@@ -21074,7 +20691,6 @@
     vacant: false
     bioguide: "H001073"
     thomas: "2269"
-    govtrack: "412654"
     opensecrets: "N00031417"
     votesmart: "116911"
     fec: "H0TX23086"
@@ -21129,7 +20745,6 @@
     vacant: false
     bioguide: "M001158"
     thomas: "1806"
-    govtrack: "400656"
     opensecrets: "N00026710"
     votesmart: "5549"
     fec: "H4TX24094"
@@ -21184,7 +20799,6 @@
     vacant: false
     bioguide: "W000816"
     thomas: "2165"
-    govtrack: "412578"
     opensecrets: "N00030602"
     votesmart: "50112"
     fec: "H2TX33040"
@@ -21239,7 +20853,6 @@
     vacant: false
     bioguide: "B001248"
     thomas: "1751"
-    govtrack: "400052"
     opensecrets: "N00025219"
     votesmart: "50120"
     fec: "H2TX26093"
@@ -21294,7 +20907,6 @@
     vacant: false
     bioguide: "F000460"
     thomas: "2067"
-    govtrack: "412482"
     opensecrets: "N00031672"
     votesmart: "116919"
     fec: "H0TX27061"
@@ -21349,7 +20961,6 @@
     vacant: false
     bioguide: "C001063"
     thomas: "1807"
-    govtrack: "400657"
     opensecrets: "N00024978"
     votesmart: "5486"
     fec: "H2TX23082"
@@ -21404,7 +21015,6 @@
     vacant: false
     bioguide: "G000587"
     thomas: null
-    govtrack: "412827"
     opensecrets: "N00042282"
     votesmart: "49734"
     fec: "H8TX29052"
@@ -21443,8 +21053,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://sylviagarcia.house.gov/"
+    contact_page: "https://sylviagarcia.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -21459,7 +21069,6 @@
     vacant: false
     bioguide: "J000126"
     thomas: "599"
-    govtrack: "400204"
     opensecrets: "N00008122"
     votesmart: "27098"
     fec: "H2TX00015"
@@ -21514,7 +21123,6 @@
     vacant: false
     bioguide: "C001051"
     thomas: "1752"
-    govtrack: "400068"
     opensecrets: "N00025095"
     votesmart: "49296"
     fec: "H2TX31044"
@@ -21569,7 +21177,6 @@
     vacant: false
     bioguide: "A000376"
     thomas: null
-    govtrack: "412828"
     opensecrets: "N00040989"
     votesmart: "177357"
     fec: "H8TX32098"
@@ -21608,8 +21215,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://allred.house.gov/"
+    contact_page: "https://allred.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -21624,7 +21231,6 @@
     vacant: false
     bioguide: "V000131"
     thomas: "2166"
-    govtrack: "412579"
     opensecrets: "N00033839"
     votesmart: "49671"
     fec: "H2TX33073"
@@ -21679,7 +21285,6 @@
     vacant: false
     bioguide: "V000132"
     thomas: "2167"
-    govtrack: "412580"
     opensecrets: "N00034349"
     votesmart: "137719"
     fec: "H2TX27190"
@@ -21734,7 +21339,6 @@
     vacant: false
     bioguide: "D000399"
     thomas: "303"
-    govtrack: "400111"
     opensecrets: "N00006023"
     votesmart: "21689"
     fec: "H4TX10028"
@@ -21789,7 +21393,6 @@
     vacant: false
     bioguide: "B001291"
     thomas: "2270"
-    govtrack: "412655"
     opensecrets: "N00005736"
     votesmart: "360"
     fec: "H6TX02079"
@@ -21844,7 +21447,6 @@
     vacant: false
     bioguide: "B001250"
     thomas: "1753"
-    govtrack: "400029"
     opensecrets: "N00025292"
     votesmart: "50544"
     fec: "H2UT01094"
@@ -21899,7 +21501,6 @@
     vacant: false
     bioguide: "S001192"
     thomas: "2168"
-    govtrack: "412581"
     opensecrets: "N00033932"
     votesmart: "135930"
     fec: "H2UT02324"
@@ -21954,7 +21555,6 @@
     vacant: false
     bioguide: "C001076"
     thomas: "1956"
-    govtrack: "412270"
     opensecrets: "N00028958"
     votesmart: "103482"
     fec: "H8UT03089"
@@ -22009,7 +21609,6 @@
     vacant: false
     bioguide: "M001209"
     thomas: null
-    govtrack: "412829"
     opensecrets: "N00042013"
     votesmart: "117512"
     fec: "H8UT04053"
@@ -22048,8 +21647,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://mcadams.house.gov/"
+    contact_page: "https://mcadams.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -22064,7 +21663,6 @@
     vacant: false
     bioguide: "W000804"
     thomas: "1886"
-    govtrack: "412255"
     opensecrets: "N00029459"
     votesmart: "58133"
     fec: "H8VA01147"
@@ -22119,7 +21717,6 @@
     vacant: false
     bioguide: "L000591"
     thomas: null
-    govtrack: "412830"
     opensecrets: "N00042293"
     votesmart: "179677"
     fec: "H8VA02111"
@@ -22158,8 +21755,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://luria.house.gov/"
+    contact_page: "https://luria.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -22174,7 +21771,6 @@
     vacant: false
     bioguide: "S000185"
     thomas: "1037"
-    govtrack: "400364"
     opensecrets: "N00002147"
     votesmart: "27117"
     fec: "H6VA01117"
@@ -22229,7 +21825,6 @@
     vacant: false
     bioguide: "M001200"
     thomas: null
-    govtrack: "412728"
     opensecrets: "N00039327"
     votesmart: "8230"
     fec: "H6VA04061"
@@ -22284,7 +21879,6 @@
     vacant: false
     bioguide: "R000611"
     thomas: null
-    govtrack: "412831"
     opensecrets: "N00043541"
     votesmart: "181445"
     fec: "H8VA05171"
@@ -22323,8 +21917,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://riggleman.house.gov/"
+    contact_page: "https://riggleman.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -22339,7 +21933,6 @@
     vacant: false
     bioguide: "C001118"
     thomas: null
-    govtrack: "412832"
     opensecrets: "N00042296"
     votesmart: "50959"
     fec: "H8VA06104"
@@ -22378,8 +21971,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://cline.house.gov/"
+    contact_page: "https://cline.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -22394,7 +21987,6 @@
     vacant: false
     bioguide: "S001209"
     thomas: null
-    govtrack: "412833"
     opensecrets: "N00041418"
     votesmart: "179682"
     fec: "H8VA07094"
@@ -22433,8 +22025,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://spanberger.house.gov/"
+    contact_page: "https://spanberger.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -22449,7 +22041,6 @@
     vacant: false
     bioguide: "B001292"
     thomas: "2272"
-    govtrack: "412657"
     opensecrets: "N00036018"
     votesmart: "1707"
     fec: "H4VA08224"
@@ -22504,7 +22095,6 @@
     vacant: false
     bioguide: "G000568"
     thomas: "2070"
-    govtrack: "412485"
     opensecrets: "N00032029"
     votesmart: "5148"
     fec: "H0VA09055"
@@ -22559,7 +22149,6 @@
     vacant: false
     bioguide: "W000825"
     thomas: null
-    govtrack: "412834"
     opensecrets: "N00041002"
     votesmart: "147013"
     fec: "H8VA10106"
@@ -22598,8 +22187,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://wexton.house.gov/"
+    contact_page: "https://wexton.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -22614,7 +22203,6 @@
     vacant: false
     bioguide: "C001078"
     thomas: "1959"
-    govtrack: "412272"
     opensecrets: "N00029891"
     votesmart: "95078"
     fec: "H8VA11062"
@@ -22669,7 +22257,6 @@
     vacant: false
     bioguide: "W000800"
     thomas: "1879"
-    govtrack: "412239"
     opensecrets: "N00000515"
     votesmart: "51272"
     fec: "H6VT00160"
@@ -22724,7 +22311,6 @@
     vacant: false
     bioguide: "D000617"
     thomas: "2096"
-    govtrack: "412505"
     opensecrets: "N00030693"
     votesmart: "126272"
     fec: "H0WA08046"
@@ -22779,7 +22365,6 @@
     vacant: false
     bioguide: "L000560"
     thomas: "1675"
-    govtrack: "400232"
     opensecrets: "N00009759"
     votesmart: "56231"
     fec: "H0WA02080"
@@ -22834,7 +22419,6 @@
     vacant: false
     bioguide: "H001056"
     thomas: "2071"
-    govtrack: "412486"
     opensecrets: "N00031559"
     votesmart: "101907"
     fec: "H0WA03187"
@@ -22889,7 +22473,6 @@
     vacant: false
     bioguide: "N000189"
     thomas: "2275"
-    govtrack: "412660"
     opensecrets: "N00036403"
     votesmart: "51522"
     fec: "H4WA04104"
@@ -22944,7 +22527,6 @@
     vacant: false
     bioguide: "M001159"
     thomas: "1809"
-    govtrack: "400659"
     opensecrets: "N00026314"
     votesmart: "3217"
     fec: "H4WA05077"
@@ -22999,7 +22581,6 @@
     vacant: false
     bioguide: "K000381"
     thomas: "2169"
-    govtrack: "412583"
     opensecrets: "N00034453"
     votesmart: "51516"
     fec: "H2WA06129"
@@ -23054,7 +22635,6 @@
     vacant: false
     bioguide: "J000298"
     thomas: null
-    govtrack: "412730"
     opensecrets: "N00038858"
     votesmart: "153141"
     fec: "H6WA07458"
@@ -23109,7 +22689,6 @@
     vacant: false
     bioguide: "S001216"
     thomas: null
-    govtrack: "412835"
     opensecrets: "N00041606"
     votesmart: "181124"
     fec: "H8WA08189"
@@ -23148,8 +22727,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://schrier.house.gov/"
+    contact_page: "https://schrier.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -23164,7 +22743,6 @@
     vacant: false
     bioguide: "S000510"
     thomas: "1528"
-    govtrack: "400379"
     opensecrets: "N00007833"
     votesmart: "845"
     fec: "H6WA09025"
@@ -23219,7 +22797,6 @@
     vacant: false
     bioguide: "H001064"
     thomas: "2170"
-    govtrack: "412584"
     opensecrets: "N00031557"
     votesmart: "126058"
     fec: "H0WA03161"
@@ -23274,7 +22851,6 @@
     vacant: false
     bioguide: "S001213"
     thomas: null
-    govtrack: "412836"
     opensecrets: "N00043379"
     votesmart: "181289"
     fec: "H8WI01156"
@@ -23313,8 +22889,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://steil.house.gov/"
+    contact_page: "https://steil.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -23329,7 +22905,6 @@
     vacant: false
     bioguide: "P000607"
     thomas: "2171"
-    govtrack: "412585"
     opensecrets: "N00033549"
     votesmart: "26238"
     fec: "H2WI02124"
@@ -23384,7 +22959,6 @@
     vacant: false
     bioguide: "K000188"
     thomas: "1498"
-    govtrack: "400218"
     opensecrets: "N00004403"
     votesmart: "630"
     fec: "H6WI03099"
@@ -23439,7 +23013,6 @@
     vacant: false
     bioguide: "M001160"
     thomas: "1811"
-    govtrack: "400661"
     opensecrets: "N00026914"
     votesmart: "3457"
     fec: "H4WI04183"
@@ -23494,7 +23067,6 @@
     vacant: false
     bioguide: "S000244"
     thomas: "1041"
-    govtrack: "400365"
     opensecrets: "N00004291"
     votesmart: "27142"
     fec: "H8WI09050"
@@ -23533,8 +23105,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://sensenbrenner.house.gov/"
+    contact_page: "https://sensenbrenner.house.gov/contact"
     facebook_url: "https://www.facebook.com/SensenbrennerforCongress"
     twitter_handle: "JimPressOffice"
     twitter_url: "https://twitter.com/JimPressOffice"
@@ -23549,7 +23121,6 @@
     vacant: false
     bioguide: "G000576"
     thomas: "2276"
-    govtrack: "412661"
     opensecrets: "N00036409"
     votesmart: "3493"
     fec: "H4WI06048"
@@ -23604,7 +23175,6 @@
     vacant: false
     bioguide: "D000614"
     thomas: "2072"
-    govtrack: "412488"
     opensecrets: "N00030967"
     votesmart: "126238"
     fec: "H0WI07051"
@@ -23659,7 +23229,6 @@
     vacant: false
     bioguide: "G000579"
     thomas: null
-    govtrack: "412731"
     opensecrets: "N00039330"
     votesmart: "171843"
     fec: "H6WI08155"
@@ -23678,7 +23247,7 @@
     pronunciation: "MIKE GAL-luh-ger"
     gender: "male"
     ethnicity: "white-american"
-    religion: null
+    religion: "unspecified"
     openly_lgbtq: "no"
     date_of_birth: "1984-03-03"
     entered_office: "2017-01-03"
@@ -23714,7 +23283,6 @@
     vacant: false
     bioguide: "M001180"
     thomas: "2074"
-    govtrack: "412487"
     opensecrets: "N00031681"
     votesmart: "117396"
     fec: "H0WV01072"
@@ -23769,7 +23337,6 @@
     vacant: false
     bioguide: "M001195"
     thomas: "2277"
-    govtrack: "412662"
     opensecrets: "N00033814"
     votesmart: null
     fec: "H4WV02080"
@@ -23824,7 +23391,6 @@
     vacant: false
     bioguide: "M001205"
     thomas: null
-    govtrack: "412837"
     opensecrets: "N00041542"
     votesmart: "52123"
     fec: "H8WV03097"
@@ -23863,8 +23429,8 @@
     address_state: "DC"
     address_zipcode: "20515"
     address_type: null
-    website: null
-    contact_page: null
+    website: "https://miller.house.gov/"
+    contact_page: "https://miller.house.gov/contact"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -23879,7 +23445,6 @@
     vacant: false
     bioguide: "C001109"
     thomas: null
-    govtrack: "412732"
     opensecrets: "N00035504"
     votesmart: "145932"
     fec: "H6WY00159"

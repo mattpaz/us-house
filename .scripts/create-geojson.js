@@ -24,7 +24,7 @@ var collection = {
  */
 function getProperties(props) {
   for (var i = 0; i < data.length; i++) {
-    if (data[i].state_name === props.state_name && data[i].district === props.district && data[i].at_large === props.at_large) {
+    if (data[i].state_name.toString() === props.state_name.toString() && (!data[i].district || !props.district || parseInt(data[i].district, 10) === parseInt(props.district, 10)) && data[i].at_large.toString() === props.at_large.toString()) {
       return data[i];
     }
   }
@@ -49,7 +49,7 @@ function createDistrictMap(geoJSON) {
       "geometry": geoJSON.geometry
     };
 
-    var districtID = (geoJSON.properties.district) ? '-' + geoJSON.properties.district : '';
+    var districtID = (parseInt(geoJSON.properties.district, 10) > 0) ? '-' + geoJSON.properties.district : '';
     var filename = 'us-house/geojson/us-house-' + geoJSON.properties.state_code_slug + districtID + '.geojson';
     fs.writeFile(filename, JSON.stringify(district, null, 2));
 
@@ -91,4 +91,3 @@ if (!fs.existsSync(geojson_file)) {
 
   console.log('\n☆ GeoJSON Creation Completed ' + '\n');
 }
-

@@ -90,7 +90,6 @@ Parameter               | Type   | Description
 `vacant`                | enum   | Representative Seat is Vacant
 `bioguide`              | string | The alphanumeric ID for this Representative on http://bioguide.congress.gov ( http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001075 )
 `thomas`                | string | The numeric ID for this Representative ( not really used anymore )
-`govtrack`              | string | The numeric ID for this Representative on GovTrack.us ( https://www.govtrack.us/congress/members/412630 )
 `opensecrets`           | string | The alphanumeric ID for this Representative on OpenSecrets.org ( https://www.opensecrets.org/politicians/summary.php?cid=N00030245 )
 `votesmart`             | string | The numeric ID for this Representative on VoteSmart.org ( http://votesmart.org/candidate/69494 )
 `fec`                   | string | Federal Election Commission ID ( http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=H6AL04098 )
@@ -137,5 +136,33 @@ Parameter               | Type   | Description
 `photo_url`             | string | Photo URL of Representative ( not always available )
 
 * `photo_url` is available in the following sizes: 64x64, 128x128, 256x256, 512x512 & 1024x1024 ( defaults to 512x512 )
+
+</details>
+
+
+Update Instructions
+---
+
+Updating House Data can be done with the following instructions:
+
+<details>
+  <summary>View Instructions</summary>
+
+1. [Download Latest CSV](https://docs.google.com/spreadsheets/d/1R5YEDPBZnlKzDtq3tf8pF55Ud68EYoBhbyMhq6ymB2Q/export?format=csv&id=1R5YEDPBZnlKzDtq3tf8pF55Ud68EYoBhbyMhq6ymB2Q&gid=539831285) from Google Sheets
+2. Replace [./source/us-house.csv](./source/us-house.csv) with this new file
+3. Run the following commands:
+
+```bash
+npm run convert-csv
+npm run build-data
+npm run build-geojson
+npm run build-seeder
+```
+
+If you created new images because of a change in elected officials, you will also need to run:
+
+```bash
+npm run build-images
+```
 
 </details>

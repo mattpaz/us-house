@@ -28,7 +28,6 @@
     "state",
     "district",
     "bioguide",
-    "govtrack",
     "opensecrets",
     "votesmart",
     "fec",
@@ -80,6 +79,7 @@
     "console-headshots": "node ./.scripts/console-headshots.js",
     "convert-csv": "if ( test -e ./source/us-house.csv ); then node ./.scripts/convert-csv.js; else echo '\n× Missing ./source/us-house.csv ( see ./source/README.md )\n'; fi",
     "build-geojson": "node ./.scripts/create-geojson.js",
+    "build-seeder": "node ./.scripts/create-seeder.js",
     "build-images": "npm run -s resize-headshots && npm run -s resize-backgrounds && echo '\n☆ Image Conversion Complete\n'",
     "build-data": "if ( test -e ./us-house/data/us-house.csv ); then npm run -s csv-to-json && npm run -s json-to-yml && npm run -s json-to-xml && npm run -s csv-to-sql && echo '\n☆ Data Conversion Complete\n'; else echo '\n× Missing ./us-house/data/us-house.csv\n'; fi",
     "build": "npm run -s convert-csv && npm run -s build && npm run -s build-images && npm run -s build-geojson && echo '\n☆ヽ(´▽｀)ノ All Done \n'"

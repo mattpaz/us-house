@@ -17,7 +17,6 @@
     "vacant": false,
     "bioguide": "M001203",
     "thomas": null,
-    "govtrack": "412798",
     "opensecrets": "N00041843",
     "votesmart": "179645",
     "fec": "H8NJ07223",
@@ -56,8 +55,8 @@
     "address_state": "DC",
     "address_zipcode": "20003",
     "address_type": null,
-    "website": null,
-    "contact_page": null,
+    "website": "https://malinowski.house.gov/",
+    "contact_page": "https://malinowski.house.gov/contact",
     "facebook_url": null,
     "twitter_handle": null,
     "twitter_url": null,
@@ -658,16 +657,6 @@
         [
           -75.203921,
           40.691498
-        ]
-      ],
-      [
-        [
-          -74.5687,
-          40.900724
-        ],
-        [
-          -74.5687,
-          40.900724
         ]
       ]
     ]

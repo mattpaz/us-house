@@ -17,7 +17,6 @@
     "vacant": false,
     "bioguide": "B001309",
     "thomas": null,
-    "govtrack": "412817",
     "opensecrets": "N00041594",
     "votesmart": "24379",
     "fec": "H8TN02119",
@@ -56,8 +55,8 @@
     "address_state": "DC",
     "address_zipcode": "20003",
     "address_type": null,
-    "website": null,
-    "contact_page": null,
+    "website": "https://burchett.house.gov/",
+    "contact_page": "https://burchett.house.gov/contact",
     "facebook_url": null,
     "twitter_handle": null,
     "twitter_url": null,
@@ -111,18 +110,6 @@
           [
             -84.540355,
             35.619427
-          ]
-        ]
-      ],
-      [
-        [
-          [
-            -84.548777,
-            35.673213
-          ],
-          [
-            -84.548777,
-            35.673213
           ]
         ]
       ],

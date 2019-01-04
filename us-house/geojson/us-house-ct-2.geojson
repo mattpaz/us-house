@@ -17,7 +17,6 @@
     "vacant": false,
     "bioguide": "C001069",
     "thomas": "1836",
-    "govtrack": "412193",
     "opensecrets": "N00024842",
     "votesmart": "30333",
     "fec": "H2CT02112",
@@ -66,18 +65,6 @@
   "geometry": {
     "type": "MultiPolygon",
     "coordinates": [
-      [
-        [
-          [
-            -72.602721,
-            41.266584
-          ],
-          [
-            -72.602721,
-            41.266584
-          ]
-        ]
-      ],
       [
         [
           [

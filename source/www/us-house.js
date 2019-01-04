@@ -282,7 +282,9 @@ function init() {
 
     $('input[type="checkbox"]').change(updateRepresentatives);
 
-    LazyLoad.lazyLoadImages();
+    setTimeout(function(){
+      LazyLoad.lazyLoadImages();
+    }, 1000);
 
     $('#scroll-wrapper').scroll(function () {
       clearTimeout(lazyInterval);
@@ -427,11 +429,11 @@ function doSearch(){
 function updateRepresentatives () {
   // Handle Title
   var $representative = $('.representative[data-title="representative"]');
-  var $house_speaker = $('.representative[data-title="house_speaker"]');
-  var $house_majority_leader = $('.representative[data-title="house_majority_leader"]');
-  var $house_majority_whip = $('.representative[data-title="house_majority_whip"]');
-  var $house_minority_leader = $('.representative[data-title="house_minority_leader"]');
-  var $house_minority_whip = $('.representative[data-title="house_minority_whip"]');
+  var $house_speaker = $('.representative[data-title="house-speaker"]');
+  var $house_majority_leader = $('.representative[data-title="house-majority-leader"]');
+  var $house_majority_whip = $('.representative[data-title="house-majority-whip"]');
+  var $house_minority_leader = $('.representative[data-title="house-minority-leader"]');
+  var $house_minority_whip = $('.representative[data-title="house-minority-whip"]');
   var $republican_conference_chairman = $('.representative[data-title="republican-conference-chairman"]');
   var $republican_policy_committee_chairman = $('.representative[data-title="republican-policy-committee-chairman"]');
   var $assistant_democratic_leader = $('.representative[data-title="assistant-democratic-leader"]');

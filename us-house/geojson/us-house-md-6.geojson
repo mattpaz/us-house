@@ -17,7 +17,6 @@
     "vacant": false,
     "bioguide": "T000483",
     "thomas": null,
-    "govtrack": "412783",
     "opensecrets": "N00039122",
     "votesmart": "167336",
     "fec": "H8MD06168",
@@ -56,8 +55,8 @@
     "address_state": "DC",
     "address_zipcode": "20003",
     "address_type": null,
-    "website": null,
-    "contact_page": null,
+    "website": "https://trone.house.gov/",
+    "contact_page": "https://trone.house.gov/contact",
     "facebook_url": null,
     "twitter_handle": null,
     "twitter_url": null,
@@ -1154,16 +1153,6 @@
         [
           -79.48765,
           39.279954
-        ]
-      ],
-      [
-        [
-          -77.416786,
-          39.485347
-        ],
-        [
-          -77.416786,
-          39.485347
         ]
       ]
     ]

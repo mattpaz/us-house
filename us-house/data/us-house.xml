@@ -10,7 +10,6 @@
         <vacant>false</vacant>
         <bioguide>Y000033</bioguide>
         <thomas>1256</thomas>
-        <govtrack>400440</govtrack>
         <opensecrets>N00007999</opensecrets>
         <votesmart>26717</votesmart>
         <fec>H6AK00045</fec>
@@ -66,7 +65,6 @@
         <vacant>false</vacant>
         <bioguide>B001289</bioguide>
         <thomas>2197</thomas>
-        <govtrack>412601</govtrack>
         <opensecrets>N00035380</opensecrets>
         <votesmart>27584</votesmart>
         <fec>H4AL01123</fec>
@@ -122,7 +120,6 @@
         <vacant>false</vacant>
         <bioguide>R000591</bioguide>
         <thomas>1986</thomas>
-        <govtrack>412394</govtrack>
         <opensecrets>N00030768</opensecrets>
         <votesmart>71604</votesmart>
         <fec>H0AL02087</fec>
@@ -178,7 +175,6 @@
         <vacant>false</vacant>
         <bioguide>R000575</bioguide>
         <thomas>1704</thomas>
-        <govtrack>400341</govtrack>
         <opensecrets>N00024759</opensecrets>
         <votesmart>5705</votesmart>
         <fec>H2AL03032</fec>
@@ -234,7 +230,6 @@
         <vacant>false</vacant>
         <bioguide>A000055</bioguide>
         <thomas>1460</thomas>
-        <govtrack>400004</govtrack>
         <opensecrets>N00003028</opensecrets>
         <votesmart>441</votesmart>
         <fec>H6AL04098</fec>
@@ -290,7 +285,6 @@
         <vacant>false</vacant>
         <bioguide>B001274</bioguide>
         <thomas>1987</thomas>
-        <govtrack>412395</govtrack>
         <opensecrets>N00030910</opensecrets>
         <votesmart>121610</votesmart>
         <fec>H0AL05163</fec>
@@ -346,7 +340,6 @@
         <vacant>false</vacant>
         <bioguide>P000609</bioguide>
         <thomas>2221</thomas>
-        <govtrack>412608</govtrack>
         <opensecrets>N00035691</opensecrets>
         <votesmart>146274</votesmart>
         <fec>H4AL06098</fec>
@@ -402,7 +395,6 @@
         <vacant>false</vacant>
         <bioguide>S001185</bioguide>
         <thomas>1988</thomas>
-        <govtrack>412396</govtrack>
         <opensecrets>N00030622</opensecrets>
         <votesmart>121621</votesmart>
         <fec>H0AL07086</fec>
@@ -458,7 +450,6 @@
         <vacant>false</vacant>
         <bioguide>C001087</bioguide>
         <thomas>1989</thomas>
-        <govtrack>412400</govtrack>
         <opensecrets>N00030770</opensecrets>
         <votesmart>119208</votesmart>
         <fec>H0AR01083</fec>
@@ -514,7 +505,6 @@
         <vacant>false</vacant>
         <bioguide>H001072</bioguide>
         <thomas>2223</thomas>
-        <govtrack>412609</govtrack>
         <opensecrets>N00035792</opensecrets>
         <votesmart>146290</votesmart>
         <fec>H4AR02141</fec>
@@ -570,7 +560,6 @@
         <vacant>false</vacant>
         <bioguide>W000809</bioguide>
         <thomas>1991</thomas>
-        <govtrack>412402</govtrack>
         <opensecrets>N00031857</opensecrets>
         <votesmart>71815</votesmart>
         <fec>H0AR03055</fec>
@@ -626,7 +615,6 @@
         <vacant>false</vacant>
         <bioguide>W000821</bioguide>
         <thomas>2224</thomas>
-        <govtrack>412610</govtrack>
         <opensecrets>N00035527</opensecrets>
         <votesmart>119120</votesmart>
         <fec>H4AR04048</fec>
@@ -682,7 +670,6 @@
         <vacant>false</vacant>
         <bioguide>O000171</bioguide>
         <thomas>null</thomas>
-        <govtrack>412682</govtrack>
         <opensecrets>N00037515</opensecrets>
         <votesmart>28499</votesmart>
         <fec>H6AZ01199</fec>
@@ -738,7 +725,6 @@
         <vacant>false</vacant>
         <bioguide>K000368</bioguide>
         <thomas>null</thomas>
-        <govtrack>412286</govtrack>
         <opensecrets>N00029260</opensecrets>
         <votesmart>28425</votesmart>
         <fec>H8AZ02151</fec>
@@ -794,7 +780,6 @@
         <vacant>false</vacant>
         <bioguide>G000551</bioguide>
         <thomas>1708</thomas>
-        <govtrack>400162</govtrack>
         <opensecrets>N00025284</opensecrets>
         <votesmart>28253</votesmart>
         <fec>H2AZ07070</fec>
@@ -850,7 +835,6 @@
         <vacant>false</vacant>
         <bioguide>G000565</bioguide>
         <thomas>1992</thomas>
-        <govtrack>412397</govtrack>
         <opensecrets>N00030771</opensecrets>
         <votesmart>123491</votesmart>
         <fec>H0AZ01259</fec>
@@ -906,7 +890,6 @@
         <vacant>false</vacant>
         <bioguide>B001302</bioguide>
         <thomas>null</thomas>
-        <govtrack>412683</govtrack>
         <opensecrets>N00039293</opensecrets>
         <votesmart>28088</votesmart>
         <fec>H6AZ05083</fec>
@@ -962,7 +945,6 @@
         <vacant>false</vacant>
         <bioguide>S001183</bioguide>
         <thomas>1994</thomas>
-        <govtrack>412399</govtrack>
         <opensecrets>N00006460</opensecrets>
         <votesmart>106387</votesmart>
         <fec>H4AZ06045</fec>
@@ -1018,7 +1000,6 @@
         <vacant>false</vacant>
         <bioguide>G000574</bioguide>
         <thomas>2226</thomas>
-        <govtrack>412612</govtrack>
         <opensecrets>N00036097</opensecrets>
         <votesmart>null</votesmart>
         <fec>H4AZ07043</fec>
@@ -1074,7 +1055,6 @@
         <vacant>false</vacant>
         <bioguide>F000448</bioguide>
         <thomas>1707</thomas>
-        <govtrack>400141</govtrack>
         <opensecrets>N00006423</opensecrets>
         <votesmart>28399</votesmart>
         <fec>H4AZ04024</fec>
@@ -1130,7 +1110,6 @@
         <vacant>false</vacant>
         <bioguide>S001211</bioguide>
         <thomas>null</thomas>
-        <govtrack>412753</govtrack>
         <opensecrets>N00041750</opensecrets>
         <votesmart>72030</votesmart>
         <fec>H8AZ09040</fec>
@@ -1169,8 +1148,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://stanton.house.gov</website>
+        <contact_page>https://stanton.house.gov/contact/email-me</contact_page>
         <facebook_url>https://www.facebook.com/stantonforarizona</facebook_url>
         <twitter_handle>gregstantonaz</twitter_handle>
         <twitter_url>https://twitter.com/gregstantonaz</twitter_url>
@@ -1186,7 +1165,6 @@
         <vacant>false</vacant>
         <bioguide>L000578</bioguide>
         <thomas>2100</thomas>
-        <govtrack>412510</govtrack>
         <opensecrets>N00033987</opensecrets>
         <votesmart>29713</votesmart>
         <fec>H2CA02142</fec>
@@ -1242,7 +1220,6 @@
         <vacant>false</vacant>
         <bioguide>H001068</bioguide>
         <thomas>2101</thomas>
-        <govtrack>412511</govtrack>
         <opensecrets>N00033030</opensecrets>
         <votesmart>59849</votesmart>
         <fec>H2CA06259</fec>
@@ -1298,7 +1275,6 @@
         <vacant>false</vacant>
         <bioguide>G000559</bioguide>
         <thomas>1973</thomas>
-        <govtrack>412382</govtrack>
         <opensecrets>N00030856</opensecrets>
         <votesmart>29664</votesmart>
         <fec>H0CA10149</fec>
@@ -1354,7 +1330,6 @@
         <vacant>false</vacant>
         <bioguide>M001177</bioguide>
         <thomas>1908</thomas>
-        <govtrack>412295</govtrack>
         <opensecrets>N00006863</opensecrets>
         <votesmart>9715</votesmart>
         <fec>H8CA04152</fec>
@@ -1410,7 +1385,6 @@
         <vacant>false</vacant>
         <bioguide>T000460</bioguide>
         <thomas>1593</thomas>
-        <govtrack>400403</govtrack>
         <opensecrets>N00007419</opensecrets>
         <votesmart>3564</votesmart>
         <fec>H8CA01109</fec>
@@ -1466,7 +1440,6 @@
         <vacant>false</vacant>
         <bioguide>M001163</bioguide>
         <thomas>1814</thomas>
-        <govtrack>400663</govtrack>
         <opensecrets>N00027459</opensecrets>
         <votesmart>28593</votesmart>
         <fec>H6CA05195</fec>
@@ -1522,7 +1495,6 @@
         <vacant>false</vacant>
         <bioguide>B001287</bioguide>
         <thomas>2102</thomas>
-        <govtrack>412512</govtrack>
         <opensecrets>N00030717</opensecrets>
         <votesmart>120030</votesmart>
         <fec>H0CA03078</fec>
@@ -1578,7 +1550,6 @@
         <vacant>false</vacant>
         <bioguide>C001094</bioguide>
         <thomas>2103</thomas>
-        <govtrack>412513</govtrack>
         <opensecrets>N00034224</opensecrets>
         <votesmart>58121</votesmart>
         <fec>H2CA08164</fec>
@@ -1634,7 +1605,6 @@
         <vacant>false</vacant>
         <bioguide>M001166</bioguide>
         <thomas>1832</thomas>
-        <govtrack>412189</govtrack>
         <opensecrets>N00026926</opensecrets>
         <votesmart>29474</votesmart>
         <fec>H4CA11081</fec>
@@ -1690,7 +1660,6 @@
         <vacant>false</vacant>
         <bioguide>H001090</bioguide>
         <thomas>null</thomas>
-        <govtrack>412754</govtrack>
         <opensecrets>N00040853</opensecrets>
         <votesmart>179326</votesmart>
         <fec>H8CA10126</fec>
@@ -1729,8 +1698,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://harder.house.gov</website>
+        <contact_page>https://harder.house.gov/contact/email-me</contact_page>
         <facebook_url>https://www.facebook.com/harderforcongress/</facebook_url>
         <twitter_handle>joshua_harder</twitter_handle>
         <twitter_url>https://twitter.com/joshua_harder</twitter_url>
@@ -1746,7 +1715,6 @@
         <vacant>false</vacant>
         <bioguide>D000623</bioguide>
         <thomas>2227</thomas>
-        <govtrack>412613</govtrack>
         <opensecrets>N00030709</opensecrets>
         <votesmart>null</votesmart>
         <fec>H0CA10073</fec>
@@ -1802,14 +1770,13 @@
         <vacant>false</vacant>
         <bioguide>P000197</bioguide>
         <thomas>905</thomas>
-        <govtrack>400314</govtrack>
         <opensecrets>N00007360</opensecrets>
         <votesmart>26732</votesmart>
         <fec>H8CA05035</fec>
         <maplight>408</maplight>
         <wikidata>Q170581</wikidata>
         <google_entity_id>kg:/m/012v1t</google_entity_id>
-        <title>house_speaker</title>
+        <title>house-speaker</title>
         <party>democrat</party>
         <name>Nancy Pelosi</name>
         <name_slug>nancy-pelosi</name_slug>
@@ -1858,7 +1825,6 @@
         <vacant>false</vacant>
         <bioguide>L000551</bioguide>
         <thomas>1501</thomas>
-        <govtrack>400237</govtrack>
         <opensecrets>N00008046</opensecrets>
         <votesmart>8315</votesmart>
         <fec>H8CA09060</fec>
@@ -1914,7 +1880,6 @@
         <vacant>false</vacant>
         <bioguide>S001175</bioguide>
         <thomas>1890</thomas>
-        <govtrack>412259</govtrack>
         <opensecrets>N00029649</opensecrets>
         <votesmart>8425</votesmart>
         <fec>H8CA12171</fec>
@@ -1970,7 +1935,6 @@
         <vacant>false</vacant>
         <bioguide>S001193</bioguide>
         <thomas>2104</thomas>
-        <govtrack>412514</govtrack>
         <opensecrets>N00033508</opensecrets>
         <votesmart>129529</votesmart>
         <fec>H2CA15094</fec>
@@ -2026,7 +1990,6 @@
         <vacant>false</vacant>
         <bioguide>C001059</bioguide>
         <thomas>1774</thomas>
-        <govtrack>400618</govtrack>
         <opensecrets>N00026341</opensecrets>
         <votesmart>3577</votesmart>
         <fec>H4CA20082</fec>
@@ -2082,7 +2045,6 @@
         <vacant>false</vacant>
         <bioguide>K000389</bioguide>
         <thomas>null</thomas>
-        <govtrack>412684</govtrack>
         <opensecrets>N00026427</opensecrets>
         <votesmart>29473</votesmart>
         <fec>H4CA12055</fec>
@@ -2138,7 +2100,6 @@
         <vacant>false</vacant>
         <bioguide>E000215</bioguide>
         <thomas>355</thomas>
-        <govtrack>400124</govtrack>
         <opensecrets>N00007335</opensecrets>
         <votesmart>26741</votesmart>
         <fec>H8CA12098</fec>
@@ -2194,7 +2155,6 @@
         <vacant>false</vacant>
         <bioguide>L000397</bioguide>
         <thomas>701</thomas>
-        <govtrack>400245</govtrack>
         <opensecrets>N00007479</opensecrets>
         <votesmart>21899</votesmart>
         <fec>H4CA16049</fec>
@@ -2250,7 +2210,6 @@
         <vacant>false</vacant>
         <bioguide>P000613</bioguide>
         <thomas>null</thomas>
-        <govtrack>412685</govtrack>
         <opensecrets>N00038601</opensecrets>
         <votesmart>169078</votesmart>
         <fec>H6CA20152</fec>
@@ -2306,7 +2265,6 @@
         <vacant>false</vacant>
         <bioguide>C001124</bioguide>
         <thomas>null</thomas>
-        <govtrack>412755</govtrack>
         <opensecrets>N00028122</opensecrets>
         <votesmart>57197</votesmart>
         <fec>H6CA19113</fec>
@@ -2345,8 +2303,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://cox.house.gov</website>
+        <contact_page>https://cox.house.gov/contact/email-me</contact_page>
         <facebook_url>https://www.facebook.com/tjcoxforcongress</facebook_url>
         <twitter_handle>TJCoxCongress</twitter_handle>
         <twitter_url>https://twitter.com/TJCoxCongress</twitter_url>
@@ -2362,7 +2320,6 @@
         <vacant>false</vacant>
         <bioguide>N000181</bioguide>
         <thomas>1710</thomas>
-        <govtrack>400297</govtrack>
         <opensecrets>N00007248</opensecrets>
         <votesmart>16725</votesmart>
         <fec>H8CA20059</fec>
@@ -2418,14 +2375,13 @@
         <vacant>false</vacant>
         <bioguide>M001165</bioguide>
         <thomas>1833</thomas>
-        <govtrack>412190</govtrack>
         <opensecrets>N00028152</opensecrets>
         <votesmart>28918</votesmart>
         <fec>H6CA22125</fec>
         <maplight>677</maplight>
         <wikidata>Q766866</wikidata>
         <google_entity_id>kg:/m/074qxm</google_entity_id>
-        <title>house_minority_leader</title>
+        <title>house-minority-leader</title>
         <party>republican</party>
         <name>Kevin McCarthy</name>
         <name_slug>kevin-mccarthy</name_slug>
@@ -2457,8 +2413,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://kevinmccarthy.house.gov</website>
+        <contact_page>https://kevinmccarthy.house.gov/contact/email-me</contact_page>
         <facebook_url>https://www.facebook.com/CongressmanKevinMcCarthy/</facebook_url>
         <twitter_handle>GOPLeader</twitter_handle>
         <twitter_url>https://twitter.com/GOPLeader</twitter_url>
@@ -2474,7 +2430,6 @@
         <vacant>false</vacant>
         <bioguide>C001112</bioguide>
         <thomas>null</thomas>
-        <govtrack>412686</govtrack>
         <opensecrets>N00037015</opensecrets>
         <votesmart>81569</votesmart>
         <fec>H6CA24303</fec>
@@ -2530,7 +2485,6 @@
         <vacant>false</vacant>
         <bioguide>H001087</bioguide>
         <thomas>null</thomas>
-        <govtrack>412756</govtrack>
         <opensecrets>N00040644</opensecrets>
         <votesmart>179354</votesmart>
         <fec>H8CA25074</fec>
@@ -2569,8 +2523,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://katiehill.house.gov</website>
+        <contact_page>https://katiehill.house.gov/contact/email-me</contact_page>
         <facebook_url>https://www.facebook.com/KatieHillforCongress/</facebook_url>
         <twitter_handle>KatieHill4CA</twitter_handle>
         <twitter_url>https://twitter.com/KatieHill4CA</twitter_url>
@@ -2586,7 +2540,6 @@
         <vacant>false</vacant>
         <bioguide>B001285</bioguide>
         <thomas>2106</thomas>
-        <govtrack>412516</govtrack>
         <opensecrets>N00034254</opensecrets>
         <votesmart>59904</votesmart>
         <fec>H2CA00120</fec>
@@ -2642,7 +2595,6 @@
         <vacant>false</vacant>
         <bioguide>C001080</bioguide>
         <thomas>1970</thomas>
-        <govtrack>412379</govtrack>
         <opensecrets>N00030600</opensecrets>
         <votesmart>16539</votesmart>
         <fec>H0CA32101</fec>
@@ -2698,7 +2650,6 @@
         <vacant>false</vacant>
         <bioguide>S001150</bioguide>
         <thomas>1635</thomas>
-        <govtrack>400361</govtrack>
         <opensecrets>N00009585</opensecrets>
         <votesmart>9489</votesmart>
         <fec>H0CA27085</fec>
@@ -2737,8 +2688,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://schiff.house.gov</website>
+        <contact_page>https://schiff.house.gov/contact</contact_page>
         <facebook_url>https://www.facebook.com/RepAdamSchiff/</facebook_url>
         <twitter_handle>RepAdamSchiff</twitter_handle>
         <twitter_url>https://twitter.com/RepAdamSchiff</twitter_url>
@@ -2754,7 +2705,6 @@
         <vacant>false</vacant>
         <bioguide>C001097</bioguide>
         <thomas>2107</thomas>
-        <govtrack>412517</govtrack>
         <opensecrets>N00033373</opensecrets>
         <votesmart>9754</votesmart>
         <fec>H2CA28113</fec>
@@ -2810,7 +2760,6 @@
         <vacant>false</vacant>
         <bioguide>S000344</bioguide>
         <thomas>1526</thomas>
-        <govtrack>400371</govtrack>
         <opensecrets>N00006897</opensecrets>
         <votesmart>142</votesmart>
         <fec>H6CA24113</fec>
@@ -2866,7 +2815,6 @@
         <vacant>false</vacant>
         <bioguide>A000371</bioguide>
         <thomas>2229</thomas>
-        <govtrack>412615</govtrack>
         <opensecrets>N00033997</opensecrets>
         <votesmart>70114</votesmart>
         <fec>H2CA31125</fec>
@@ -2922,7 +2870,6 @@
         <vacant>false</vacant>
         <bioguide>N000179</bioguide>
         <thomas>1602</thomas>
-        <govtrack>400290</govtrack>
         <opensecrets>N00006789</opensecrets>
         <votesmart>8393</votesmart>
         <fec>H8CA34068</fec>
@@ -2978,7 +2925,6 @@
         <vacant>false</vacant>
         <bioguide>L000582</bioguide>
         <thomas>2230</thomas>
-        <govtrack>412616</govtrack>
         <opensecrets>N00035825</opensecrets>
         <votesmart>null</votesmart>
         <fec>H4CA33119</fec>
@@ -3034,7 +2980,6 @@
         <vacant>false</vacant>
         <bioguide>G000585</bioguide>
         <thomas>null</thomas>
-        <govtrack>412739</govtrack>
         <opensecrets>N00040597</opensecrets>
         <votesmart>138524</votesmart>
         <fec>H8CA34266</fec>
@@ -3090,7 +3035,6 @@
         <vacant>false</vacant>
         <bioguide>T000474</bioguide>
         <thomas>2231</thomas>
-        <govtrack>412617</govtrack>
         <opensecrets>N00036107</opensecrets>
         <votesmart>null</votesmart>
         <fec>H4CA35031</fec>
@@ -3146,7 +3090,6 @@
         <vacant>false</vacant>
         <bioguide>R000599</bioguide>
         <thomas>2109</thomas>
-        <govtrack>412519</govtrack>
         <opensecrets>N00033510</opensecrets>
         <votesmart>136407</votesmart>
         <fec>H2CA36439</fec>
@@ -3202,7 +3145,6 @@
         <vacant>false</vacant>
         <bioguide>B001270</bioguide>
         <thomas>1996</thomas>
-        <govtrack>412404</govtrack>
         <opensecrets>N00031877</opensecrets>
         <votesmart>28963</votesmart>
         <fec>H0CA33117</fec>
@@ -3258,7 +3200,6 @@
         <vacant>false</vacant>
         <bioguide>S001156</bioguide>
         <thomas>1757</thomas>
-        <govtrack>400355</govtrack>
         <opensecrets>N00024870</opensecrets>
         <votesmart>29674</votesmart>
         <fec>H2CA39078</fec>
@@ -3314,7 +3255,6 @@
         <vacant>false</vacant>
         <bioguide>C001123</bioguide>
         <thomas>null</thomas>
-        <govtrack>412757</govtrack>
         <opensecrets>N00041464</opensecrets>
         <votesmart>179370</votesmart>
         <fec>H8CA39174</fec>
@@ -3353,8 +3293,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://cisneros.house.gov</website>
+        <contact_page>https://cisneros.house.gov/contact</contact_page>
         <facebook_url>https://www.facebook.com/GilCisnerosCA/</facebook_url>
         <twitter_handle>GilCisnerosCA</twitter_handle>
         <twitter_url>https://twitter.com/GilCisnerosCA</twitter_url>
@@ -3370,7 +3310,6 @@
         <vacant>false</vacant>
         <bioguide>R000486</bioguide>
         <thomas>997</thomas>
-        <govtrack>400347</govtrack>
         <opensecrets>N00006671</opensecrets>
         <votesmart>26766</votesmart>
         <fec>H2CA33048</fec>
@@ -3426,7 +3365,6 @@
         <vacant>false</vacant>
         <bioguide>T000472</bioguide>
         <thomas>2110</thomas>
-        <govtrack>412520</govtrack>
         <opensecrets>N00006701</opensecrets>
         <votesmart>22337</votesmart>
         <fec>H2CA43245</fec>
@@ -3482,7 +3420,6 @@
         <vacant>false</vacant>
         <bioguide>C000059</bioguide>
         <thomas>165</thomas>
-        <govtrack>400057</govtrack>
         <opensecrets>N00007099</opensecrets>
         <votesmart>26777</votesmart>
         <fec>H2CA37023</fec>
@@ -3538,7 +3475,6 @@
         <vacant>false</vacant>
         <bioguide>W000187</bioguide>
         <thomas>1205</thomas>
-        <govtrack>400422</govtrack>
         <opensecrets>N00006690</opensecrets>
         <votesmart>26759</votesmart>
         <fec>H4CA23011</fec>
@@ -3594,7 +3530,6 @@
         <vacant>false</vacant>
         <bioguide>B001300</bioguide>
         <thomas>null</thomas>
-        <govtrack>412687</govtrack>
         <opensecrets>N00037019</opensecrets>
         <votesmart>166270</votesmart>
         <fec>H6CA44103</fec>
@@ -3650,7 +3585,6 @@
         <vacant>false</vacant>
         <bioguide>P000618</bioguide>
         <thomas>null</thomas>
-        <govtrack>412758</govtrack>
         <opensecrets>N00040865</opensecrets>
         <votesmart>179393</votesmart>
         <fec>H8CA45130</fec>
@@ -3689,8 +3623,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://porter.house.gov</website>
+        <contact_page>https://porter.house.gov/contact</contact_page>
         <facebook_url>https://www.facebook.com/katieporteroc</facebook_url>
         <twitter_handle>katieporteroc</twitter_handle>
         <twitter_url>https://twitter.com/katieporteroc</twitter_url>
@@ -3706,7 +3640,6 @@
         <vacant>false</vacant>
         <bioguide>C001110</bioguide>
         <thomas>null</thomas>
-        <govtrack>412688</govtrack>
         <opensecrets>N00037260</opensecrets>
         <votesmart>9732</votesmart>
         <fec>H6CA46116</fec>
@@ -3762,7 +3695,6 @@
         <vacant>false</vacant>
         <bioguide>L000579</bioguide>
         <thomas>2111</thomas>
-        <govtrack>412521</govtrack>
         <opensecrets>N00033274</opensecrets>
         <votesmart>16469</votesmart>
         <fec>H2CA00104</fec>
@@ -3818,7 +3750,6 @@
         <vacant>false</vacant>
         <bioguide>R000616</bioguide>
         <thomas>null</thomas>
-        <govtrack>412759</govtrack>
         <opensecrets>N00040666</opensecrets>
         <votesmart>179404</votesmart>
         <fec>H8CA48035</fec>
@@ -3857,8 +3788,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://rouda.house.gov</website>
+        <contact_page>https://rouda.house.gov/contact</contact_page>
         <facebook_url>https://www.facebook.com/HarleyforCongress/</facebook_url>
         <twitter_handle>HarleyRouda</twitter_handle>
         <twitter_url>https://twitter.com/HarleyRouda</twitter_url>
@@ -3874,7 +3805,6 @@
         <vacant>false</vacant>
         <bioguide>L000593</bioguide>
         <thomas>null</thomas>
-        <govtrack>412760</govtrack>
         <opensecrets>N00040667</opensecrets>
         <votesmart>179416</votesmart>
         <fec>H8CA49058</fec>
@@ -3913,8 +3843,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://mikelevin.house.gov</website>
+        <contact_page>https://mikelevin.house.gov/contact</contact_page>
         <facebook_url>https://www.facebook.com/LevinforCongress</facebook_url>
         <twitter_handle>MikeLevinCA</twitter_handle>
         <twitter_url>https://twitter.com/MikeLevinCA</twitter_url>
@@ -3930,7 +3860,6 @@
         <vacant>false</vacant>
         <bioguide>H001048</bioguide>
         <thomas>1909</thomas>
-        <govtrack>412283</govtrack>
         <opensecrets>N00029258</opensecrets>
         <votesmart>104308</votesmart>
         <fec>H8CA52052</fec>
@@ -3986,7 +3915,6 @@
         <vacant>false</vacant>
         <bioguide>V000130</bioguide>
         <thomas>2112</thomas>
-        <govtrack>412522</govtrack>
         <opensecrets>N00007021</opensecrets>
         <votesmart>29100</votesmart>
         <fec>H2CA50026</fec>
@@ -4042,7 +3970,6 @@
         <vacant>false</vacant>
         <bioguide>P000608</bioguide>
         <thomas>2113</thomas>
-        <govtrack>412523</govtrack>
         <opensecrets>N00033591</opensecrets>
         <votesmart>70351</votesmart>
         <fec>H2CA52089</fec>
@@ -4098,7 +4025,6 @@
         <vacant>false</vacant>
         <bioguide>D000598</bioguide>
         <thomas>1641</thomas>
-        <govtrack>400097</govtrack>
         <opensecrets>N00009604</opensecrets>
         <votesmart>8168</votesmart>
         <fec>H0CA49055</fec>
@@ -4154,7 +4080,6 @@
         <vacant>false</vacant>
         <bioguide>D000197</bioguide>
         <thomas>1479</thomas>
-        <govtrack>400101</govtrack>
         <opensecrets>N00006134</opensecrets>
         <votesmart>561</votesmart>
         <fec>H6CO01141</fec>
@@ -4210,7 +4135,6 @@
         <vacant>false</vacant>
         <bioguide>N000191</bioguide>
         <thomas>null</thomas>
-        <govtrack>412761</govtrack>
         <opensecrets>N00041080</opensecrets>
         <votesmart>151075</votesmart>
         <fec>H8CO02160</fec>
@@ -4249,8 +4173,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://neguse.house.gov</website>
+        <contact_page>https://neguse.house.gov/contact</contact_page>
         <facebook_url>https://www.facebook.com/joeneguseforcongress/</facebook_url>
         <twitter_handle>JoeNeguse</twitter_handle>
         <twitter_url>https://twitter.com/JoeNeguse</twitter_url>
@@ -4266,7 +4190,6 @@
         <vacant>false</vacant>
         <bioguide>T000470</bioguide>
         <thomas>1997</thomas>
-        <govtrack>412405</govtrack>
         <opensecrets>N00027509</opensecrets>
         <votesmart>65403</votesmart>
         <fec>H6CO03139</fec>
@@ -4322,7 +4245,6 @@
         <vacant>false</vacant>
         <bioguide>B001297</bioguide>
         <thomas>2233</thomas>
-        <govtrack>412619</govtrack>
         <opensecrets>N00030829</opensecrets>
         <votesmart>125319</votesmart>
         <fec>S0CO00237</fec>
@@ -4378,7 +4300,6 @@
         <vacant>false</vacant>
         <bioguide>L000564</bioguide>
         <thomas>1834</thomas>
-        <govtrack>412191</govtrack>
         <opensecrets>N00028133</opensecrets>
         <votesmart>2698</votesmart>
         <fec>H6CO05159</fec>
@@ -4434,7 +4355,6 @@
         <vacant>false</vacant>
         <bioguide>C001121</bioguide>
         <thomas>null</thomas>
-        <govtrack>412762</govtrack>
         <opensecrets>N00040876</opensecrets>
         <votesmart>180218</votesmart>
         <fec>H8CO06229</fec>
@@ -4473,8 +4393,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://crow.house.gov</website>
+        <contact_page>https://crow.house.gov/contact</contact_page>
         <facebook_url>https://www.facebook.com/JasonCrowforCongress/</facebook_url>
         <twitter_handle>JasonCrowCO6</twitter_handle>
         <twitter_url>https://twitter.com/JasonCrowCO6</twitter_url>
@@ -4490,7 +4410,6 @@
         <vacant>false</vacant>
         <bioguide>P000593</bioguide>
         <thomas>1835</thomas>
-        <govtrack>412192</govtrack>
         <opensecrets>N00027510</opensecrets>
         <votesmart>2653</votesmart>
         <fec>H6CO07023</fec>
@@ -4546,7 +4465,6 @@
         <vacant>false</vacant>
         <bioguide>L000557</bioguide>
         <thomas>1583</thomas>
-        <govtrack>400233</govtrack>
         <opensecrets>N00000575</opensecrets>
         <votesmart>17188</votesmart>
         <fec>H8CT01046</fec>
@@ -4602,7 +4520,6 @@
         <vacant>false</vacant>
         <bioguide>C001069</bioguide>
         <thomas>1836</thomas>
-        <govtrack>412193</govtrack>
         <opensecrets>N00024842</opensecrets>
         <votesmart>30333</votesmart>
         <fec>H2CT02112</fec>
@@ -4658,7 +4575,6 @@
         <vacant>false</vacant>
         <bioguide>D000216</bioguide>
         <thomas>281</thomas>
-        <govtrack>400103</govtrack>
         <opensecrets>N00000615</opensecrets>
         <votesmart>26788</votesmart>
         <fec>H0CT03072</fec>
@@ -4714,7 +4630,6 @@
         <vacant>false</vacant>
         <bioguide>H001047</bioguide>
         <thomas>1913</thomas>
-        <govtrack>412282</govtrack>
         <opensecrets>N00029070</opensecrets>
         <votesmart>106744</votesmart>
         <fec>H8CT04172</fec>
@@ -4770,7 +4685,6 @@
         <vacant>false</vacant>
         <bioguide>H001081</bioguide>
         <thomas>null</thomas>
-        <govtrack>412763</govtrack>
         <opensecrets>N00043421</opensecrets>
         <votesmart>181744</votesmart>
         <fec>H8CT05245</fec>
@@ -4809,8 +4723,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://hayes.house.gov</website>
+        <contact_page>https://hayes.house.gov/contact</contact_page>
         <facebook_url>https://www.facebook.com/jahanahayesct/</facebook_url>
         <twitter_handle>jahanahayesct?lang=en</twitter_handle>
         <twitter_url>https://twitter.com/jahanahayesct?lang=en</twitter_url>
@@ -4826,7 +4740,6 @@
         <vacant>false</vacant>
         <bioguide>B001303</bioguide>
         <thomas>null</thomas>
-        <govtrack>412689</govtrack>
         <opensecrets>N00038414</opensecrets>
         <votesmart>173249</votesmart>
         <fec>H6DE00206</fec>
@@ -4882,7 +4795,6 @@
         <vacant>false</vacant>
         <bioguide>G000578</bioguide>
         <thomas>null</thomas>
-        <govtrack>412690</govtrack>
         <opensecrets>N00039503</opensecrets>
         <votesmart>117101</votesmart>
         <fec>H6FL01119</fec>
@@ -4938,7 +4850,6 @@
         <vacant>false</vacant>
         <bioguide>D000628</bioguide>
         <thomas>null</thomas>
-        <govtrack>412691</govtrack>
         <opensecrets>N00037442</opensecrets>
         <votesmart>166297</votesmart>
         <fec>H6FL02208</fec>
@@ -4994,7 +4905,6 @@
         <vacant>false</vacant>
         <bioguide>Y000065</bioguide>
         <thomas>2115</thomas>
-        <govtrack>412525</govtrack>
         <opensecrets>N00033220</opensecrets>
         <votesmart>137622</votesmart>
         <fec>H2FL06109</fec>
@@ -5050,7 +4960,6 @@
         <vacant>false</vacant>
         <bioguide>R000609</bioguide>
         <thomas>null</thomas>
-        <govtrack>412692</govtrack>
         <opensecrets>N00039777</opensecrets>
         <votesmart>172542</votesmart>
         <fec>H6FL04105</fec>
@@ -5106,7 +5015,6 @@
         <vacant>false</vacant>
         <bioguide>L000586</bioguide>
         <thomas>null</thomas>
-        <govtrack>412693</govtrack>
         <opensecrets>N00030642</opensecrets>
         <votesmart>24263</votesmart>
         <fec>H0FL02086</fec>
@@ -5162,7 +5070,6 @@
         <vacant>false</vacant>
         <bioguide>W000823</bioguide>
         <thomas>null</thomas>
-        <govtrack>412764</govtrack>
         <opensecrets>N00042403</opensecrets>
         <votesmart>182261</votesmart>
         <fec>H8FL06148</fec>
@@ -5201,8 +5108,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://waltz.house.gov</website>
+        <contact_page>https://waltz.house.gov/contact</contact_page>
         <facebook_url>https://www.facebook.com/Michael.G.Waltz.CandidateforCongressFL6/</facebook_url>
         <twitter_handle>michaelgwaltz</twitter_handle>
         <twitter_url>https://twitter.com/michaelgwaltz</twitter_url>
@@ -5218,7 +5125,6 @@
         <vacant>false</vacant>
         <bioguide>M001202</bioguide>
         <thomas>null</thomas>
-        <govtrack>412694</govtrack>
         <opensecrets>N00040133</opensecrets>
         <votesmart>173426</votesmart>
         <fec>H6FL07140</fec>
@@ -5274,7 +5180,6 @@
         <vacant>false</vacant>
         <bioguide>P000599</bioguide>
         <thomas>1915</thomas>
-        <govtrack>412309</govtrack>
         <opensecrets>N00029662</opensecrets>
         <votesmart>24280</votesmart>
         <fec>H8FL15107</fec>
@@ -5330,7 +5235,6 @@
         <vacant>false</vacant>
         <bioguide>S001200</bioguide>
         <thomas>null</thomas>
-        <govtrack>412695</govtrack>
         <opensecrets>N00037422</opensecrets>
         <votesmart>67618</votesmart>
         <fec>H6FL09179</fec>
@@ -5386,7 +5290,6 @@
         <vacant>false</vacant>
         <bioguide>D000627</bioguide>
         <thomas>null</thomas>
-        <govtrack>412696</govtrack>
         <opensecrets>N00033449</opensecrets>
         <votesmart>137637</votesmart>
         <fec>H2FL08063</fec>
@@ -5442,7 +5345,6 @@
         <vacant>false</vacant>
         <bioguide>W000806</bioguide>
         <thomas>2002</thomas>
-        <govtrack>412410</govtrack>
         <opensecrets>N00026335</opensecrets>
         <votesmart>24302</votesmart>
         <fec>H0FL08208</fec>
@@ -5498,7 +5400,6 @@
         <vacant>false</vacant>
         <bioguide>B001257</bioguide>
         <thomas>1838</thomas>
-        <govtrack>412250</govtrack>
         <opensecrets>N00027462</opensecrets>
         <votesmart>17318</votesmart>
         <fec>H6FL09070</fec>
@@ -5554,7 +5455,6 @@
         <vacant>false</vacant>
         <bioguide>C001111</bioguide>
         <thomas>null</thomas>
-        <govtrack>412697</govtrack>
         <opensecrets>N00002942</opensecrets>
         <votesmart>24311</votesmart>
         <fec>H6FL13205</fec>
@@ -5610,7 +5510,6 @@
         <vacant>false</vacant>
         <bioguide>C001066</bioguide>
         <thomas>1839</thomas>
-        <govtrack>412195</govtrack>
         <opensecrets>N00027514</opensecrets>
         <votesmart>53825</votesmart>
         <fec>H6FL11126</fec>
@@ -5666,7 +5565,6 @@
         <vacant>false</vacant>
         <bioguide>S001210</bioguide>
         <thomas>null</thomas>
-        <govtrack>412765</govtrack>
         <opensecrets>N00043319</opensecrets>
         <votesmart>142164</votesmart>
         <fec>H8FL15230</fec>
@@ -5705,8 +5603,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://spano.house.gov</website>
+        <contact_page>https://spano.house.gov/contact</contact_page>
         <facebook_url>https://www.facebook.com/RossSpano/</facebook_url>
         <twitter_handle>RossSpano</twitter_handle>
         <twitter_url>https://twitter.com/RossSpano</twitter_url>
@@ -5722,7 +5620,6 @@
         <vacant>false</vacant>
         <bioguide>B001260</bioguide>
         <thomas>1840</thomas>
-        <govtrack>412196</govtrack>
         <opensecrets>N00027626</opensecrets>
         <votesmart>66247</votesmart>
         <fec>H6FL13148</fec>
@@ -5778,7 +5675,6 @@
         <vacant>false</vacant>
         <bioguide>S001214</bioguide>
         <thomas>null</thomas>
-        <govtrack>412766</govtrack>
         <opensecrets>N00042808</opensecrets>
         <votesmart>117248</votesmart>
         <fec>H8FL17053</fec>
@@ -5817,68 +5713,12 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://steube.house.gov</website>
+        <contact_page>https://steube.house.gov/contact</contact_page>
         <facebook_url>https://www.facebook.com/GregSteube/</facebook_url>
         <twitter_handle>gregsteube</twitter_handle>
         <twitter_url>https://twitter.com/gregsteube</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/gregory-steube.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Florida</state_name>
-        <state_name_slug>florida</state_name_slug>
-        <state_code>FL</state_code>
-        <state_code_slug>fl</state_code_slug>
-        <district>19</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>R000607</bioguide>
-        <thomas>null</thomas>
-        <govtrack>412699</govtrack>
-        <opensecrets>N00040007</opensecrets>
-        <votesmart>172678</votesmart>
-        <fec>H6FL19087</fec>
-        <maplight>2211</maplight>
-        <wikidata>Q5482337</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>representative</title>
-        <party>republican</party>
-        <name>Francis Rooney</name>
-        <name_slug>francis-rooney</name_slug>
-        <first_name>Francis</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Rooney</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>FRANN-sis ROO-nee</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1953-12-04</date_of_birth>
-        <entered_office>2017-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Francis Rooney, a Representative from Florida; born in Tulsa, Tulsa County, Okla., December 4, 1953; graduated from Georgetown Preparatory School, North Bethesda, Md., 1971; A.B., Georgetown University, Washington, D.C., 1975; J.D., Georgetown University, Washington, D.C., 1978; business owner; United States Ambassador to the Holy See, 2005-2008; elected as a Republican to the One Hundred Fifteenth Congress (January 3, 2017-present).</biography>
-        <phone>202-225-2536</phone>
-        <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn Hob</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://francisrooney.house.gov</website>
-        <contact_page>https://francisrooney.house.gov/contact/email</contact_page>
-        <facebook_url>https://www.facebook.com/Francis-Rooney-1630804517180066/</facebook_url>
-        <twitter_handle>FrancisRooney</twitter_handle>
-        <twitter_url>https://twitter.com/FrancisRooney</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/francis-rooney.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Florida</state_name>
@@ -5890,7 +5730,6 @@
         <vacant>false</vacant>
         <bioguide>M001199</bioguide>
         <thomas>null</thomas>
-        <govtrack>412698</govtrack>
         <opensecrets>N00037269</opensecrets>
         <votesmart>166245</votesmart>
         <fec>H6FL18097</fec>
@@ -5941,12 +5780,66 @@
         <state_name_slug>florida</state_name_slug>
         <state_code>FL</state_code>
         <state_code_slug>fl</state_code_slug>
+        <district>19</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>R000607</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00040007</opensecrets>
+        <votesmart>172678</votesmart>
+        <fec>H6FL19087</fec>
+        <maplight>2211</maplight>
+        <wikidata>Q5482337</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>representative</title>
+        <party>republican</party>
+        <name>Francis Rooney</name>
+        <name_slug>francis-rooney</name_slug>
+        <first_name>Francis</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Rooney</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>FRANN-sis ROO-nee</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>roman-catholic</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1953-12-04</date_of_birth>
+        <entered_office>2017-01-03</entered_office>
+        <term_end>2021-01-03</term_end>
+        <biography>Francis Rooney, a Representative from Florida; born in Tulsa, Tulsa County, Okla., December 4, 1953; graduated from Georgetown Preparatory School, North Bethesda, Md., 1971; A.B., Georgetown University, Washington, D.C., 1975; J.D., Georgetown University, Washington, D.C., 1978; business owner; United States Ambassador to the Holy See, 2005-2008; elected as a Republican to the One Hundred Fifteenth Congress (January 3, 2017-present).</biography>
+        <phone>202-225-2536</phone>
+        <fax>null</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn Hob</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://francisrooney.house.gov</website>
+        <contact_page>https://francisrooney.house.gov/contact/email</contact_page>
+        <facebook_url>https://www.facebook.com/Francis-Rooney-1630804517180066/</facebook_url>
+        <twitter_handle>FrancisRooney</twitter_handle>
+        <twitter_url>https://twitter.com/FrancisRooney</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/francis-rooney.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Florida</state_name>
+        <state_name_slug>florida</state_name_slug>
+        <state_code>FL</state_code>
+        <state_code_slug>fl</state_code_slug>
         <district>20</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
         <bioguide>H000324</bioguide>
         <thomas>511</thomas>
-        <govtrack>400170</govtrack>
         <opensecrets>N00002884</opensecrets>
         <votesmart>26798</votesmart>
         <fec>H2FL23021</fec>
@@ -6002,7 +5895,6 @@
         <vacant>false</vacant>
         <bioguide>F000462</bioguide>
         <thomas>2119</thomas>
-        <govtrack>412529</govtrack>
         <opensecrets>N00002893</opensecrets>
         <votesmart>8102</votesmart>
         <fec>H2FL14053</fec>
@@ -6058,7 +5950,6 @@
         <vacant>false</vacant>
         <bioguide>D000610</bioguide>
         <thomas>1976</thomas>
-        <govtrack>412385</govtrack>
         <opensecrets>N00031317</opensecrets>
         <votesmart>67151</votesmart>
         <fec>H0FL19080</fec>
@@ -6114,7 +6005,6 @@
         <vacant>false</vacant>
         <bioguide>W000797</bioguide>
         <thomas>1777</thomas>
-        <govtrack>400623</govtrack>
         <opensecrets>N00026106</opensecrets>
         <votesmart>24301</votesmart>
         <fec>H4FL20023</fec>
@@ -6170,7 +6060,6 @@
         <vacant>false</vacant>
         <bioguide>W000808</bioguide>
         <thomas>2004</thomas>
-        <govtrack>412412</govtrack>
         <opensecrets>N00030650</opensecrets>
         <votesmart>17319</votesmart>
         <fec>H0FL17068</fec>
@@ -6226,7 +6115,6 @@
         <vacant>false</vacant>
         <bioguide>D000600</bioguide>
         <thomas>1717</thomas>
-        <govtrack>400108</govtrack>
         <opensecrets>N00025337</opensecrets>
         <votesmart>24312</votesmart>
         <fec>H2FL25018</fec>
@@ -6282,7 +6170,6 @@
         <vacant>false</vacant>
         <bioguide>M001207</bioguide>
         <thomas>null</thomas>
-        <govtrack>412767</govtrack>
         <opensecrets>N00041561</opensecrets>
         <votesmart>173449</votesmart>
         <fec>H8FL26039</fec>
@@ -6321,8 +6208,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://mucarsel-powell.house.gov</website>
+        <contact_page>https://mucarsel-powell.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -6338,7 +6225,6 @@
         <vacant>false</vacant>
         <bioguide>S001206</bioguide>
         <thomas>null</thomas>
-        <govtrack>412768</govtrack>
         <opensecrets>N00042811</opensecrets>
         <votesmart>182301</votesmart>
         <fec>H8FL27193</fec>
@@ -6377,8 +6263,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://shalala.house.gov</website>
+        <contact_page>https://shalala.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -6394,7 +6280,6 @@
         <vacant>false</vacant>
         <bioguide>C001103</bioguide>
         <thomas>2236</thomas>
-        <govtrack>412622</govtrack>
         <opensecrets>N00035346</opensecrets>
         <votesmart>32085</votesmart>
         <fec>H4GA01039</fec>
@@ -6450,7 +6335,6 @@
         <vacant>false</vacant>
         <bioguide>B000490</bioguide>
         <thomas>91</thomas>
-        <govtrack>400030</govtrack>
         <opensecrets>N00002674</opensecrets>
         <votesmart>26817</votesmart>
         <fec>H2GA02031</fec>
@@ -6506,7 +6390,6 @@
         <vacant>false</vacant>
         <bioguide>F000465</bioguide>
         <thomas>null</thomas>
-        <govtrack>412700</govtrack>
         <opensecrets>N00039090</opensecrets>
         <votesmart>168132</votesmart>
         <fec>H6GA03113</fec>
@@ -6562,7 +6445,6 @@
         <vacant>false</vacant>
         <bioguide>J000288</bioguide>
         <thomas>1843</thomas>
-        <govtrack>412199</govtrack>
         <opensecrets>N00027848</opensecrets>
         <votesmart>68070</votesmart>
         <fec>H6GA04129</fec>
@@ -6618,7 +6500,6 @@
         <vacant>false</vacant>
         <bioguide>L000287</bioguide>
         <thomas>688</thomas>
-        <govtrack>400240</govtrack>
         <opensecrets>N00002577</opensecrets>
         <votesmart>26820</votesmart>
         <fec>H6GA05217</fec>
@@ -6674,7 +6555,6 @@
         <vacant>false</vacant>
         <bioguide>M001208</bioguide>
         <thomas>null</thomas>
-        <govtrack>412769</govtrack>
         <opensecrets>N00042813</opensecrets>
         <votesmart>178538</votesmart>
         <fec>H8GA06393</fec>
@@ -6713,8 +6593,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://mcbath.house.gov</website>
+        <contact_page>https://mcbath.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -6730,7 +6610,6 @@
         <vacant>false</vacant>
         <bioguide>W000810</bioguide>
         <thomas>2008</thomas>
-        <govtrack>412416</govtrack>
         <opensecrets>N00032416</opensecrets>
         <votesmart>122251</votesmart>
         <fec>H0GA07133</fec>
@@ -6786,7 +6665,6 @@
         <vacant>false</vacant>
         <bioguide>S001189</bioguide>
         <thomas>2009</thomas>
-        <govtrack>412417</govtrack>
         <opensecrets>N00032457</opensecrets>
         <votesmart>11812</votesmart>
         <fec>H0GA08099</fec>
@@ -6842,7 +6720,6 @@
         <vacant>false</vacant>
         <bioguide>C001093</bioguide>
         <thomas>2121</thomas>
-        <govtrack>412531</govtrack>
         <opensecrets>N00033518</opensecrets>
         <votesmart>67851</votesmart>
         <fec>H2GA09150</fec>
@@ -6898,7 +6775,6 @@
         <vacant>false</vacant>
         <bioguide>H001071</bioguide>
         <thomas>2237</thomas>
-        <govtrack>412623</govtrack>
         <opensecrets>N00032243</opensecrets>
         <votesmart>122246</votesmart>
         <fec>H0GA07125</fec>
@@ -6954,7 +6830,6 @@
         <vacant>false</vacant>
         <bioguide>L000583</bioguide>
         <thomas>2238</thomas>
-        <govtrack>412624</govtrack>
         <opensecrets>N00035347</opensecrets>
         <votesmart>31618</votesmart>
         <fec>H4GA11061</fec>
@@ -7010,7 +6885,6 @@
         <vacant>false</vacant>
         <bioguide>A000372</bioguide>
         <thomas>2239</thomas>
-        <govtrack>412625</govtrack>
         <opensecrets>N00033720</opensecrets>
         <votesmart>136062</votesmart>
         <fec>H2GA12121</fec>
@@ -7066,7 +6940,6 @@
         <vacant>false</vacant>
         <bioguide>S001157</bioguide>
         <thomas>1722</thomas>
-        <govtrack>400363</govtrack>
         <opensecrets>N00024871</opensecrets>
         <votesmart>7826</votesmart>
         <fec>H2GA13012</fec>
@@ -7122,7 +6995,6 @@
         <vacant>false</vacant>
         <bioguide>G000560</bioguide>
         <thomas>1979</thomas>
-        <govtrack>412388</govtrack>
         <opensecrets>N00030788</opensecrets>
         <votesmart>31969</votesmart>
         <fec>H0GA09030</fec>
@@ -7178,7 +7050,6 @@
         <vacant>false</vacant>
         <bioguide>C001055</bioguide>
         <thomas>null</thomas>
-        <govtrack>400069</govtrack>
         <opensecrets>N00025882</opensecrets>
         <votesmart>3422</votesmart>
         <fec>H2HI02128</fec>
@@ -7217,8 +7088,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://case.house.gov/</website>
+        <contact_page>https://case.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -7234,7 +7105,6 @@
         <vacant>false</vacant>
         <bioguide>G000571</bioguide>
         <thomas>2122</thomas>
-        <govtrack>412532</govtrack>
         <opensecrets>N00033281</opensecrets>
         <votesmart>129306</votesmart>
         <fec>H2HI02508</fec>
@@ -7290,7 +7160,6 @@
         <vacant>false</vacant>
         <bioguide>F000467</bioguide>
         <thomas>null</thomas>
-        <govtrack>412771</govtrack>
         <opensecrets>N00040888</opensecrets>
         <votesmart>151127</votesmart>
         <fec>H8IA01094</fec>
@@ -7329,8 +7198,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://finkenauer.house.gov/</website>
+        <contact_page>https://finkenauer.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -7346,7 +7215,6 @@
         <vacant>false</vacant>
         <bioguide>L000565</bioguide>
         <thomas>1846</thomas>
-        <govtrack>412209</govtrack>
         <opensecrets>N00027741</opensecrets>
         <votesmart>68964</votesmart>
         <fec>H6IA02146</fec>
@@ -7402,7 +7270,6 @@
         <vacant>false</vacant>
         <bioguide>A000378</bioguide>
         <thomas>null</thomas>
-        <govtrack>412772</govtrack>
         <opensecrets>N00041104</opensecrets>
         <votesmart>179226</votesmart>
         <fec>H8IA03124</fec>
@@ -7441,8 +7308,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://axne.house.gov/</website>
+        <contact_page>https://axne.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -7458,7 +7325,6 @@
         <vacant>false</vacant>
         <bioguide>K000362</bioguide>
         <thomas>1724</thomas>
-        <govtrack>400220</govtrack>
         <opensecrets>N00025237</opensecrets>
         <votesmart>10853</votesmart>
         <fec>H2IA05072</fec>
@@ -7514,7 +7380,6 @@
         <vacant>false</vacant>
         <bioguide>F000469</bioguide>
         <thomas>null</thomas>
-        <govtrack>412773</govtrack>
         <opensecrets>N00041335</opensecrets>
         <votesmart>33091</votesmart>
         <fec>H8ID01124</fec>
@@ -7553,8 +7418,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://fulcher.house.gov/</website>
+        <contact_page>https://fulcher.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -7570,7 +7435,6 @@
         <vacant>false</vacant>
         <bioguide>S001148</bioguide>
         <thomas>1590</thomas>
-        <govtrack>400376</govtrack>
         <opensecrets>N00006263</opensecrets>
         <votesmart>2917</votesmart>
         <fec>H8ID02064</fec>
@@ -7626,7 +7490,6 @@
         <vacant>false</vacant>
         <bioguide>R000515</bioguide>
         <thomas>1003</thomas>
-        <govtrack>400350</govtrack>
         <opensecrets>N00004887</opensecrets>
         <votesmart>26831</votesmart>
         <fec>H2IL01042</fec>
@@ -7682,7 +7545,6 @@
         <vacant>false</vacant>
         <bioguide>K000385</bioguide>
         <thomas>2190</thomas>
-        <govtrack>412595</govtrack>
         <opensecrets>N00035215</opensecrets>
         <votesmart>33384</votesmart>
         <fec>H2IL02172</fec>
@@ -7738,7 +7600,6 @@
         <vacant>false</vacant>
         <bioguide>L000563</bioguide>
         <thomas>1781</thomas>
-        <govtrack>400630</govtrack>
         <opensecrets>N00027239</opensecrets>
         <votesmart>33692</votesmart>
         <fec>H4IL03077</fec>
@@ -7794,7 +7655,6 @@
         <vacant>false</vacant>
         <bioguide>G000586</bioguide>
         <thomas>null</thomas>
-        <govtrack>412774</govtrack>
         <opensecrets>N00042114</opensecrets>
         <votesmart>6261</votesmart>
         <fec>H8IL04134</fec>
@@ -7833,8 +7693,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://jesusgarcia.house.gov/</website>
+        <contact_page>https://jesusgarcia.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -7850,7 +7710,6 @@
         <vacant>false</vacant>
         <bioguide>Q000023</bioguide>
         <thomas>1967</thomas>
-        <govtrack>412331</govtrack>
         <opensecrets>N00030581</opensecrets>
         <votesmart>83310</votesmart>
         <fec>H0IL05096</fec>
@@ -7906,7 +7765,6 @@
         <vacant>false</vacant>
         <bioguide>C001117</bioguide>
         <thomas>null</thomas>
-        <govtrack>412775</govtrack>
         <opensecrets>N00041338</opensecrets>
         <votesmart>176982</votesmart>
         <fec>H8IL06139</fec>
@@ -7945,8 +7803,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://casten.house.gov/</website>
+        <contact_page>https://casten.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -7962,7 +7820,6 @@
         <vacant>false</vacant>
         <bioguide>D000096</bioguide>
         <thomas>1477</thomas>
-        <govtrack>400093</govtrack>
         <opensecrets>N00004884</opensecrets>
         <votesmart>233</votesmart>
         <fec>H4IL07037</fec>
@@ -8018,7 +7875,6 @@
         <vacant>false</vacant>
         <bioguide>K000391</bioguide>
         <thomas>null</thomas>
-        <govtrack>412701</govtrack>
         <opensecrets>N00033240</opensecrets>
         <votesmart>117519</votesmart>
         <fec>H6IL08147</fec>
@@ -8074,7 +7930,6 @@
         <vacant>false</vacant>
         <bioguide>S001145</bioguide>
         <thomas>1588</thomas>
-        <govtrack>400360</govtrack>
         <opensecrets>N00004724</opensecrets>
         <votesmart>6387</votesmart>
         <fec>H8IL09067</fec>
@@ -8130,7 +7985,6 @@
         <vacant>false</vacant>
         <bioguide>S001190</bioguide>
         <thomas>2124</thomas>
-        <govtrack>412534</govtrack>
         <opensecrets>N00033101</opensecrets>
         <votesmart>134948</votesmart>
         <fec>H2IL10068</fec>
@@ -8186,7 +8040,6 @@
         <vacant>false</vacant>
         <bioguide>F000454</bioguide>
         <thomas>1888</thomas>
-        <govtrack>412257</govtrack>
         <opensecrets>N00029139</opensecrets>
         <votesmart>101632</votesmart>
         <fec>H8IL14067</fec>
@@ -8242,7 +8095,6 @@
         <vacant>false</vacant>
         <bioguide>B001295</bioguide>
         <thomas>2243</thomas>
-        <govtrack>412629</govtrack>
         <opensecrets>N00035420</opensecrets>
         <votesmart>null</votesmart>
         <fec>H4IL12060</fec>
@@ -8298,7 +8150,6 @@
         <vacant>false</vacant>
         <bioguide>D000619</bioguide>
         <thomas>2126</thomas>
-        <govtrack>412536</govtrack>
         <opensecrets>N00034784</opensecrets>
         <votesmart>9622</votesmart>
         <fec>H2IL13120</fec>
@@ -8354,7 +8205,6 @@
         <vacant>false</vacant>
         <bioguide>U000040</bioguide>
         <thomas>null</thomas>
-        <govtrack>412776</govtrack>
         <opensecrets>N00041569</opensecrets>
         <votesmart>177001</votesmart>
         <fec>H8IL14174</fec>
@@ -8393,8 +8243,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://underwood.house.gov/</website>
+        <contact_page>https://underwood.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -8410,7 +8260,6 @@
         <vacant>false</vacant>
         <bioguide>S000364</bioguide>
         <thomas>1527</thomas>
-        <govtrack>400373</govtrack>
         <opensecrets>N00004961</opensecrets>
         <votesmart>246</votesmart>
         <fec>H2IL20042</fec>
@@ -8466,7 +8315,6 @@
         <vacant>false</vacant>
         <bioguide>K000378</bioguide>
         <thomas>2014</thomas>
-        <govtrack>412421</govtrack>
         <opensecrets>N00030667</opensecrets>
         <votesmart>116559</votesmart>
         <fec>H0IL11052</fec>
@@ -8522,7 +8370,6 @@
         <vacant>false</vacant>
         <bioguide>B001286</bioguide>
         <thomas>2127</thomas>
-        <govtrack>412537</govtrack>
         <opensecrets>N00033390</opensecrets>
         <votesmart>134964</votesmart>
         <fec>H2IL17071</fec>
@@ -8578,7 +8425,6 @@
         <vacant>false</vacant>
         <bioguide>L000585</bioguide>
         <thomas>2295</thomas>
-        <govtrack>412674</govtrack>
         <opensecrets>N00037031</opensecrets>
         <votesmart>128760</votesmart>
         <fec>H6IL18088</fec>
@@ -8634,7 +8480,6 @@
         <vacant>false</vacant>
         <bioguide>V000108</bioguide>
         <thomas>1188</thomas>
-        <govtrack>400417</govtrack>
         <opensecrets>N00003813</opensecrets>
         <votesmart>26851</votesmart>
         <fec>H4IN01012</fec>
@@ -8690,7 +8535,6 @@
         <vacant>false</vacant>
         <bioguide>W000813</bioguide>
         <thomas>2128</thomas>
-        <govtrack>412538</govtrack>
         <opensecrets>N00031226</opensecrets>
         <votesmart>34205</votesmart>
         <fec>H0IN02190</fec>
@@ -8746,7 +8590,6 @@
         <vacant>false</vacant>
         <bioguide>B001299</bioguide>
         <thomas>null</thomas>
-        <govtrack>412702</govtrack>
         <opensecrets>N00037185</opensecrets>
         <votesmart>116801</votesmart>
         <fec>H6IN03229</fec>
@@ -8802,7 +8645,6 @@
         <vacant>false</vacant>
         <bioguide>B001307</bioguide>
         <thomas>null</thomas>
-        <govtrack>412777</govtrack>
         <opensecrets>N00041954</opensecrets>
         <votesmart>86013</votesmart>
         <fec>H8IN04199</fec>
@@ -8841,8 +8683,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://baird.house.gov/</website>
+        <contact_page>https://baird.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -8858,7 +8700,6 @@
         <vacant>false</vacant>
         <bioguide>B001284</bioguide>
         <thomas>2129</thomas>
-        <govtrack>412539</govtrack>
         <opensecrets>N00033495</opensecrets>
         <votesmart>135988</votesmart>
         <fec>H2IN05082</fec>
@@ -8914,7 +8755,6 @@
         <vacant>false</vacant>
         <bioguide>P000615</bioguide>
         <thomas>null</thomas>
-        <govtrack>412778</govtrack>
         <opensecrets>N00041956</opensecrets>
         <votesmart>177876</votesmart>
         <fec>H8IN06129</fec>
@@ -8953,8 +8793,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://pence.house.gov/</website>
+        <contact_page>https://pence.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -8970,7 +8810,6 @@
         <vacant>false</vacant>
         <bioguide>C001072</bioguide>
         <thomas>1889</thomas>
-        <govtrack>412258</govtrack>
         <opensecrets>N00029513</opensecrets>
         <votesmart>84917</votesmart>
         <fec>H8IN07184</fec>
@@ -9021,68 +8860,11 @@
         <state_name_slug>indiana</state_name_slug>
         <state_code>IN</state_code>
         <state_code_slug>in</state_code_slug>
-        <district>8</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>B001275</bioguide>
-        <thomas>2018</thomas>
-        <govtrack>412427</govtrack>
-        <opensecrets>N00031227</opensecrets>
-        <votesmart>120335</votesmart>
-        <fec>H0IN08114</fec>
-        <maplight>1438</maplight>
-        <wikidata>Q944286</wikidata>
-        <google_entity_id>kg:/m/0dd9k_y</google_entity_id>
-        <title>representative</title>
-        <party>republican</party>
-        <name>Larry Bucshon</name>
-        <name_slug>larry-bucshon</name_slug>
-        <first_name>Larry</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Bucshon</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>LAIR-ee boo-SHAHN</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>lutheran</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1962-05-31</date_of_birth>
-        <entered_office>2011-01-05</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Larry Bucshon, a Representative from Indiana; born in Taylorville, Bartholomew County, Ill., May 31, 1962; B.S., University of Illinois, Urbana-Champaign, Ill., 1984; M.D., University of Illinois, Chicago, Ill., 1988; physician; United States Navy Reserve, 1989-1998; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present).</biography>
-        <phone>202-225-4636</phone>
-        <fax>202-225-3284</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn Hob</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://bucshon.house.gov</website>
-        <contact_page>https://bucshon.house.gov/contact</contact_page>
-        <facebook_url>https://www.facebook.com/RepLarryBucshon/</facebook_url>
-        <twitter_handle>RepLarryBucshon</twitter_handle>
-        <twitter_url>https://twitter.com/RepLarryBucshon</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/larry-bucshon.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Indiana</state_name>
-        <state_name_slug>indiana</state_name_slug>
-        <state_code>IN</state_code>
-        <state_code_slug>in</state_code_slug>
         <district>9</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
         <bioguide>H001074</bioguide>
         <thomas>null</thomas>
-        <govtrack>412703</govtrack>
         <opensecrets>N00038429</opensecrets>
         <votesmart>167423</votesmart>
         <fec>H6IN09176</fec>
@@ -9138,7 +8920,6 @@
         <vacant>false</vacant>
         <bioguide>M001198</bioguide>
         <thomas>null</thomas>
-        <govtrack>412704</govtrack>
         <opensecrets>N00037034</opensecrets>
         <votesmart>172080</votesmart>
         <fec>H6KS01179</fec>
@@ -9194,7 +8975,6 @@
         <vacant>false</vacant>
         <bioguide>W000824</bioguide>
         <thomas>null</thomas>
-        <govtrack>412779</govtrack>
         <opensecrets>N00042126</opensecrets>
         <votesmart>181200</votesmart>
         <fec>H8KS02199</fec>
@@ -9233,12 +9013,67 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://watkins.house.gov/</website>
+        <contact_page>https://watkins.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/steven-watkins.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Indiana</state_name>
+        <state_name_slug>indiana</state_name_slug>
+        <state_code>IN</state_code>
+        <state_code_slug>in</state_code_slug>
+        <district>8</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>B001275</bioguide>
+        <thomas>2018</thomas>
+        <opensecrets>N00031227</opensecrets>
+        <votesmart>120335</votesmart>
+        <fec>H0IN08114</fec>
+        <maplight>1438</maplight>
+        <wikidata>Q944286</wikidata>
+        <google_entity_id>kg:/m/0dd9k_y</google_entity_id>
+        <title>representative</title>
+        <party>republican</party>
+        <name>Larry Bucshon</name>
+        <name_slug>larry-bucshon</name_slug>
+        <first_name>Larry</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Bucshon</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>LAIR-ee boo-SHAHN</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>lutheran</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1962-05-31</date_of_birth>
+        <entered_office>2011-01-05</entered_office>
+        <term_end>2021-01-03</term_end>
+        <biography>Larry Bucshon, a Representative from Indiana; born in Taylorville, Bartholomew County, Ill., May 31, 1962; B.S., University of Illinois, Urbana-Champaign, Ill., 1984; M.D., University of Illinois, Chicago, Ill., 1988; physician; United States Navy Reserve, 1989-1998; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present).</biography>
+        <phone>202-225-4636</phone>
+        <fax>202-225-3284</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn Hob</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://bucshon.house.gov</website>
+        <contact_page>https://bucshon.house.gov/contact</contact_page>
+        <facebook_url>https://www.facebook.com/RepLarryBucshon/</facebook_url>
+        <twitter_handle>RepLarryBucshon</twitter_handle>
+        <twitter_url>https://twitter.com/RepLarryBucshon</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/larry-bucshon.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Kansas</state_name>
@@ -9250,7 +9085,6 @@
         <vacant>false</vacant>
         <bioguide>D000629</bioguide>
         <thomas>null</thomas>
-        <govtrack>412780</govtrack>
         <opensecrets>N00042626</opensecrets>
         <votesmart>181201</votesmart>
         <fec>H8KS03155</fec>
@@ -9268,7 +9102,7 @@
         <goes_by>null</goes_by>
         <pronunciation>SHA-rees DAY-vidz</pronunciation>
         <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
+        <ethnicity>native-american</ethnicity>
         <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1980-05-22</date_of_birth>
@@ -9289,8 +9123,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://davids.house.gov/</website>
+        <contact_page>https://davids.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -9306,7 +9140,6 @@
         <vacant>false</vacant>
         <bioguide>E000298</bioguide>
         <thomas>null</thomas>
-        <govtrack>412735</govtrack>
         <opensecrets>N00040712</opensecrets>
         <votesmart>125031</votesmart>
         <fec>H8KS04112</fec>
@@ -9362,7 +9195,6 @@
         <vacant>false</vacant>
         <bioguide>C001108</bioguide>
         <thomas>null</thomas>
-        <govtrack>412676</govtrack>
         <opensecrets>N00038260</opensecrets>
         <votesmart>35169</votesmart>
         <fec>H6KY01110</fec>
@@ -9418,7 +9250,6 @@
         <vacant>false</vacant>
         <bioguide>G000558</bioguide>
         <thomas>1922</thomas>
-        <govtrack>412278</govtrack>
         <opensecrets>N00029675</opensecrets>
         <votesmart>18829</votesmart>
         <fec>H8KY02031</fec>
@@ -9474,7 +9305,6 @@
         <vacant>false</vacant>
         <bioguide>Y000062</bioguide>
         <thomas>1853</thomas>
-        <govtrack>412211</govtrack>
         <opensecrets>N00028073</opensecrets>
         <votesmart>58579</votesmart>
         <fec>H6KY03124</fec>
@@ -9530,7 +9360,6 @@
         <vacant>false</vacant>
         <bioguide>M001184</bioguide>
         <thomas>2094</thomas>
-        <govtrack>412503</govtrack>
         <opensecrets>N00034041</opensecrets>
         <votesmart>132068</votesmart>
         <fec>H2KY04121</fec>
@@ -9586,7 +9415,6 @@
         <vacant>false</vacant>
         <bioguide>R000395</bioguide>
         <thomas>977</thomas>
-        <govtrack>400340</govtrack>
         <opensecrets>N00003473</opensecrets>
         <votesmart>26875</votesmart>
         <fec>H0KY05015</fec>
@@ -9642,7 +9470,6 @@
         <vacant>false</vacant>
         <bioguide>B001282</bioguide>
         <thomas>2131</thomas>
-        <govtrack>412541</govtrack>
         <opensecrets>N00031233</opensecrets>
         <votesmart>117290</votesmart>
         <fec>H0KY06104</fec>
@@ -9698,14 +9525,13 @@
         <vacant>false</vacant>
         <bioguide>S001176</bioguide>
         <thomas>1892</thomas>
-        <govtrack>412261</govtrack>
         <opensecrets>N00009660</opensecrets>
         <votesmart>9026</votesmart>
         <fec>H0LA01087</fec>
         <maplight>742</maplight>
         <wikidata>Q1857141</wikidata>
         <google_entity_id>kg:/m/0br34c</google_entity_id>
-        <title>house_minority_whip</title>
+        <title>house-minority-whip</title>
         <party>republican</party>
         <name>Steve Scalise</name>
         <name_slug>steve-scalise</name_slug>
@@ -9754,7 +9580,6 @@
         <vacant>false</vacant>
         <bioguide>R000588</bioguide>
         <thomas>2023</thomas>
-        <govtrack>412432</govtrack>
         <opensecrets>N00030184</opensecrets>
         <votesmart>35384</votesmart>
         <fec>H8LA02054</fec>
@@ -9810,7 +9635,6 @@
         <vacant>false</vacant>
         <bioguide>H001077</bioguide>
         <thomas>null</thomas>
-        <govtrack>412705</govtrack>
         <opensecrets>N00039953</opensecrets>
         <votesmart>174484</votesmart>
         <fec>H6LA03148</fec>
@@ -9829,7 +9653,7 @@
         <pronunciation>KLAY HIG-inz</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>null</religion>
+        <religion>christian</religion>
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1961-08-24</date_of_birth>
         <entered_office>2017-01-03</entered_office>
@@ -9866,7 +9690,6 @@
         <vacant>false</vacant>
         <bioguide>J000299</bioguide>
         <thomas>null</thomas>
-        <govtrack>412706</govtrack>
         <opensecrets>N00039106</opensecrets>
         <votesmart>156097</votesmart>
         <fec>H6LA04138</fec>
@@ -9922,7 +9745,6 @@
         <vacant>false</vacant>
         <bioguide>A000374</bioguide>
         <thomas>2244</thomas>
-        <govtrack>412630</govtrack>
         <opensecrets>N00036633</opensecrets>
         <votesmart>155414</votesmart>
         <fec>H4LA05221</fec>
@@ -9978,7 +9800,6 @@
         <vacant>false</vacant>
         <bioguide>G000577</bioguide>
         <thomas>2245</thomas>
-        <govtrack>412631</govtrack>
         <opensecrets>N00036135</opensecrets>
         <votesmart>155424</votesmart>
         <fec>H4LA06153</fec>
@@ -10034,7 +9855,6 @@
         <vacant>false</vacant>
         <bioguide>N000015</bioguide>
         <thomas>854</thomas>
-        <govtrack>400291</govtrack>
         <opensecrets>N00000153</opensecrets>
         <votesmart>26895</votesmart>
         <fec>H8MA02041</fec>
@@ -10090,7 +9910,6 @@
         <vacant>false</vacant>
         <bioguide>M000312</bioguide>
         <thomas>1504</thomas>
-        <govtrack>400263</govtrack>
         <opensecrets>N00000179</opensecrets>
         <votesmart>552</votesmart>
         <fec>H4MA03022</fec>
@@ -10146,7 +9965,6 @@
         <vacant>false</vacant>
         <bioguide>T000482</bioguide>
         <thomas>null</thomas>
-        <govtrack>412781</govtrack>
         <opensecrets>N00041808</opensecrets>
         <votesmart>182310</votesmart>
         <fec>H8MA03106</fec>
@@ -10185,8 +10003,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://trahan.house.gov/</website>
+        <contact_page>https://trahan.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -10202,7 +10020,6 @@
         <vacant>false</vacant>
         <bioguide>K000379</bioguide>
         <thomas>2172</thomas>
-        <govtrack>412543</govtrack>
         <opensecrets>N00034044</opensecrets>
         <votesmart>141275</votesmart>
         <fec>H2MA04073</fec>
@@ -10258,7 +10075,6 @@
         <vacant>false</vacant>
         <bioguide>C001101</bioguide>
         <thomas>2196</thomas>
-        <govtrack>412600</govtrack>
         <opensecrets>N00035278</opensecrets>
         <votesmart>35858</votesmart>
         <fec>H4MA05084</fec>
@@ -10314,7 +10130,6 @@
         <vacant>false</vacant>
         <bioguide>M001196</bioguide>
         <thomas>2246</thomas>
-        <govtrack>412632</govtrack>
         <opensecrets>N00035431</opensecrets>
         <votesmart>146299</votesmart>
         <fec>H4MA06090</fec>
@@ -10370,7 +10185,6 @@
         <vacant>false</vacant>
         <bioguide>P000617</bioguide>
         <thomas>null</thomas>
-        <govtrack>412782</govtrack>
         <opensecrets>N00042581</opensecrets>
         <votesmart>122700</votesmart>
         <fec>H8MA07032</fec>
@@ -10409,8 +10223,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://pressley.house.gov/</website>
+        <contact_page>https://pressley.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -10426,7 +10240,6 @@
         <vacant>false</vacant>
         <bioguide>L000562</bioguide>
         <thomas>1686</thomas>
-        <govtrack>400249</govtrack>
         <opensecrets>N00013855</opensecrets>
         <votesmart>4844</votesmart>
         <fec>H2MA09072</fec>
@@ -10482,7 +10295,6 @@
         <vacant>false</vacant>
         <bioguide>K000375</bioguide>
         <thomas>2025</thomas>
-        <govtrack>412435</govtrack>
         <opensecrets>N00031933</opensecrets>
         <votesmart>4743</votesmart>
         <fec>H0MA10082</fec>
@@ -10538,7 +10350,6 @@
         <vacant>false</vacant>
         <bioguide>H001052</bioguide>
         <thomas>2026</thomas>
-        <govtrack>412434</govtrack>
         <opensecrets>N00029147</opensecrets>
         <votesmart>19157</votesmart>
         <fec>H8MD01094</fec>
@@ -10594,7 +10405,6 @@
         <vacant>false</vacant>
         <bioguide>R000576</bioguide>
         <thomas>1728</thomas>
-        <govtrack>400349</govtrack>
         <opensecrets>N00025482</opensecrets>
         <votesmart>36130</votesmart>
         <fec>H2MD02160</fec>
@@ -10650,7 +10460,6 @@
         <vacant>false</vacant>
         <bioguide>S001168</bioguide>
         <thomas>1854</thomas>
-        <govtrack>412212</govtrack>
         <opensecrets>N00027751</opensecrets>
         <votesmart>66575</votesmart>
         <fec>H6MD03292</fec>
@@ -10706,7 +10515,6 @@
         <vacant>false</vacant>
         <bioguide>B001304</bioguide>
         <thomas>null</thomas>
-        <govtrack>412707</govtrack>
         <opensecrets>N00036999</opensecrets>
         <votesmart>19344</votesmart>
         <fec>H6MD04209</fec>
@@ -10762,14 +10570,13 @@
         <vacant>false</vacant>
         <bioguide>H000874</bioguide>
         <thomas>566</thomas>
-        <govtrack>400189</govtrack>
         <opensecrets>N00001821</opensecrets>
         <votesmart>26890</votesmart>
         <fec>H2MD05155</fec>
         <maplight>293</maplight>
         <wikidata>Q516515</wikidata>
         <google_entity_id>kg:/m/025k5p</google_entity_id>
-        <title>house_majority_leader</title>
+        <title>house-majority-leader</title>
         <party>democrat</party>
         <name>Steny Hoyer</name>
         <name_slug>steny-hoyer</name_slug>
@@ -10818,7 +10625,6 @@
         <vacant>false</vacant>
         <bioguide>T000483</bioguide>
         <thomas>null</thomas>
-        <govtrack>412783</govtrack>
         <opensecrets>N00039122</opensecrets>
         <votesmart>167336</votesmart>
         <fec>H8MD06168</fec>
@@ -10857,8 +10663,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://trone.house.gov/</website>
+        <contact_page>https://trone.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -10874,7 +10680,6 @@
         <vacant>false</vacant>
         <bioguide>C000984</bioguide>
         <thomas>256</thomas>
-        <govtrack>400090</govtrack>
         <opensecrets>N00001971</opensecrets>
         <votesmart>345</votesmart>
         <fec>H6MD07160</fec>
@@ -10930,7 +10735,6 @@
         <vacant>false</vacant>
         <bioguide>R000606</bioguide>
         <thomas>null</thomas>
-        <govtrack>412708</govtrack>
         <opensecrets>N00037036</opensecrets>
         <votesmart>65904</votesmart>
         <fec>H6MD08457</fec>
@@ -10986,7 +10790,6 @@
         <vacant>false</vacant>
         <bioguide>P000597</bioguide>
         <thomas>1927</thomas>
-        <govtrack>412307</govtrack>
         <opensecrets>N00013817</opensecrets>
         <votesmart>6586</votesmart>
         <fec>H8ME01120</fec>
@@ -11042,7 +10845,6 @@
         <vacant>false</vacant>
         <bioguide>G000592</bioguide>
         <thomas>null</thomas>
-        <govtrack>null</govtrack>
         <opensecrets>N00041668</opensecrets>
         <votesmart>151420</votesmart>
         <fec>H8ME02185</fec>
@@ -11081,8 +10883,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://golden.house.gov/</website>
+        <contact_page>https://golden.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -11098,7 +10900,6 @@
         <vacant>false</vacant>
         <bioguide>B001301</bioguide>
         <thomas>null</thomas>
-        <govtrack>412709</govtrack>
         <opensecrets>N00039533</opensecrets>
         <votesmart>170172</votesmart>
         <fec>H6MI01226</fec>
@@ -11117,7 +10918,7 @@
         <pronunciation>JACK BERG-muhn</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>null</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1947-02-02</date_of_birth>
         <entered_office>2017-01-03</entered_office>
@@ -11154,7 +10955,6 @@
         <vacant>false</vacant>
         <bioguide>H001058</bioguide>
         <thomas>2028</thomas>
-        <govtrack>412437</govtrack>
         <opensecrets>N00030673</opensecrets>
         <votesmart>38351</votesmart>
         <fec>H0MI02094</fec>
@@ -11210,7 +11010,6 @@
         <vacant>false</vacant>
         <bioguide>A000367</bioguide>
         <thomas>2029</thomas>
-        <govtrack>412438</govtrack>
         <opensecrets>N00031938</opensecrets>
         <votesmart>105566</votesmart>
         <fec>H0MI03126</fec>
@@ -11266,7 +11065,6 @@
         <vacant>false</vacant>
         <bioguide>M001194</bioguide>
         <thomas>2248</thomas>
-        <govtrack>412634</govtrack>
         <opensecrets>N00036275</opensecrets>
         <votesmart>37676</votesmart>
         <fec>H4MI04126</fec>
@@ -11322,7 +11120,6 @@
         <vacant>false</vacant>
         <bioguide>K000380</bioguide>
         <thomas>2134</thomas>
-        <govtrack>412546</govtrack>
         <opensecrets>N00033395</opensecrets>
         <votesmart>136102</votesmart>
         <fec>H2MI05119</fec>
@@ -11378,7 +11175,6 @@
         <vacant>false</vacant>
         <bioguide>U000031</bioguide>
         <thomas>1177</thomas>
-        <govtrack>400414</govtrack>
         <opensecrets>N00004133</opensecrets>
         <votesmart>26906</votesmart>
         <fec>H6MI04113</fec>
@@ -11434,7 +11230,6 @@
         <vacant>false</vacant>
         <bioguide>W000798</bioguide>
         <thomas>1855</thomas>
-        <govtrack>412213</govtrack>
         <opensecrets>N00026368</opensecrets>
         <votesmart>8618</votesmart>
         <fec>H4MI07103</fec>
@@ -11490,7 +11285,6 @@
         <vacant>false</vacant>
         <bioguide>L000592</bioguide>
         <thomas>null</thomas>
-        <govtrack>412785</govtrack>
         <opensecrets>N00042149</opensecrets>
         <votesmart>66287</votesmart>
         <fec>H8MI09118</fec>
@@ -11529,8 +11323,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://andylevin.house.gov/</website>
+        <contact_page>https://andylevin.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -11546,7 +11340,6 @@
         <vacant>false</vacant>
         <bioguide>S001208</bioguide>
         <thomas>null</thomas>
-        <govtrack>412784</govtrack>
         <opensecrets>N00041357</opensecrets>
         <votesmart>181080</votesmart>
         <fec>H8MI08102</fec>
@@ -11585,8 +11378,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://slotkin.house.gov/</website>
+        <contact_page>https://slotkin.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -11602,7 +11395,6 @@
         <vacant>false</vacant>
         <bioguide>M001201</bioguide>
         <thomas>null</thomas>
-        <govtrack>412710</govtrack>
         <opensecrets>N00036274</opensecrets>
         <votesmart>152464</votesmart>
         <fec>H4MI04118</fec>
@@ -11621,7 +11413,7 @@
         <pronunciation>PAWL MIT-chuhl</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>null</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1961-05-08</date_of_birth>
         <entered_office>2017-01-03</entered_office>
@@ -11653,12 +11445,66 @@
         <state_name_slug>michigan</state_name_slug>
         <state_code>MI</state_code>
         <state_code_slug>mi</state_code_slug>
+        <district>11</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>S001215</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00040915</opensecrets>
+        <votesmart>181092</votesmart>
+        <fec>H8MI11254</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>representative</title>
+        <party>democrat</party>
+        <name>Haley Stevens</name>
+        <name_slug>haley-stevens</name_slug>
+        <first_name>Haley</first_name>
+        <middle_name>M.</middle_name>
+        <last_name>Stevens</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>HAY-lee STEE-vens</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1983-06-24</date_of_birth>
+        <entered_office>2019-01-03</entered_office>
+        <term_end>2021-01-03</term_end>
+        <biography>Haley Stevens is the Democratic representative from Michigan's 11th Congressional District in the U.S. House. Stevens was elected to the office on November 6, 2018.</biography>
+        <phone>202-225-8171</phone>
+        <fax>null</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>227 Cannon House Office Building, Washington, DC 20003</address_complete>
+        <address_number>227</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Cannon House Office</address_street>
+        <address_sec_unit_type>Building</address_sec_unit_type>
+        <address_sec_unit_num>Washingto</address_sec_unit_num>
+        <address_city>n</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20003</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://stevens.house.gov/</website>
+        <contact_page>https://stevens.house.gov/contact</contact_page>
+        <facebook_url>null</facebook_url>
+        <twitter_handle>null</twitter_handle>
+        <twitter_url>null</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/haley-stevens.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Michigan</state_name>
+        <state_name_slug>michigan</state_name_slug>
+        <state_code>MI</state_code>
+        <state_code_slug>mi</state_code_slug>
         <district>12</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
         <bioguide>D000624</bioguide>
         <thomas>2251</thomas>
-        <govtrack>412637</govtrack>
         <opensecrets>N00036149</opensecrets>
         <votesmart>152482</votesmart>
         <fec>H4MI12079</fec>
@@ -11709,68 +11555,11 @@
         <state_name_slug>michigan</state_name_slug>
         <state_code>MI</state_code>
         <state_code_slug>mi</state_code_slug>
-        <district>11</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>S001215</bioguide>
-        <thomas>null</thomas>
-        <govtrack>412786</govtrack>
-        <opensecrets>N00040915</opensecrets>
-        <votesmart>181092</votesmart>
-        <fec>H8MI11254</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>representative</title>
-        <party>democrat</party>
-        <name>Haley Stevens</name>
-        <name_slug>haley-stevens</name_slug>
-        <first_name>Haley</first_name>
-        <middle_name>M.</middle_name>
-        <last_name>Stevens</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>HAY-lee STEE-vens</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1983-06-24</date_of_birth>
-        <entered_office>2019-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Haley Stevens is the Democratic representative from Michigan's 11th Congressional District in the U.S. House. Stevens was elected to the office on November 6, 2018.</biography>
-        <phone>202-225-8171</phone>
-        <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>227 Cannon House Office Building, Washington, DC 20003</address_complete>
-        <address_number>227</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Cannon House Office</address_street>
-        <address_sec_unit_type>Building</address_sec_unit_type>
-        <address_sec_unit_num>Washingto</address_sec_unit_num>
-        <address_city>n</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20003</address_zipcode>
-        <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/haley-stevens.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Michigan</state_name>
-        <state_name_slug>michigan</state_name_slug>
-        <state_code>MI</state_code>
-        <state_code_slug>mi</state_code_slug>
         <district>13</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
         <bioguide>T000481</bioguide>
         <thomas>null</thomas>
-        <govtrack>412787</govtrack>
         <opensecrets>N00042649</opensecrets>
         <votesmart>105368</votesmart>
         <fec>H8MI13250</fec>
@@ -11809,8 +11598,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://tlaib.house.gov/</website>
+        <contact_page>https://tlaib.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -11826,7 +11615,6 @@
         <vacant>false</vacant>
         <bioguide>L000581</bioguide>
         <thomas>2252</thomas>
-        <govtrack>412638</govtrack>
         <opensecrets>N00034068</opensecrets>
         <votesmart>78851</votesmart>
         <fec>H2MI14111</fec>
@@ -11882,7 +11670,6 @@
         <vacant>false</vacant>
         <bioguide>H001088</bioguide>
         <thomas>null</thomas>
-        <govtrack>412788</govtrack>
         <opensecrets>N00031390</opensecrets>
         <votesmart>146027</votesmart>
         <fec>H0MN01045</fec>
@@ -11921,8 +11708,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://hagedorn.house.gov/</website>
+        <contact_page>https://hagedorn.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -11938,7 +11725,6 @@
         <vacant>false</vacant>
         <bioguide>C001119</bioguide>
         <thomas>null</thomas>
-        <govtrack>412789</govtrack>
         <opensecrets>N00037039</opensecrets>
         <votesmart>166261</votesmart>
         <fec>H6MN02131</fec>
@@ -11977,8 +11763,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://craig.house.gov/</website>
+        <contact_page>https://craig.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -11994,7 +11780,6 @@
         <vacant>false</vacant>
         <bioguide>P000616</bioguide>
         <thomas>null</thomas>
-        <govtrack>412790</govtrack>
         <opensecrets>N00041134</opensecrets>
         <votesmart>181357</votesmart>
         <fec>H8MN03143</fec>
@@ -12033,8 +11818,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://phillips.house.gov/</website>
+        <contact_page>https://phillips.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -12050,7 +11835,6 @@
         <vacant>false</vacant>
         <bioguide>M001143</bioguide>
         <thomas>1653</thomas>
-        <govtrack>400259</govtrack>
         <opensecrets>N00012942</opensecrets>
         <votesmart>3812</votesmart>
         <fec>H0MN04049</fec>
@@ -12106,7 +11890,6 @@
         <vacant>false</vacant>
         <bioguide>O000173</bioguide>
         <thomas>null</thomas>
-        <govtrack>412791</govtrack>
         <opensecrets>N00043581</opensecrets>
         <votesmart>171628</votesmart>
         <fec>H8MN05239</fec>
@@ -12145,8 +11928,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://omar.house.gov/</website>
+        <contact_page>https://omar.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -12162,7 +11945,6 @@
         <vacant>false</vacant>
         <bioguide>E000294</bioguide>
         <thomas>2253</thomas>
-        <govtrack>412639</govtrack>
         <opensecrets>N00035440</opensecrets>
         <votesmart>38894</votesmart>
         <fec>H4MN06087</fec>
@@ -12218,7 +12000,6 @@
         <vacant>false</vacant>
         <bioguide>P000258</bioguide>
         <thomas>910</thomas>
-        <govtrack>400316</govtrack>
         <opensecrets>N00004558</opensecrets>
         <votesmart>26926</votesmart>
         <fec>H2MN07014</fec>
@@ -12274,7 +12055,6 @@
         <vacant>false</vacant>
         <bioguide>S001212</bioguide>
         <thomas>null</thomas>
-        <govtrack>412792</govtrack>
         <opensecrets>N00041511</opensecrets>
         <votesmart>159954</votesmart>
         <fec>H8MN08043</fec>
@@ -12313,8 +12093,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://stauber.house.gov/</website>
+        <contact_page>https://stauber.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -12330,7 +12110,6 @@
         <vacant>false</vacant>
         <bioguide>C001049</bioguide>
         <thomas>1654</thomas>
-        <govtrack>400074</govtrack>
         <opensecrets>N00012460</opensecrets>
         <votesmart>8967</votesmart>
         <fec>H0MO01066</fec>
@@ -12386,7 +12165,6 @@
         <vacant>false</vacant>
         <bioguide>W000812</bioguide>
         <thomas>2137</thomas>
-        <govtrack>412548</govtrack>
         <opensecrets>N00033106</opensecrets>
         <votesmart>136083</votesmart>
         <fec>H2MO02102</fec>
@@ -12442,7 +12220,6 @@
         <vacant>false</vacant>
         <bioguide>L000569</bioguide>
         <thomas>1931</thomas>
-        <govtrack>412292</govtrack>
         <opensecrets>N00030026</opensecrets>
         <votesmart>20400</votesmart>
         <fec>H8MO09153</fec>
@@ -12498,7 +12275,6 @@
         <vacant>false</vacant>
         <bioguide>H001053</bioguide>
         <thomas>2032</thomas>
-        <govtrack>412444</govtrack>
         <opensecrets>N00031005</opensecrets>
         <votesmart>8783</votesmart>
         <fec>H0MO04086</fec>
@@ -12554,7 +12330,6 @@
         <vacant>false</vacant>
         <bioguide>C001061</bioguide>
         <thomas>1790</thomas>
-        <govtrack>400639</govtrack>
         <opensecrets>N00026790</opensecrets>
         <votesmart>39507</votesmart>
         <fec>H4MO05234</fec>
@@ -12610,7 +12385,6 @@
         <vacant>false</vacant>
         <bioguide>G000546</bioguide>
         <thomas>1656</thomas>
-        <govtrack>400158</govtrack>
         <opensecrets>N00013323</opensecrets>
         <votesmart>9425</votesmart>
         <fec>H0MO06073</fec>
@@ -12666,7 +12440,6 @@
         <vacant>false</vacant>
         <bioguide>L000576</bioguide>
         <thomas>2033</thomas>
-        <govtrack>412445</govtrack>
         <opensecrets>N00030676</opensecrets>
         <votesmart>123401</votesmart>
         <fec>H0MO07113</fec>
@@ -12722,7 +12495,6 @@
         <vacant>false</vacant>
         <bioguide>S001195</bioguide>
         <thomas>2191</thomas>
-        <govtrack>412596</govtrack>
         <opensecrets>N00035282</opensecrets>
         <votesmart>59318</votesmart>
         <fec>H4MO08162</fec>
@@ -12778,7 +12550,6 @@
         <vacant>false</vacant>
         <bioguide>K000388</bioguide>
         <thomas>2294</thomas>
-        <govtrack>412673</govtrack>
         <opensecrets>N00037003</opensecrets>
         <votesmart>156389</votesmart>
         <fec>H6MS01131</fec>
@@ -12834,7 +12605,6 @@
         <vacant>false</vacant>
         <bioguide>T000193</bioguide>
         <thomas>1151</thomas>
-        <govtrack>400402</govtrack>
         <opensecrets>N00003288</opensecrets>
         <votesmart>26929</votesmart>
         <fec>H4MS02068</fec>
@@ -12873,8 +12643,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://benniethompson.house.gov/</website>
+        <contact_page>https://benniethompson.house.gov/contact</contact_page>
         <facebook_url>https://www.facebook.com/CongressmanBennieGThompson/</facebook_url>
         <twitter_handle>BennieGThompson</twitter_handle>
         <twitter_url>https://twitter.com/BennieGThompson</twitter_url>
@@ -12890,7 +12660,6 @@
         <vacant>false</vacant>
         <bioguide>G000591</bioguide>
         <thomas>null</thomas>
-        <govtrack>412793</govtrack>
         <opensecrets>N00042458</opensecrets>
         <votesmart>179667</votesmart>
         <fec>H8MS03125</fec>
@@ -12929,8 +12698,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://guest.house.gov/</website>
+        <contact_page>https://guest.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -12946,7 +12715,6 @@
         <vacant>false</vacant>
         <bioguide>P000601</bioguide>
         <thomas>2035</thomas>
-        <govtrack>412443</govtrack>
         <opensecrets>N00031958</opensecrets>
         <votesmart>69521</votesmart>
         <fec>H0MS04120</fec>
@@ -13002,7 +12770,6 @@
         <vacant>false</vacant>
         <bioguide>Z000018</bioguide>
         <thomas>2254</thomas>
-        <govtrack>412640</govtrack>
         <opensecrets>N00035616</opensecrets>
         <votesmart>null</votesmart>
         <fec>H4MT01041</fec>
@@ -13058,7 +12825,6 @@
         <vacant>false</vacant>
         <bioguide>B001251</bioguide>
         <thomas>1761</thomas>
-        <govtrack>400616</govtrack>
         <opensecrets>N00027035</opensecrets>
         <votesmart>41077</votesmart>
         <fec>H4NC01046</fec>
@@ -13114,7 +12880,6 @@
         <vacant>false</vacant>
         <bioguide>H001065</bioguide>
         <thomas>2143</thomas>
-        <govtrack>412553</govtrack>
         <opensecrets>N00033399</opensecrets>
         <votesmart>136462</votesmart>
         <fec>H2NC13110</fec>
@@ -13170,7 +12935,6 @@
         <vacant>false</vacant>
         <bioguide>J000255</bioguide>
         <thomas>612</thomas>
-        <govtrack>400209</govtrack>
         <opensecrets>N00002299</opensecrets>
         <votesmart>21785</votesmart>
         <fec>H2NC01081</fec>
@@ -13226,7 +12990,6 @@
         <vacant>false</vacant>
         <bioguide>P000523</bioguide>
         <thomas>930</thomas>
-        <govtrack>400326</govtrack>
         <opensecrets>N00002260</opensecrets>
         <votesmart>119</votesmart>
         <fec>H6NC04037</fec>
@@ -13282,7 +13045,6 @@
         <vacant>false</vacant>
         <bioguide>F000450</bioguide>
         <thomas>1791</thomas>
-        <govtrack>400643</govtrack>
         <opensecrets>N00026166</opensecrets>
         <votesmart>6051</votesmart>
         <fec>H4NC05146</fec>
@@ -13338,7 +13100,6 @@
         <vacant>false</vacant>
         <bioguide>W000819</bioguide>
         <thomas>2255</thomas>
-        <govtrack>412670</govtrack>
         <opensecrets>N00035311</opensecrets>
         <votesmart>146255</votesmart>
         <fec>H4NC06052</fec>
@@ -13394,7 +13155,6 @@
         <vacant>false</vacant>
         <bioguide>R000603</bioguide>
         <thomas>2256</thomas>
-        <govtrack>412641</govtrack>
         <opensecrets>N00033527</opensecrets>
         <votesmart>102964</votesmart>
         <fec>H2NC07096</fec>
@@ -13450,7 +13210,6 @@
         <vacant>false</vacant>
         <bioguide>H001067</bioguide>
         <thomas>2140</thomas>
-        <govtrack>412550</govtrack>
         <opensecrets>N00033630</opensecrets>
         <votesmart>136448</votesmart>
         <fec>H2NC08185</fec>
@@ -13506,7 +13265,6 @@
         <vacant>true</vacant>
         <bioguide>H000248</bioguide>
         <thomas>null</thomas>
-        <govtrack>405126</govtrack>
         <opensecrets>N00035491</opensecrets>
         <votesmart>146230</votesmart>
         <fec>H8NC09131</fec>
@@ -13562,7 +13320,6 @@
         <vacant>false</vacant>
         <bioguide>M001156</bioguide>
         <thomas>1792</thomas>
-        <govtrack>400644</govtrack>
         <opensecrets>N00026627</opensecrets>
         <votesmart>21031</votesmart>
         <fec>H4NC10047</fec>
@@ -13618,7 +13375,6 @@
         <vacant>false</vacant>
         <bioguide>M001187</bioguide>
         <thomas>2142</thomas>
-        <govtrack>412552</govtrack>
         <opensecrets>N00033631</opensecrets>
         <votesmart>136459</votesmart>
         <fec>H2NC11080</fec>
@@ -13674,7 +13430,6 @@
         <vacant>false</vacant>
         <bioguide>A000370</bioguide>
         <thomas>2201</thomas>
-        <govtrack>412607</govtrack>
         <opensecrets>N00035451</opensecrets>
         <votesmart>5935</votesmart>
         <fec>H4NC12100</fec>
@@ -13730,7 +13485,6 @@
         <vacant>false</vacant>
         <bioguide>B001305</bioguide>
         <thomas>null</thomas>
-        <govtrack>412712</govtrack>
         <opensecrets>N00039551</opensecrets>
         <votesmart>171489</votesmart>
         <fec>H6NC13129</fec>
@@ -13749,7 +13503,7 @@
         <pronunciation>TED BUHD</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>null</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1971-10-21</date_of_birth>
         <entered_office>2017-01-03</entered_office>
@@ -13769,8 +13523,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://budd.house.gov/</website>
+        <contact_page>https://budd.house.gov/contact</contact_page>
         <facebook_url>https://www.facebook.com/tedbuddforcongress/</facebook_url>
         <twitter_handle>RepHolding</twitter_handle>
         <twitter_url>https://twitter.com/RepHolding</twitter_url>
@@ -13786,7 +13540,6 @@
         <vacant>false</vacant>
         <bioguide>A000377</bioguide>
         <thomas>null</thomas>
-        <govtrack>412794</govtrack>
         <opensecrets>N00042868</opensecrets>
         <votesmart>139338</votesmart>
         <fec>H8ND00096</fec>
@@ -13825,8 +13578,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://armstrong.house.gov/</website>
+        <contact_page>https://armstrong.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -13842,7 +13595,6 @@
         <vacant>false</vacant>
         <bioguide>F000449</bioguide>
         <thomas>1793</thomas>
-        <govtrack>400640</govtrack>
         <opensecrets>N00026631</opensecrets>
         <votesmart>41929</votesmart>
         <fec>H4NE01064</fec>
@@ -13898,7 +13650,6 @@
         <vacant>false</vacant>
         <bioguide>B001298</bioguide>
         <thomas>null</thomas>
-        <govtrack>412713</govtrack>
         <opensecrets>N00037049</opensecrets>
         <votesmart>166299</votesmart>
         <fec>H6NE02125</fec>
@@ -13917,7 +13668,7 @@
         <pronunciation>DAHN BAY-kuhn</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>null</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1963-08-16</date_of_birth>
         <entered_office>2017-01-03</entered_office>
@@ -13954,7 +13705,6 @@
         <vacant>false</vacant>
         <bioguide>S001172</bioguide>
         <thomas>1860</thomas>
-        <govtrack>412217</govtrack>
         <opensecrets>N00027623</opensecrets>
         <votesmart>21284</votesmart>
         <fec>H6NE03115</fec>
@@ -14010,7 +13760,6 @@
         <vacant>false</vacant>
         <bioguide>P000614</bioguide>
         <thomas>null</thomas>
-        <govtrack>412795</govtrack>
         <opensecrets>N00042161</opensecrets>
         <votesmart>42635</votesmart>
         <fec>H8NH01210</fec>
@@ -14049,8 +13798,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://pappas.house.gov/</website>
+        <contact_page>https://pappas.house.gov/contact/</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -14066,7 +13815,6 @@
         <vacant>false</vacant>
         <bioguide>K000382</bioguide>
         <thomas>2145</thomas>
-        <govtrack>412557</govtrack>
         <opensecrets>N00030875</opensecrets>
         <votesmart>122256</votesmart>
         <fec>H0NH02181</fec>
@@ -14122,7 +13870,6 @@
         <vacant>false</vacant>
         <bioguide>N000188</bioguide>
         <thomas>2202</thomas>
-        <govtrack>412606</govtrack>
         <opensecrets>N00036154</opensecrets>
         <votesmart>116277</votesmart>
         <fec>H4NJ01084</fec>
@@ -14178,7 +13925,6 @@
         <vacant>false</vacant>
         <bioguide>V000133</bioguide>
         <thomas>null</thomas>
-        <govtrack>412796</govtrack>
         <opensecrets>N00042164</opensecrets>
         <votesmart>24685</votesmart>
         <fec>H8NJ02166</fec>
@@ -14217,8 +13963,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://vandrew.house.gov/</website>
+        <contact_page>https://vandrew.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -14234,7 +13980,6 @@
         <vacant>false</vacant>
         <bioguide>K000394</bioguide>
         <thomas>null</thomas>
-        <govtrack>412797</govtrack>
         <opensecrets>N00041370</opensecrets>
         <votesmart>179640</votesmart>
         <fec>H8NJ03206</fec>
@@ -14273,8 +14018,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://kim.house.gov/</website>
+        <contact_page>https://kim.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -14290,7 +14035,6 @@
         <vacant>false</vacant>
         <bioguide>S000522</bioguide>
         <thomas>1071</thomas>
-        <govtrack>400380</govtrack>
         <opensecrets>N00009816</opensecrets>
         <votesmart>26952</votesmart>
         <fec>H8NJ04014</fec>
@@ -14346,7 +14090,6 @@
         <vacant>false</vacant>
         <bioguide>G000583</bioguide>
         <thomas>null</thomas>
-        <govtrack>412714</govtrack>
         <opensecrets>N00036944</opensecrets>
         <votesmart>169202</votesmart>
         <fec>H6NJ05171</fec>
@@ -14365,7 +14108,7 @@
         <pronunciation>JAHSH GAHT-hahy-mer</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>null</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1975-03-08</date_of_birth>
         <entered_office>2017-01-03</entered_office>
@@ -14402,7 +14145,6 @@
         <vacant>false</vacant>
         <bioguide>P000034</bioguide>
         <thomas>887</thomas>
-        <govtrack>400308</govtrack>
         <opensecrets>N00000781</opensecrets>
         <votesmart>26951</votesmart>
         <fec>H8NJ03073</fec>
@@ -14458,7 +14200,6 @@
         <vacant>false</vacant>
         <bioguide>M001203</bioguide>
         <thomas>null</thomas>
-        <govtrack>412798</govtrack>
         <opensecrets>N00041843</opensecrets>
         <votesmart>179645</votesmart>
         <fec>H8NJ07223</fec>
@@ -14497,8 +14238,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://malinowski.house.gov/</website>
+        <contact_page>https://malinowski.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -14514,7 +14255,6 @@
         <vacant>false</vacant>
         <bioguide>S001165</bioguide>
         <thomas>1818</thomas>
-        <govtrack>412186</govtrack>
         <opensecrets>N00027523</opensecrets>
         <votesmart>22510</votesmart>
         <fec>H6NJ13191</fec>
@@ -14570,7 +14310,6 @@
         <vacant>false</vacant>
         <bioguide>P000096</bioguide>
         <thomas>1510</thomas>
-        <govtrack>400309</govtrack>
         <opensecrets>N00000751</opensecrets>
         <votesmart>478</votesmart>
         <fec>H6NJ08118</fec>
@@ -14626,7 +14365,6 @@
         <vacant>false</vacant>
         <bioguide>P000604</bioguide>
         <thomas>2097</thomas>
-        <govtrack>412506</govtrack>
         <opensecrets>N00034639</opensecrets>
         <votesmart>90668</votesmart>
         <fec>H2NJ10154</fec>
@@ -14682,7 +14420,6 @@
         <vacant>false</vacant>
         <bioguide>S001207</bioguide>
         <thomas>null</thomas>
-        <govtrack>412799</govtrack>
         <opensecrets>N00041154</opensecrets>
         <votesmart>179651</votesmart>
         <fec>H8NJ11142</fec>
@@ -14721,8 +14458,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://sherrill.house.gov/</website>
+        <contact_page>https://sherrill.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -14738,7 +14475,6 @@
         <vacant>false</vacant>
         <bioguide>W000822</bioguide>
         <thomas>2259</thomas>
-        <govtrack>412644</govtrack>
         <opensecrets>N00036158</opensecrets>
         <votesmart>24799</votesmart>
         <fec>H4NJ12149</fec>
@@ -14794,7 +14530,6 @@
         <vacant>false</vacant>
         <bioguide>H001080</bioguide>
         <thomas>null</thomas>
-        <govtrack>412800</govtrack>
         <opensecrets>N00040933</opensecrets>
         <votesmart>149368</votesmart>
         <fec>H8NM01331</fec>
@@ -14812,7 +14547,7 @@
         <goes_by>Deb</goes_by>
         <pronunciation>DEB-ruh HAH-land</pronunciation>
         <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
+        <ethnicity>native-american</ethnicity>
         <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1960-12-02</date_of_birth>
@@ -14833,8 +14568,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://haaland.house.gov/</website>
+        <contact_page>https://haaland.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -14850,7 +14585,6 @@
         <vacant>false</vacant>
         <bioguide>T000484</bioguide>
         <thomas>null</thomas>
-        <govtrack>412801</govtrack>
         <opensecrets>N00042467</opensecrets>
         <votesmart>177978</votesmart>
         <fec>H8NM02248</fec>
@@ -14868,7 +14602,7 @@
         <goes_by>null</goes_by>
         <pronunciation>SOH-chee TAW-ris-SMAWL</pronunciation>
         <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
+        <ethnicity>hispanic-american</ethnicity>
         <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1984-11-15</date_of_birth>
@@ -14889,8 +14623,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://torressmall.house.gov/</website>
+        <contact_page>https://torressmall.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -14906,7 +14640,6 @@
         <vacant>false</vacant>
         <bioguide>L000570</bioguide>
         <thomas>1939</thomas>
-        <govtrack>412293</govtrack>
         <opensecrets>N00029562</opensecrets>
         <votesmart>102842</votesmart>
         <fec>H8NM03196</fec>
@@ -14962,7 +14695,6 @@
         <vacant>false</vacant>
         <bioguide>T000468</bioguide>
         <thomas>1940</thomas>
-        <govtrack>412318</govtrack>
         <opensecrets>N00030191</opensecrets>
         <votesmart>2629</votesmart>
         <fec>H8NV03036</fec>
@@ -15018,7 +14750,6 @@
         <vacant>false</vacant>
         <bioguide>A000369</bioguide>
         <thomas>2090</thomas>
-        <govtrack>412500</govtrack>
         <opensecrets>N00031177</opensecrets>
         <votesmart>12537</votesmart>
         <fec>H2NV02395</fec>
@@ -15074,7 +14805,6 @@
         <vacant>false</vacant>
         <bioguide>L000590</bioguide>
         <thomas>null</thomas>
-        <govtrack>412802</govtrack>
         <opensecrets>N00037247</opensecrets>
         <votesmart>169344</votesmart>
         <fec>H8NV03200</fec>
@@ -15113,8 +14843,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://susielee.house.gov/</website>
+        <contact_page>https://susielee.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -15130,7 +14860,6 @@
         <vacant>false</vacant>
         <bioguide>H001066</bioguide>
         <thomas>null</thomas>
-        <govtrack>412559</govtrack>
         <opensecrets>N00033638</opensecrets>
         <votesmart>44064</votesmart>
         <fec>H2NV04011</fec>
@@ -15169,8 +14898,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://horsford.house.gov/</website>
+        <contact_page>https://horsford.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -15186,7 +14915,6 @@
         <vacant>false</vacant>
         <bioguide>Z000017</bioguide>
         <thomas>2261</thomas>
-        <govtrack>412646</govtrack>
         <opensecrets>N00029404</opensecrets>
         <votesmart>110252</votesmart>
         <fec>H8NY01148</fec>
@@ -15242,7 +14970,6 @@
         <vacant>false</vacant>
         <bioguide>K000210</bioguide>
         <thomas>635</thomas>
-        <govtrack>400219</govtrack>
         <opensecrets>N00001193</opensecrets>
         <votesmart>26968</votesmart>
         <fec>H2NY03089</fec>
@@ -15298,7 +15025,6 @@
         <vacant>false</vacant>
         <bioguide>S001201</bioguide>
         <thomas>null</thomas>
-        <govtrack>412717</govtrack>
         <opensecrets>N00038742</opensecrets>
         <votesmart>92111</votesmart>
         <fec>H6NY03247</fec>
@@ -15354,7 +15080,6 @@
         <vacant>false</vacant>
         <bioguide>R000602</bioguide>
         <thomas>2262</thomas>
-        <govtrack>412647</govtrack>
         <opensecrets>N00035927</opensecrets>
         <votesmart>127653</votesmart>
         <fec>H4NY04075</fec>
@@ -15410,7 +15135,6 @@
         <vacant>false</vacant>
         <bioguide>M001137</bioguide>
         <thomas>1506</thomas>
-        <govtrack>400271</govtrack>
         <opensecrets>N00001171</opensecrets>
         <votesmart>4360</votesmart>
         <fec>H8NY06048</fec>
@@ -15466,7 +15190,6 @@
         <vacant>false</vacant>
         <bioguide>M001188</bioguide>
         <thomas>2148</thomas>
-        <govtrack>412560</govtrack>
         <opensecrets>N00034547</opensecrets>
         <votesmart>69157</votesmart>
         <fec>H2NY06116</fec>
@@ -15522,7 +15245,6 @@
         <vacant>false</vacant>
         <bioguide>V000081</bioguide>
         <thomas>1184</thomas>
-        <govtrack>400416</govtrack>
         <opensecrets>N00001102</opensecrets>
         <votesmart>26975</votesmart>
         <fec>H2NY00010</fec>
@@ -15578,7 +15300,6 @@
         <vacant>false</vacant>
         <bioguide>J000294</bioguide>
         <thomas>2149</thomas>
-        <govtrack>412561</govtrack>
         <opensecrets>N00033640</opensecrets>
         <votesmart>55285</votesmart>
         <fec>H2NY10092</fec>
@@ -15634,7 +15355,6 @@
         <vacant>false</vacant>
         <bioguide>C001067</bioguide>
         <thomas>1864</thomas>
-        <govtrack>412221</govtrack>
         <opensecrets>N00026961</opensecrets>
         <votesmart>44741</votesmart>
         <fec>H4NY11138</fec>
@@ -15690,7 +15410,6 @@
         <vacant>false</vacant>
         <bioguide>N000002</bioguide>
         <thomas>850</thomas>
-        <govtrack>400289</govtrack>
         <opensecrets>N00000939</opensecrets>
         <votesmart>26980</votesmart>
         <fec>H2NY17071</fec>
@@ -15746,7 +15465,6 @@
         <vacant>false</vacant>
         <bioguide>R000613</bioguide>
         <thomas>null</thomas>
-        <govtrack>412803</govtrack>
         <opensecrets>N00041588</opensecrets>
         <votesmart>180409</votesmart>
         <fec>H8NY11113</fec>
@@ -15785,8 +15503,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://maxrose.house.gov/</website>
+        <contact_page>https://maxrose.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -15802,7 +15520,6 @@
         <vacant>false</vacant>
         <bioguide>M000087</bioguide>
         <thomas>729</thomas>
-        <govtrack>400251</govtrack>
         <opensecrets>N00000078</opensecrets>
         <votesmart>26978</votesmart>
         <fec>H2NY14037</fec>
@@ -15858,7 +15575,6 @@
         <vacant>false</vacant>
         <bioguide>E000297</bioguide>
         <thomas>null</thomas>
-        <govtrack>412718</govtrack>
         <opensecrets>N00034549</opensecrets>
         <votesmart>14379</votesmart>
         <fec>H2NY13096</fec>
@@ -15914,7 +15630,6 @@
         <vacant>false</vacant>
         <bioguide>O000172</bioguide>
         <thomas>null</thomas>
-        <govtrack>412804</govtrack>
         <opensecrets>N00041162</opensecrets>
         <votesmart>180416</votesmart>
         <fec>H8NY15148</fec>
@@ -15953,8 +15668,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://ocasio-cortez.house.gov/</website>
+        <contact_page>https://ocasio-cortez.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -15970,7 +15685,6 @@
         <vacant>false</vacant>
         <bioguide>S000248</bioguide>
         <thomas>1042</thomas>
-        <govtrack>400366</govtrack>
         <opensecrets>N00001813</opensecrets>
         <votesmart>26981</votesmart>
         <fec>H0NY18065</fec>
@@ -16026,7 +15740,6 @@
         <vacant>false</vacant>
         <bioguide>E000179</bioguide>
         <thomas>344</thomas>
-        <govtrack>400122</govtrack>
         <opensecrets>N00001003</opensecrets>
         <votesmart>26972</votesmart>
         <fec>H8NY19058</fec>
@@ -16082,7 +15795,6 @@
         <vacant>false</vacant>
         <bioguide>L000480</bioguide>
         <thomas>709</thomas>
-        <govtrack>400246</govtrack>
         <opensecrets>N00001024</opensecrets>
         <votesmart>26982</votesmart>
         <fec>H8NY20056</fec>
@@ -16138,7 +15850,6 @@
         <vacant>false</vacant>
         <bioguide>M001185</bioguide>
         <thomas>2150</thomas>
-        <govtrack>412562</govtrack>
         <opensecrets>N00034277</opensecrets>
         <votesmart>139760</votesmart>
         <fec>H2NY22139</fec>
@@ -16194,7 +15905,6 @@
         <vacant>false</vacant>
         <bioguide>D000630</bioguide>
         <thomas>null</thomas>
-        <govtrack>412805</govtrack>
         <opensecrets>N00040741</opensecrets>
         <votesmart>180313</votesmart>
         <fec>H8NY19181</fec>
@@ -16233,8 +15943,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://delgado.house.gov/</website>
+        <contact_page>https://delgado.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -16250,7 +15960,6 @@
         <vacant>false</vacant>
         <bioguide>T000469</bioguide>
         <thomas>1942</thomas>
-        <govtrack>412319</govtrack>
         <opensecrets>N00030196</opensecrets>
         <votesmart>4403</votesmart>
         <fec>H8NY21203</fec>
@@ -16306,7 +16015,6 @@
         <vacant>false</vacant>
         <bioguide>S001196</bioguide>
         <thomas>2263</thomas>
-        <govtrack>412648</govtrack>
         <opensecrets>N00035523</opensecrets>
         <votesmart>152539</votesmart>
         <fec>H4NY21079</fec>
@@ -16362,7 +16070,6 @@
         <vacant>false</vacant>
         <bioguide>B001308</bioguide>
         <thomas>null</thomas>
-        <govtrack>412806</govtrack>
         <opensecrets>N00041385</opensecrets>
         <votesmart>135258</votesmart>
         <fec>H8NY22151</fec>
@@ -16401,8 +16108,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://brindisi.house.gov/</website>
+        <contact_page>https://brindisi.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -16418,7 +16125,6 @@
         <vacant>false</vacant>
         <bioguide>R000585</bioguide>
         <thomas>1982</thomas>
-        <govtrack>412393</govtrack>
         <opensecrets>N00030949</opensecrets>
         <votesmart>127046</votesmart>
         <fec>H0NY29054</fec>
@@ -16474,7 +16180,6 @@
         <vacant>false</vacant>
         <bioguide>K000386</bioguide>
         <thomas>2264</thomas>
-        <govtrack>412649</govtrack>
         <opensecrets>N00035934</opensecrets>
         <votesmart>152546</votesmart>
         <fec>H4NY24073</fec>
@@ -16530,7 +16235,6 @@
         <vacant>false</vacant>
         <bioguide>S000480</bioguide>
         <thomas>1069</thomas>
-        <govtrack>400378</govtrack>
         <opensecrets>N00001311</opensecrets>
         <votesmart>26991</votesmart>
         <fec>H6NY03031</fec>
@@ -16586,7 +16290,6 @@
         <vacant>false</vacant>
         <bioguide>H001038</bioguide>
         <thomas>1794</thomas>
-        <govtrack>400641</govtrack>
         <opensecrets>N00027060</opensecrets>
         <votesmart>23127</votesmart>
         <fec>H4NY27076</fec>
@@ -16642,7 +16345,6 @@
         <vacant>false</vacant>
         <bioguide>C001092</bioguide>
         <thomas>2151</thomas>
-        <govtrack>412563</govtrack>
         <opensecrets>N00001285</opensecrets>
         <votesmart>139770</votesmart>
         <fec>H8NY29032</fec>
@@ -16698,7 +16400,6 @@
         <vacant>false</vacant>
         <bioguide>C000266</bioguide>
         <thomas>186</thomas>
-        <govtrack>400071</govtrack>
         <opensecrets>N00003689</opensecrets>
         <votesmart>21790</votesmart>
         <fec>H8OH01043</fec>
@@ -16754,7 +16455,6 @@
         <vacant>false</vacant>
         <bioguide>W000815</bioguide>
         <thomas>2152</thomas>
-        <govtrack>412564</govtrack>
         <opensecrets>N00033310</opensecrets>
         <votesmart>135326</votesmart>
         <fec>H2OH02085</fec>
@@ -16810,7 +16510,6 @@
         <vacant>false</vacant>
         <bioguide>B001281</bioguide>
         <thomas>2153</thomas>
-        <govtrack>412565</govtrack>
         <opensecrets>N00033904</opensecrets>
         <votesmart>2427</votesmart>
         <fec>H2OH03125</fec>
@@ -16866,7 +16565,6 @@
         <vacant>false</vacant>
         <bioguide>J000289</bioguide>
         <thomas>1868</thomas>
-        <govtrack>412226</govtrack>
         <opensecrets>N00027894</opensecrets>
         <votesmart>8158</votesmart>
         <fec>H6OH04082</fec>
@@ -16922,7 +16620,6 @@
         <vacant>false</vacant>
         <bioguide>L000566</bioguide>
         <thomas>1885</thomas>
-        <govtrack>412256</govtrack>
         <opensecrets>N00012233</opensecrets>
         <votesmart>9926</votesmart>
         <fec>H8OH05036</fec>
@@ -16978,7 +16675,6 @@
         <vacant>false</vacant>
         <bioguide>J000292</bioguide>
         <thomas>2046</thomas>
-        <govtrack>412460</govtrack>
         <opensecrets>N00032088</opensecrets>
         <votesmart>120649</votesmart>
         <fec>H0OH06189</fec>
@@ -17034,7 +16730,6 @@
         <vacant>false</vacant>
         <bioguide>G000563</bioguide>
         <thomas>2049</thomas>
-        <govtrack>412463</govtrack>
         <opensecrets>N00031128</opensecrets>
         <votesmart>45466</votesmart>
         <fec>H0OH18077</fec>
@@ -17090,7 +16785,6 @@
         <vacant>false</vacant>
         <bioguide>D000626</bioguide>
         <thomas>2296</thomas>
-        <govtrack>412675</govtrack>
         <opensecrets>N00038767</opensecrets>
         <votesmart>166760</votesmart>
         <fec>H6OH08315</fec>
@@ -17146,7 +16840,6 @@
         <vacant>false</vacant>
         <bioguide>K000009</bioguide>
         <thomas>616</thomas>
-        <govtrack>400211</govtrack>
         <opensecrets>N00003522</opensecrets>
         <votesmart>27016</votesmart>
         <fec>H2OH09031</fec>
@@ -17202,7 +16895,6 @@
         <vacant>false</vacant>
         <bioguide>T000463</bioguide>
         <thomas>1741</thomas>
-        <govtrack>400411</govtrack>
         <opensecrets>N00025175</opensecrets>
         <votesmart>45519</votesmart>
         <fec>H2OH03067</fec>
@@ -17258,7 +16950,6 @@
         <vacant>false</vacant>
         <bioguide>F000455</bioguide>
         <thomas>1895</thomas>
-        <govtrack>412327</govtrack>
         <opensecrets>N00030490</opensecrets>
         <votesmart>110640</votesmart>
         <fec>H8OH11141</fec>
@@ -17314,7 +17005,6 @@
         <vacant>false</vacant>
         <bioguide>T000462</bioguide>
         <thomas>1664</thomas>
-        <govtrack>400406</govtrack>
         <opensecrets>N00009699</opensecrets>
         <votesmart>8404</votesmart>
         <fec>H0OH12062</fec>
@@ -17370,7 +17060,6 @@
         <vacant>false</vacant>
         <bioguide>R000577</bioguide>
         <thomas>1756</thomas>
-        <govtrack>400352</govtrack>
         <opensecrets>N00025280</opensecrets>
         <votesmart>45638</votesmart>
         <fec>H2OH17109</fec>
@@ -17426,7 +17115,6 @@
         <vacant>false</vacant>
         <bioguide>J000295</bioguide>
         <thomas>2154</thomas>
-        <govtrack>412566</govtrack>
         <opensecrets>N00035007</opensecrets>
         <votesmart>143052</votesmart>
         <fec>H2OH14064</fec>
@@ -17482,7 +17170,6 @@
         <vacant>false</vacant>
         <bioguide>S001187</bioguide>
         <thomas>2047</thomas>
-        <govtrack>412461</govtrack>
         <opensecrets>N00029574</opensecrets>
         <votesmart>45333</votesmart>
         <fec>H8OH15076</fec>
@@ -17538,7 +17225,6 @@
         <vacant>false</vacant>
         <bioguide>G000588</bioguide>
         <thomas>null</thomas>
-        <govtrack>412807</govtrack>
         <opensecrets>N00041690</opensecrets>
         <votesmart>178867</votesmart>
         <fec>H8OH16124</fec>
@@ -17577,8 +17263,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://anthonygonzalez.house.gov/</website>
+        <contact_page>https://anthonygonzalez.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -17594,7 +17280,6 @@
         <vacant>false</vacant>
         <bioguide>B001283</bioguide>
         <thomas>2155</thomas>
-        <govtrack>412567</govtrack>
         <opensecrets>N00033532</opensecrets>
         <votesmart>135894</votesmart>
         <fec>H2OK01143</fec>
@@ -17650,7 +17335,6 @@
         <vacant>false</vacant>
         <bioguide>M001190</bioguide>
         <thomas>2156</thomas>
-        <govtrack>412568</govtrack>
         <opensecrets>N00033410</opensecrets>
         <votesmart>135898</votesmart>
         <fec>H2OK02083</fec>
@@ -17706,7 +17390,6 @@
         <vacant>false</vacant>
         <bioguide>L000491</bioguide>
         <thomas>711</thomas>
-        <govtrack>400247</govtrack>
         <opensecrets>N00005559</opensecrets>
         <votesmart>27032</votesmart>
         <fec>H4OK06056</fec>
@@ -17762,7 +17445,6 @@
         <vacant>false</vacant>
         <bioguide>C001053</bioguide>
         <thomas>1742</thomas>
-        <govtrack>400077</govtrack>
         <opensecrets>N00025726</opensecrets>
         <votesmart>46034</votesmart>
         <fec>H2OK04055</fec>
@@ -17818,7 +17500,6 @@
         <vacant>false</vacant>
         <bioguide>H001083</bioguide>
         <thomas>null</thomas>
-        <govtrack>412808</govtrack>
         <opensecrets>N00041394</opensecrets>
         <votesmart>180018</votesmart>
         <fec>H8OK05109</fec>
@@ -17857,8 +17538,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://horn.house.gov/</website>
+        <contact_page>https://horn.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -17874,7 +17555,6 @@
         <vacant>false</vacant>
         <bioguide>B001278</bioguide>
         <thomas>2092</thomas>
-        <govtrack>412501</govtrack>
         <opensecrets>N00033474</opensecrets>
         <votesmart>59641</votesmart>
         <fec>H2OR01133</fec>
@@ -17930,7 +17610,6 @@
         <vacant>false</vacant>
         <bioguide>W000791</bioguide>
         <thomas>1596</thomas>
-        <govtrack>400419</govtrack>
         <opensecrets>N00007690</opensecrets>
         <votesmart>2979</votesmart>
         <fec>H6OR02116</fec>
@@ -17986,7 +17665,6 @@
         <vacant>false</vacant>
         <bioguide>B000574</bioguide>
         <thomas>99</thomas>
-        <govtrack>400033</govtrack>
         <opensecrets>N00007727</opensecrets>
         <votesmart>367</votesmart>
         <fec>H6OR03064</fec>
@@ -18042,7 +17720,6 @@
         <vacant>false</vacant>
         <bioguide>D000191</bioguide>
         <thomas>279</thomas>
-        <govtrack>400100</govtrack>
         <opensecrets>N00007781</opensecrets>
         <votesmart>27037</votesmart>
         <fec>H6OR04047</fec>
@@ -18098,7 +17775,6 @@
         <vacant>false</vacant>
         <bioguide>S001180</bioguide>
         <thomas>1950</thomas>
-        <govtrack>412315</govtrack>
         <opensecrets>N00030071</opensecrets>
         <votesmart>10813</votesmart>
         <fec>H8OR05107</fec>
@@ -18154,7 +17830,6 @@
         <vacant>false</vacant>
         <bioguide>F000466</bioguide>
         <thomas>null</thomas>
-        <govtrack>412721</govtrack>
         <opensecrets>N00038779</opensecrets>
         <votesmart>167708</votesmart>
         <fec>H6PA08277</fec>
@@ -18210,7 +17885,6 @@
         <vacant>false</vacant>
         <bioguide>B001296</bioguide>
         <thomas>2267</thomas>
-        <govtrack>412652</govtrack>
         <opensecrets>N00035307</opensecrets>
         <votesmart>47357</votesmart>
         <fec>H4PA13199</fec>
@@ -18266,7 +17940,6 @@
         <vacant>false</vacant>
         <bioguide>E000296</bioguide>
         <thomas>null</thomas>
-        <govtrack>412677</govtrack>
         <opensecrets>N00038450</opensecrets>
         <votesmart>9128</votesmart>
         <fec>H6PA02171</fec>
@@ -18285,7 +17958,7 @@
         <pronunciation>DWAHYT EH-vuhnz</pronunciation>
         <gender>male</gender>
         <ethnicity>african-american</ethnicity>
-        <religion>null</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1954-05-16</date_of_birth>
         <entered_office>2016-11-14</entered_office>
@@ -18322,7 +17995,6 @@
         <vacant>false</vacant>
         <bioguide>D000631</bioguide>
         <thomas>null</thomas>
-        <govtrack>412809</govtrack>
         <opensecrets>null</opensecrets>
         <votesmart>null</votesmart>
         <fec>H8PA04116</fec>
@@ -18361,8 +18033,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://dean.house.gov/</website>
+        <contact_page>https://dean.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -18378,7 +18050,6 @@
         <vacant>false</vacant>
         <bioguide>S001205</bioguide>
         <thomas>null</thomas>
-        <govtrack>412750</govtrack>
         <opensecrets>null</opensecrets>
         <votesmart>null</votesmart>
         <fec>H8PA07200</fec>
@@ -18417,8 +18088,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://scanlon.house.gov/</website>
+        <contact_page>https://scanlon.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -18434,7 +18105,6 @@
         <vacant>false</vacant>
         <bioguide>H001085</bioguide>
         <thomas>null</thomas>
-        <govtrack>412810</govtrack>
         <opensecrets>N00040949</opensecrets>
         <votesmart>178893</votesmart>
         <fec>H8PA06087</fec>
@@ -18473,8 +18143,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://houlahan.house.gov/</website>
+        <contact_page>https://houlahan.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -18490,7 +18160,6 @@
         <vacant>false</vacant>
         <bioguide>W000826</bioguide>
         <thomas>null</thomas>
-        <govtrack>412751</govtrack>
         <opensecrets>null</opensecrets>
         <votesmart>null</votesmart>
         <fec>H8PA15229</fec>
@@ -18529,8 +18198,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://wild.house.gov/</website>
+        <contact_page>https://wild.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -18546,7 +18215,6 @@
         <vacant>false</vacant>
         <bioguide>C001090</bioguide>
         <thomas>2159</thomas>
-        <govtrack>412571</govtrack>
         <opensecrets>N00034128</opensecrets>
         <votesmart>136236</votesmart>
         <fec>H2PA17079</fec>
@@ -18602,7 +18270,6 @@
         <vacant>false</vacant>
         <bioguide>M001204</bioguide>
         <thomas>null</thomas>
-        <govtrack>412811</govtrack>
         <opensecrets>N00029416</opensecrets>
         <votesmart>102438</votesmart>
         <fec>H8PA10147</fec>
@@ -18641,8 +18308,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://meuser.house.gov/</website>
+        <contact_page>https://meuser.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -18658,7 +18325,6 @@
         <vacant>false</vacant>
         <bioguide>P000605</bioguide>
         <thomas>2157</thomas>
-        <govtrack>412569</govtrack>
         <opensecrets>N00034120</opensecrets>
         <votesmart>59980</votesmart>
         <fec>H2PA04135</fec>
@@ -18714,7 +18380,6 @@
         <vacant>false</vacant>
         <bioguide>S001199</bioguide>
         <thomas>null</thomas>
-        <govtrack>412722</govtrack>
         <opensecrets>N00038781</opensecrets>
         <votesmart>102454</votesmart>
         <fec>H6PA16320</fec>
@@ -18733,7 +18398,7 @@
         <pronunciation>LOYD SMUH-ker</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>null</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1964-01-23</date_of_birth>
         <entered_office>2017-01-03</entered_office>
@@ -18770,7 +18435,6 @@
         <vacant>false</vacant>
         <bioguide>M001179</bioguide>
         <thomas>2053</thomas>
-        <govtrack>412468</govtrack>
         <opensecrets>N00031777</opensecrets>
         <votesmart>119478</votesmart>
         <fec>H0PA10078</fec>
@@ -18826,7 +18490,6 @@
         <vacant>false</vacant>
         <bioguide>J000302</bioguide>
         <thomas>null</thomas>
-        <govtrack>412812</govtrack>
         <opensecrets>N00043242</opensecrets>
         <votesmart>178911</votesmart>
         <fec>H8PA13125</fec>
@@ -18865,8 +18528,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://johnjoyce.house.gov/</website>
+        <contact_page>https://johnjoyce.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -18882,7 +18545,6 @@
         <vacant>false</vacant>
         <bioguide>R000610</bioguide>
         <thomas>null</thomas>
-        <govtrack>412813</govtrack>
         <opensecrets>N00041871</opensecrets>
         <votesmart>166004</votesmart>
         <fec>H8PA18199</fec>
@@ -18921,8 +18583,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://reschenthaler.house.gov/</website>
+        <contact_page>https://reschenthaler.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -18938,7 +18600,6 @@
         <vacant>false</vacant>
         <bioguide>T000467</bioguide>
         <thomas>1952</thomas>
-        <govtrack>412317</govtrack>
         <opensecrets>N00029736</opensecrets>
         <votesmart>24046</votesmart>
         <fec>H8PA05071</fec>
@@ -18994,7 +18655,6 @@
         <vacant>false</vacant>
         <bioguide>K000376</bioguide>
         <thomas>2051</thomas>
-        <govtrack>412465</govtrack>
         <opensecrets>N00031647</opensecrets>
         <votesmart>119463</votesmart>
         <fec>H0PA03271</fec>
@@ -19050,7 +18710,6 @@
         <vacant>false</vacant>
         <bioguide>L000588</bioguide>
         <thomas>null</thomas>
-        <govtrack>412744</govtrack>
         <opensecrets>N00041870</opensecrets>
         <votesmart>177656</votesmart>
         <fec>H8PA18181</fec>
@@ -19089,8 +18748,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://lamb.house.gov/</website>
+        <contact_page>https://lamb.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -19106,7 +18765,6 @@
         <vacant>false</vacant>
         <bioguide>D000482</bioguide>
         <thomas>316</thomas>
-        <govtrack>400114</govtrack>
         <opensecrets>N00001373</opensecrets>
         <votesmart>21853</votesmart>
         <fec>H4PA18131</fec>
@@ -19162,7 +18820,6 @@
         <vacant>false</vacant>
         <bioguide>C001084</bioguide>
         <thomas>2055</thomas>
-        <govtrack>412470</govtrack>
         <opensecrets>N00032019</opensecrets>
         <votesmart>7349</votesmart>
         <fec>H0RI01073</fec>
@@ -19218,7 +18875,6 @@
         <vacant>false</vacant>
         <bioguide>L000559</bioguide>
         <thomas>1668</thomas>
-        <govtrack>400230</govtrack>
         <opensecrets>N00009724</opensecrets>
         <votesmart>55787</votesmart>
         <fec>H0RI02139</fec>
@@ -19274,7 +18930,6 @@
         <vacant>false</vacant>
         <bioguide>C001122</bioguide>
         <thomas>null</thomas>
-        <govtrack>412814</govtrack>
         <opensecrets>N00041400</opensecrets>
         <votesmart>179601</votesmart>
         <fec>H8SC01116</fec>
@@ -19313,8 +18968,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://cunningham.house.gov/</website>
+        <contact_page>https://cunningham.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -19330,7 +18985,6 @@
         <vacant>false</vacant>
         <bioguide>W000795</bioguide>
         <thomas>1688</thomas>
-        <govtrack>400433</govtrack>
         <opensecrets>N00024809</opensecrets>
         <votesmart>3985</votesmart>
         <fec>H2SC02059</fec>
@@ -19386,7 +19040,6 @@
         <vacant>false</vacant>
         <bioguide>D000615</bioguide>
         <thomas>2057</thomas>
-        <govtrack>412472</govtrack>
         <opensecrets>N00030752</opensecrets>
         <votesmart>47967</votesmart>
         <fec>H0SC03077</fec>
@@ -19442,7 +19095,6 @@
         <vacant>false</vacant>
         <bioguide>T000480</bioguide>
         <thomas>null</thomas>
-        <govtrack>412815</govtrack>
         <opensecrets>N00042715</opensecrets>
         <votesmart>168923</votesmart>
         <fec>H8SC04250</fec>
@@ -19481,8 +19133,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://timmons.house.gov/</website>
+        <contact_page>https://timmons.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -19498,7 +19150,6 @@
         <vacant>false</vacant>
         <bioguide>N000190</bioguide>
         <thomas>null</thomas>
-        <govtrack>412738</govtrack>
         <opensecrets>N00027783</opensecrets>
         <votesmart>47930</votesmart>
         <fec>H8SC05158</fec>
@@ -19554,14 +19205,13 @@
         <vacant>false</vacant>
         <bioguide>C000537</bioguide>
         <thomas>208</thomas>
-        <govtrack>400075</govtrack>
         <opensecrets>N00002408</opensecrets>
         <votesmart>27066</votesmart>
         <fec>H2SC02042</fec>
         <maplight>192</maplight>
         <wikidata>Q1289889</wikidata>
         <google_entity_id>kg:/m/03c469</google_entity_id>
-        <title>house_majority_whip</title>
+        <title>house-majority-whip</title>
         <party>democrat</party>
         <name>James Clyburn</name>
         <name_slug>james-clyburn</name_slug>
@@ -19610,7 +19260,6 @@
         <vacant>false</vacant>
         <bioguide>R000597</bioguide>
         <thomas>2160</thomas>
-        <govtrack>412572</govtrack>
         <opensecrets>N00033832</opensecrets>
         <votesmart>132382</votesmart>
         <fec>H2SC07066</fec>
@@ -19649,8 +19298,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>https://tomriceforms.house.gov</website>
-        <contact_page>http://tomriceforms.house.gov/contact/</contact_page>
+        <website>https://rice.house.gov/</website>
+        <contact_page>https://rice.house.gov/contact/</contact_page>
         <facebook_url>https://www.facebook.com/reptomrice</facebook_url>
         <twitter_handle>RepTomRice</twitter_handle>
         <twitter_url>https://twitter.com/RepTomRice</twitter_url>
@@ -19666,7 +19315,6 @@
         <vacant>false</vacant>
         <bioguide>J000301</bioguide>
         <thomas>null</thomas>
-        <govtrack>412816</govtrack>
         <opensecrets>N00040559</opensecrets>
         <votesmart>48307</votesmart>
         <fec>H8SD01055</fec>
@@ -19705,8 +19353,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://dustyjohnson.house.gov/</website>
+        <contact_page>https://dustyjohnson.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -19722,7 +19370,6 @@
         <vacant>false</vacant>
         <bioguide>R000582</bioguide>
         <thomas>1954</thomas>
-        <govtrack>412310</govtrack>
         <opensecrets>N00028463</opensecrets>
         <votesmart>65306</votesmart>
         <fec>H6TN01388</fec>
@@ -19778,7 +19425,6 @@
         <vacant>false</vacant>
         <bioguide>B001309</bioguide>
         <thomas>null</thomas>
-        <govtrack>412817</govtrack>
         <opensecrets>N00041594</opensecrets>
         <votesmart>24379</votesmart>
         <fec>H8TN02119</fec>
@@ -19817,8 +19463,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://burchett.house.gov/</website>
+        <contact_page>https://burchett.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -19834,7 +19480,6 @@
         <vacant>false</vacant>
         <bioguide>F000459</bioguide>
         <thomas>2061</thomas>
-        <govtrack>412476</govtrack>
         <opensecrets>N00030815</opensecrets>
         <votesmart>123456</votesmart>
         <fec>H0TN03254</fec>
@@ -19890,7 +19535,6 @@
         <vacant>false</vacant>
         <bioguide>D000616</bioguide>
         <thomas>2062</thomas>
-        <govtrack>412477</govtrack>
         <opensecrets>N00030957</opensecrets>
         <votesmart>123473</votesmart>
         <fec>H0TN04195</fec>
@@ -19946,7 +19590,6 @@
         <vacant>false</vacant>
         <bioguide>C000754</bioguide>
         <thomas>231</thomas>
-        <govtrack>400081</govtrack>
         <opensecrets>N00003132</opensecrets>
         <votesmart>48891</votesmart>
         <fec>H2TN05131</fec>
@@ -20002,7 +19645,6 @@
         <vacant>false</vacant>
         <bioguide>R000612</bioguide>
         <thomas>null</thomas>
-        <govtrack>412818</govtrack>
         <opensecrets>N00041599</opensecrets>
         <votesmart>180452</votesmart>
         <fec>H8TN06094</fec>
@@ -20041,8 +19683,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://johnrose.house.gov/</website>
+        <contact_page>https://johnrose.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -20058,7 +19700,6 @@
         <vacant>false</vacant>
         <bioguide>G000590</bioguide>
         <thomas>null</thomas>
-        <govtrack>412819</govtrack>
         <opensecrets>N00041873</opensecrets>
         <votesmart>139030</votesmart>
         <fec>H8TN07076</fec>
@@ -20097,8 +19738,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20003</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://markgreen.house.gov/</website>
+        <contact_page>https://markgreen.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -20114,7 +19755,6 @@
         <vacant>false</vacant>
         <bioguide>K000392</bioguide>
         <thomas>null</thomas>
-        <govtrack>412724</govtrack>
         <opensecrets>N00025445</opensecrets>
         <votesmart>48997</votesmart>
         <fec>H2TN07103</fec>
@@ -20170,7 +19810,6 @@
         <vacant>false</vacant>
         <bioguide>C001068</bioguide>
         <thomas>1878</thomas>
-        <govtrack>412236</govtrack>
         <opensecrets>N00003225</opensecrets>
         <votesmart>24340</votesmart>
         <fec>H6TN09068</fec>
@@ -20226,7 +19865,6 @@
         <vacant>false</vacant>
         <bioguide>G000552</bioguide>
         <thomas>1801</thomas>
-        <govtrack>400651</govtrack>
         <opensecrets>N00026148</opensecrets>
         <votesmart>50029</votesmart>
         <fec>H4TX04039</fec>
@@ -20282,7 +19920,6 @@
         <vacant>false</vacant>
         <bioguide>C001120</bioguide>
         <thomas>null</thomas>
-        <govtrack>412820</govtrack>
         <opensecrets>N00042224</opensecrets>
         <votesmart>177270</votesmart>
         <fec>H8TX02166</fec>
@@ -20321,8 +19958,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://crenshaw.house.gov/</website>
+        <contact_page>https://crenshaw.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -20338,7 +19975,6 @@
         <vacant>false</vacant>
         <bioguide>T000479</bioguide>
         <thomas>null</thomas>
-        <govtrack>412821</govtrack>
         <opensecrets>N00027709</opensecrets>
         <votesmart>147737</votesmart>
         <fec>H8TX03123</fec>
@@ -20377,8 +20013,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://vantaylor.house.gov/</website>
+        <contact_page>https://vantaylor.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -20394,7 +20030,6 @@
         <vacant>false</vacant>
         <bioguide>R000601</bioguide>
         <thomas>2268</thomas>
-        <govtrack>412653</govtrack>
         <opensecrets>N00035972</opensecrets>
         <votesmart>147381</votesmart>
         <fec>H4TX04153</fec>
@@ -20450,7 +20085,6 @@
         <vacant>false</vacant>
         <bioguide>G000589</bioguide>
         <thomas>null</thomas>
-        <govtrack>412822</govtrack>
         <opensecrets>N00042237</opensecrets>
         <votesmart>116935</votesmart>
         <fec>H8TX05144</fec>
@@ -20489,8 +20123,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://gooden.house.gov/</website>
+        <contact_page>https://gooden.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -20506,7 +20140,6 @@
         <vacant>false</vacant>
         <bioguide>W000827</bioguide>
         <thomas>null</thomas>
-        <govtrack>412823</govtrack>
         <opensecrets>N00042240</opensecrets>
         <votesmart>78666</votesmart>
         <fec>H8TX06233</fec>
@@ -20545,8 +20178,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://wright.house.gov/</website>
+        <contact_page>https://wright.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -20562,7 +20195,6 @@
         <vacant>false</vacant>
         <bioguide>F000468</bioguide>
         <thomas>null</thomas>
-        <govtrack>412824</govtrack>
         <opensecrets>N00041194</opensecrets>
         <votesmart>177031</votesmart>
         <fec>H8TX07140</fec>
@@ -20601,8 +20233,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://fletcher.house.gov/</website>
+        <contact_page>https://fletcher.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -20618,7 +20250,6 @@
         <vacant>false</vacant>
         <bioguide>B000755</bioguide>
         <thomas>1468</thomas>
-        <govtrack>400046</govtrack>
         <opensecrets>N00005883</opensecrets>
         <votesmart>361</votesmart>
         <fec>H6TX08100</fec>
@@ -20674,7 +20305,6 @@
         <vacant>false</vacant>
         <bioguide>G000553</bioguide>
         <thomas>1803</thomas>
-        <govtrack>400653</govtrack>
         <opensecrets>N00026686</opensecrets>
         <votesmart>49680</votesmart>
         <fec>H4TX09095</fec>
@@ -20730,7 +20360,6 @@
         <vacant>false</vacant>
         <bioguide>M001157</bioguide>
         <thomas>1804</thomas>
-        <govtrack>400654</govtrack>
         <opensecrets>N00026460</opensecrets>
         <votesmart>49210</votesmart>
         <fec>H4TX10093</fec>
@@ -20786,7 +20415,6 @@
         <vacant>false</vacant>
         <bioguide>C001062</bioguide>
         <thomas>1805</thomas>
-        <govtrack>400655</govtrack>
         <opensecrets>N00026041</opensecrets>
         <votesmart>49935</votesmart>
         <fec>H4TX19136</fec>
@@ -20842,7 +20470,6 @@
         <vacant>false</vacant>
         <bioguide>G000377</bioguide>
         <thomas>1487</thomas>
-        <govtrack>400157</govtrack>
         <opensecrets>N00008799</opensecrets>
         <votesmart>334</votesmart>
         <fec>H6TX12060</fec>
@@ -20898,7 +20525,6 @@
         <vacant>false</vacant>
         <bioguide>T000238</bioguide>
         <thomas>1155</thomas>
-        <govtrack>400404</govtrack>
         <opensecrets>N00006052</opensecrets>
         <votesmart>21706</votesmart>
         <fec>H4TX13014</fec>
@@ -20954,7 +20580,6 @@
         <vacant>false</vacant>
         <bioguide>W000814</bioguide>
         <thomas>2161</thomas>
-        <govtrack>412574</govtrack>
         <opensecrets>N00033539</opensecrets>
         <votesmart>102026</votesmart>
         <fec>H2TX14149</fec>
@@ -21010,7 +20635,6 @@
         <vacant>false</vacant>
         <bioguide>G000581</bioguide>
         <thomas>null</thomas>
-        <govtrack>412725</govtrack>
         <opensecrets>N00038809</opensecrets>
         <votesmart>166483</votesmart>
         <fec>H6TX15162</fec>
@@ -21029,12 +20653,12 @@
         <pronunciation>vi-SEN-tay gon-ZAH-lez</pronunciation>
         <gender>male</gender>
         <ethnicity>hispanic-american</ethnicity>
-        <religion>null</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1967-09-04</date_of_birth>
         <entered_office>2017-01-03</entered_office>
         <term_end>2021-01-03</term_end>
-        <biography>Vicente GonzÃ¡lez, a Representative from Texas; born in Corpus Christi, Nueces County, Tex., September 4, 1967; earned G.E.D., 1985; B.A., Embry-Riddle Aeronautical University, Naval Air Station, Corpus Christi, Tex., 1992; J.D., Texas Wesleyan School of Law, Fort Worth, Tex., 1996; lawyer, private practice; elected as a Democrat to the One Hundred Fifteenth Congress (January 3, 2017-present).</biography>
+        <biography>Vicente Gonzalez, a Representative from Texas; born in Corpus Christi, Nueces County, Tex., September 4, 1967; earned G.E.D., 1985; B.A., Embry-Riddle Aeronautical University, Naval Air Station, Corpus Christi, Tex., 1992; J.D., Texas Wesleyan School of Law, Fort Worth, Tex., 1996; lawyer, private practice; elected as a Democrat to the One Hundred Fifteenth Congress (January 3, 2017-present).</biography>
         <phone>202-225-2531</phone>
         <fax>202-225-5688</fax>
         <latitude>38.8863235</latitude>
@@ -21049,8 +20673,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://gonzalez.house.gov/</website>
+        <contact_page>https://gonzalez.house.gov/contact</contact_page>
         <facebook_url>https://www.facebook.com/votevicente</facebook_url>
         <twitter_handle>votevicente</twitter_handle>
         <twitter_url>https://twitter.com/votevicente</twitter_url>
@@ -21066,7 +20690,6 @@
         <vacant>false</vacant>
         <bioguide>E000299</bioguide>
         <thomas>null</thomas>
-        <govtrack>412825</govtrack>
         <opensecrets>N00041702</opensecrets>
         <votesmart>99345</votesmart>
         <fec>H8TX16109</fec>
@@ -21105,8 +20728,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://escobar.house.gov/</website>
+        <contact_page>https://escobar.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -21122,7 +20745,6 @@
         <vacant>false</vacant>
         <bioguide>F000461</bioguide>
         <thomas>2065</thomas>
-        <govtrack>412480</govtrack>
         <opensecrets>N00031545</opensecrets>
         <votesmart>116906</votesmart>
         <fec>H0TX17104</fec>
@@ -21178,7 +20800,6 @@
         <vacant>false</vacant>
         <bioguide>J000032</bioguide>
         <thomas>588</thomas>
-        <govtrack>400199</govtrack>
         <opensecrets>N00005818</opensecrets>
         <votesmart>21692</votesmart>
         <fec>H4TX18054</fec>
@@ -21234,7 +20855,6 @@
         <vacant>false</vacant>
         <bioguide>A000375</bioguide>
         <thomas>null</thomas>
-        <govtrack>412726</govtrack>
         <opensecrets>N00038285</opensecrets>
         <votesmart>155685</votesmart>
         <fec>H6TX19099</fec>
@@ -21290,7 +20910,6 @@
         <vacant>false</vacant>
         <bioguide>C001091</bioguide>
         <thomas>2163</thomas>
-        <govtrack>412576</govtrack>
         <opensecrets>N00033316</opensecrets>
         <votesmart>49227</votesmart>
         <fec>H2TX35011</fec>
@@ -21346,7 +20965,6 @@
         <vacant>false</vacant>
         <bioguide>R000614</bioguide>
         <thomas>null</thomas>
-        <govtrack>412826</govtrack>
         <opensecrets>N00042268</opensecrets>
         <votesmart>177319</votesmart>
         <fec>H8TX21307</fec>
@@ -21385,8 +21003,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://roy.house.gov/</website>
+        <contact_page>https://roy.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -21402,7 +21020,6 @@
         <vacant>false</vacant>
         <bioguide>O000168</bioguide>
         <thomas>1955</thomas>
-        <govtrack>412302</govtrack>
         <opensecrets>N00029285</opensecrets>
         <votesmart>102008</votesmart>
         <fec>H8TX22107</fec>
@@ -21458,7 +21075,6 @@
         <vacant>false</vacant>
         <bioguide>H001073</bioguide>
         <thomas>2269</thomas>
-        <govtrack>412654</govtrack>
         <opensecrets>N00031417</opensecrets>
         <votesmart>116911</votesmart>
         <fec>H0TX23086</fec>
@@ -21514,7 +21130,6 @@
         <vacant>false</vacant>
         <bioguide>M001158</bioguide>
         <thomas>1806</thomas>
-        <govtrack>400656</govtrack>
         <opensecrets>N00026710</opensecrets>
         <votesmart>5549</votesmart>
         <fec>H4TX24094</fec>
@@ -21570,7 +21185,6 @@
         <vacant>false</vacant>
         <bioguide>W000816</bioguide>
         <thomas>2165</thomas>
-        <govtrack>412578</govtrack>
         <opensecrets>N00030602</opensecrets>
         <votesmart>50112</votesmart>
         <fec>H2TX33040</fec>
@@ -21626,7 +21240,6 @@
         <vacant>false</vacant>
         <bioguide>B001248</bioguide>
         <thomas>1751</thomas>
-        <govtrack>400052</govtrack>
         <opensecrets>N00025219</opensecrets>
         <votesmart>50120</votesmart>
         <fec>H2TX26093</fec>
@@ -21682,7 +21295,6 @@
         <vacant>false</vacant>
         <bioguide>F000460</bioguide>
         <thomas>2067</thomas>
-        <govtrack>412482</govtrack>
         <opensecrets>N00031672</opensecrets>
         <votesmart>116919</votesmart>
         <fec>H0TX27061</fec>
@@ -21738,7 +21350,6 @@
         <vacant>false</vacant>
         <bioguide>C001063</bioguide>
         <thomas>1807</thomas>
-        <govtrack>400657</govtrack>
         <opensecrets>N00024978</opensecrets>
         <votesmart>5486</votesmart>
         <fec>H2TX23082</fec>
@@ -21794,7 +21405,6 @@
         <vacant>false</vacant>
         <bioguide>G000587</bioguide>
         <thomas>null</thomas>
-        <govtrack>412827</govtrack>
         <opensecrets>N00042282</opensecrets>
         <votesmart>49734</votesmart>
         <fec>H8TX29052</fec>
@@ -21833,8 +21443,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://sylviagarcia.house.gov/</website>
+        <contact_page>https://sylviagarcia.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -21850,7 +21460,6 @@
         <vacant>false</vacant>
         <bioguide>J000126</bioguide>
         <thomas>599</thomas>
-        <govtrack>400204</govtrack>
         <opensecrets>N00008122</opensecrets>
         <votesmart>27098</votesmart>
         <fec>H2TX00015</fec>
@@ -21906,7 +21515,6 @@
         <vacant>false</vacant>
         <bioguide>C001051</bioguide>
         <thomas>1752</thomas>
-        <govtrack>400068</govtrack>
         <opensecrets>N00025095</opensecrets>
         <votesmart>49296</votesmart>
         <fec>H2TX31044</fec>
@@ -21962,7 +21570,6 @@
         <vacant>false</vacant>
         <bioguide>A000376</bioguide>
         <thomas>null</thomas>
-        <govtrack>412828</govtrack>
         <opensecrets>N00040989</opensecrets>
         <votesmart>177357</votesmart>
         <fec>H8TX32098</fec>
@@ -22001,8 +21608,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://allred.house.gov/</website>
+        <contact_page>https://allred.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -22018,7 +21625,6 @@
         <vacant>false</vacant>
         <bioguide>V000131</bioguide>
         <thomas>2166</thomas>
-        <govtrack>412579</govtrack>
         <opensecrets>N00033839</opensecrets>
         <votesmart>49671</votesmart>
         <fec>H2TX33073</fec>
@@ -22074,7 +21680,6 @@
         <vacant>false</vacant>
         <bioguide>V000132</bioguide>
         <thomas>2167</thomas>
-        <govtrack>412580</govtrack>
         <opensecrets>N00034349</opensecrets>
         <votesmart>137719</votesmart>
         <fec>H2TX27190</fec>
@@ -22130,7 +21735,6 @@
         <vacant>false</vacant>
         <bioguide>D000399</bioguide>
         <thomas>303</thomas>
-        <govtrack>400111</govtrack>
         <opensecrets>N00006023</opensecrets>
         <votesmart>21689</votesmart>
         <fec>H4TX10028</fec>
@@ -22186,7 +21790,6 @@
         <vacant>false</vacant>
         <bioguide>B001291</bioguide>
         <thomas>2270</thomas>
-        <govtrack>412655</govtrack>
         <opensecrets>N00005736</opensecrets>
         <votesmart>360</votesmart>
         <fec>H6TX02079</fec>
@@ -22242,7 +21845,6 @@
         <vacant>false</vacant>
         <bioguide>B001250</bioguide>
         <thomas>1753</thomas>
-        <govtrack>400029</govtrack>
         <opensecrets>N00025292</opensecrets>
         <votesmart>50544</votesmart>
         <fec>H2UT01094</fec>
@@ -22298,7 +21900,6 @@
         <vacant>false</vacant>
         <bioguide>S001192</bioguide>
         <thomas>2168</thomas>
-        <govtrack>412581</govtrack>
         <opensecrets>N00033932</opensecrets>
         <votesmart>135930</votesmart>
         <fec>H2UT02324</fec>
@@ -22354,7 +21955,6 @@
         <vacant>false</vacant>
         <bioguide>C001076</bioguide>
         <thomas>1956</thomas>
-        <govtrack>412270</govtrack>
         <opensecrets>N00028958</opensecrets>
         <votesmart>103482</votesmart>
         <fec>H8UT03089</fec>
@@ -22410,7 +22010,6 @@
         <vacant>false</vacant>
         <bioguide>M001209</bioguide>
         <thomas>null</thomas>
-        <govtrack>412829</govtrack>
         <opensecrets>N00042013</opensecrets>
         <votesmart>117512</votesmart>
         <fec>H8UT04053</fec>
@@ -22449,8 +22048,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://mcadams.house.gov/</website>
+        <contact_page>https://mcadams.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -22466,7 +22065,6 @@
         <vacant>false</vacant>
         <bioguide>W000804</bioguide>
         <thomas>1886</thomas>
-        <govtrack>412255</govtrack>
         <opensecrets>N00029459</opensecrets>
         <votesmart>58133</votesmart>
         <fec>H8VA01147</fec>
@@ -22522,7 +22120,6 @@
         <vacant>false</vacant>
         <bioguide>L000591</bioguide>
         <thomas>null</thomas>
-        <govtrack>412830</govtrack>
         <opensecrets>N00042293</opensecrets>
         <votesmart>179677</votesmart>
         <fec>H8VA02111</fec>
@@ -22561,8 +22158,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://luria.house.gov/</website>
+        <contact_page>https://luria.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -22578,7 +22175,6 @@
         <vacant>false</vacant>
         <bioguide>S000185</bioguide>
         <thomas>1037</thomas>
-        <govtrack>400364</govtrack>
         <opensecrets>N00002147</opensecrets>
         <votesmart>27117</votesmart>
         <fec>H6VA01117</fec>
@@ -22634,7 +22230,6 @@
         <vacant>false</vacant>
         <bioguide>M001200</bioguide>
         <thomas>null</thomas>
-        <govtrack>412728</govtrack>
         <opensecrets>N00039327</opensecrets>
         <votesmart>8230</votesmart>
         <fec>H6VA04061</fec>
@@ -22690,7 +22285,6 @@
         <vacant>false</vacant>
         <bioguide>R000611</bioguide>
         <thomas>null</thomas>
-        <govtrack>412831</govtrack>
         <opensecrets>N00043541</opensecrets>
         <votesmart>181445</votesmart>
         <fec>H8VA05171</fec>
@@ -22729,8 +22323,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://riggleman.house.gov/</website>
+        <contact_page>https://riggleman.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -22746,7 +22340,6 @@
         <vacant>false</vacant>
         <bioguide>C001118</bioguide>
         <thomas>null</thomas>
-        <govtrack>412832</govtrack>
         <opensecrets>N00042296</opensecrets>
         <votesmart>50959</votesmart>
         <fec>H8VA06104</fec>
@@ -22785,8 +22378,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://cline.house.gov/</website>
+        <contact_page>https://cline.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -22802,7 +22395,6 @@
         <vacant>false</vacant>
         <bioguide>S001209</bioguide>
         <thomas>null</thomas>
-        <govtrack>412833</govtrack>
         <opensecrets>N00041418</opensecrets>
         <votesmart>179682</votesmart>
         <fec>H8VA07094</fec>
@@ -22841,8 +22433,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://spanberger.house.gov/</website>
+        <contact_page>https://spanberger.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -22858,7 +22450,6 @@
         <vacant>false</vacant>
         <bioguide>B001292</bioguide>
         <thomas>2272</thomas>
-        <govtrack>412657</govtrack>
         <opensecrets>N00036018</opensecrets>
         <votesmart>1707</votesmart>
         <fec>H4VA08224</fec>
@@ -22914,7 +22505,6 @@
         <vacant>false</vacant>
         <bioguide>G000568</bioguide>
         <thomas>2070</thomas>
-        <govtrack>412485</govtrack>
         <opensecrets>N00032029</opensecrets>
         <votesmart>5148</votesmart>
         <fec>H0VA09055</fec>
@@ -22970,7 +22560,6 @@
         <vacant>false</vacant>
         <bioguide>W000825</bioguide>
         <thomas>null</thomas>
-        <govtrack>412834</govtrack>
         <opensecrets>N00041002</opensecrets>
         <votesmart>147013</votesmart>
         <fec>H8VA10106</fec>
@@ -23009,8 +22598,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://wexton.house.gov/</website>
+        <contact_page>https://wexton.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -23026,7 +22615,6 @@
         <vacant>false</vacant>
         <bioguide>C001078</bioguide>
         <thomas>1959</thomas>
-        <govtrack>412272</govtrack>
         <opensecrets>N00029891</opensecrets>
         <votesmart>95078</votesmart>
         <fec>H8VA11062</fec>
@@ -23082,7 +22670,6 @@
         <vacant>false</vacant>
         <bioguide>W000800</bioguide>
         <thomas>1879</thomas>
-        <govtrack>412239</govtrack>
         <opensecrets>N00000515</opensecrets>
         <votesmart>51272</votesmart>
         <fec>H6VT00160</fec>
@@ -23138,7 +22725,6 @@
         <vacant>false</vacant>
         <bioguide>D000617</bioguide>
         <thomas>2096</thomas>
-        <govtrack>412505</govtrack>
         <opensecrets>N00030693</opensecrets>
         <votesmart>126272</votesmart>
         <fec>H0WA08046</fec>
@@ -23194,7 +22780,6 @@
         <vacant>false</vacant>
         <bioguide>L000560</bioguide>
         <thomas>1675</thomas>
-        <govtrack>400232</govtrack>
         <opensecrets>N00009759</opensecrets>
         <votesmart>56231</votesmart>
         <fec>H0WA02080</fec>
@@ -23250,7 +22835,6 @@
         <vacant>false</vacant>
         <bioguide>H001056</bioguide>
         <thomas>2071</thomas>
-        <govtrack>412486</govtrack>
         <opensecrets>N00031559</opensecrets>
         <votesmart>101907</votesmart>
         <fec>H0WA03187</fec>
@@ -23306,7 +22890,6 @@
         <vacant>false</vacant>
         <bioguide>N000189</bioguide>
         <thomas>2275</thomas>
-        <govtrack>412660</govtrack>
         <opensecrets>N00036403</opensecrets>
         <votesmart>51522</votesmart>
         <fec>H4WA04104</fec>
@@ -23362,7 +22945,6 @@
         <vacant>false</vacant>
         <bioguide>M001159</bioguide>
         <thomas>1809</thomas>
-        <govtrack>400659</govtrack>
         <opensecrets>N00026314</opensecrets>
         <votesmart>3217</votesmart>
         <fec>H4WA05077</fec>
@@ -23418,7 +23000,6 @@
         <vacant>false</vacant>
         <bioguide>K000381</bioguide>
         <thomas>2169</thomas>
-        <govtrack>412583</govtrack>
         <opensecrets>N00034453</opensecrets>
         <votesmart>51516</votesmart>
         <fec>H2WA06129</fec>
@@ -23474,7 +23055,6 @@
         <vacant>false</vacant>
         <bioguide>J000298</bioguide>
         <thomas>null</thomas>
-        <govtrack>412730</govtrack>
         <opensecrets>N00038858</opensecrets>
         <votesmart>153141</votesmart>
         <fec>H6WA07458</fec>
@@ -23530,7 +23110,6 @@
         <vacant>false</vacant>
         <bioguide>S001216</bioguide>
         <thomas>null</thomas>
-        <govtrack>412835</govtrack>
         <opensecrets>N00041606</opensecrets>
         <votesmart>181124</votesmart>
         <fec>H8WA08189</fec>
@@ -23569,8 +23148,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://schrier.house.gov/</website>
+        <contact_page>https://schrier.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -23586,7 +23165,6 @@
         <vacant>false</vacant>
         <bioguide>S000510</bioguide>
         <thomas>1528</thomas>
-        <govtrack>400379</govtrack>
         <opensecrets>N00007833</opensecrets>
         <votesmart>845</votesmart>
         <fec>H6WA09025</fec>
@@ -23642,7 +23220,6 @@
         <vacant>false</vacant>
         <bioguide>H001064</bioguide>
         <thomas>2170</thomas>
-        <govtrack>412584</govtrack>
         <opensecrets>N00031557</opensecrets>
         <votesmart>126058</votesmart>
         <fec>H0WA03161</fec>
@@ -23698,7 +23275,6 @@
         <vacant>false</vacant>
         <bioguide>S001213</bioguide>
         <thomas>null</thomas>
-        <govtrack>412836</govtrack>
         <opensecrets>N00043379</opensecrets>
         <votesmart>181289</votesmart>
         <fec>H8WI01156</fec>
@@ -23737,8 +23313,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://steil.house.gov/</website>
+        <contact_page>https://steil.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -23754,7 +23330,6 @@
         <vacant>false</vacant>
         <bioguide>P000607</bioguide>
         <thomas>2171</thomas>
-        <govtrack>412585</govtrack>
         <opensecrets>N00033549</opensecrets>
         <votesmart>26238</votesmart>
         <fec>H2WI02124</fec>
@@ -23810,7 +23385,6 @@
         <vacant>false</vacant>
         <bioguide>K000188</bioguide>
         <thomas>1498</thomas>
-        <govtrack>400218</govtrack>
         <opensecrets>N00004403</opensecrets>
         <votesmart>630</votesmart>
         <fec>H6WI03099</fec>
@@ -23866,7 +23440,6 @@
         <vacant>false</vacant>
         <bioguide>M001160</bioguide>
         <thomas>1811</thomas>
-        <govtrack>400661</govtrack>
         <opensecrets>N00026914</opensecrets>
         <votesmart>3457</votesmart>
         <fec>H4WI04183</fec>
@@ -23922,7 +23495,6 @@
         <vacant>false</vacant>
         <bioguide>S000244</bioguide>
         <thomas>1041</thomas>
-        <govtrack>400365</govtrack>
         <opensecrets>N00004291</opensecrets>
         <votesmart>27142</votesmart>
         <fec>H8WI09050</fec>
@@ -23961,8 +23533,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://sensenbrenner.house.gov/</website>
+        <contact_page>https://sensenbrenner.house.gov/contact</contact_page>
         <facebook_url>https://www.facebook.com/SensenbrennerforCongress</facebook_url>
         <twitter_handle>JimPressOffice</twitter_handle>
         <twitter_url>https://twitter.com/JimPressOffice</twitter_url>
@@ -23978,7 +23550,6 @@
         <vacant>false</vacant>
         <bioguide>G000576</bioguide>
         <thomas>2276</thomas>
-        <govtrack>412661</govtrack>
         <opensecrets>N00036409</opensecrets>
         <votesmart>3493</votesmart>
         <fec>H4WI06048</fec>
@@ -24034,7 +23605,6 @@
         <vacant>false</vacant>
         <bioguide>D000614</bioguide>
         <thomas>2072</thomas>
-        <govtrack>412488</govtrack>
         <opensecrets>N00030967</opensecrets>
         <votesmart>126238</votesmart>
         <fec>H0WI07051</fec>
@@ -24090,7 +23660,6 @@
         <vacant>false</vacant>
         <bioguide>G000579</bioguide>
         <thomas>null</thomas>
-        <govtrack>412731</govtrack>
         <opensecrets>N00039330</opensecrets>
         <votesmart>171843</votesmart>
         <fec>H6WI08155</fec>
@@ -24109,7 +23678,7 @@
         <pronunciation>MIKE GAL-luh-ger</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>null</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1984-03-03</date_of_birth>
         <entered_office>2017-01-03</entered_office>
@@ -24146,7 +23715,6 @@
         <vacant>false</vacant>
         <bioguide>M001180</bioguide>
         <thomas>2074</thomas>
-        <govtrack>412487</govtrack>
         <opensecrets>N00031681</opensecrets>
         <votesmart>117396</votesmart>
         <fec>H0WV01072</fec>
@@ -24202,7 +23770,6 @@
         <vacant>false</vacant>
         <bioguide>M001195</bioguide>
         <thomas>2277</thomas>
-        <govtrack>412662</govtrack>
         <opensecrets>N00033814</opensecrets>
         <votesmart>null</votesmart>
         <fec>H4WV02080</fec>
@@ -24258,7 +23825,6 @@
         <vacant>false</vacant>
         <bioguide>M001205</bioguide>
         <thomas>null</thomas>
-        <govtrack>412837</govtrack>
         <opensecrets>N00041542</opensecrets>
         <votesmart>52123</votesmart>
         <fec>H8WV03097</fec>
@@ -24297,8 +23863,8 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
+        <website>https://miller.house.gov/</website>
+        <contact_page>https://miller.house.gov/contact</contact_page>
         <facebook_url>null</facebook_url>
         <twitter_handle>null</twitter_handle>
         <twitter_url>null</twitter_url>
@@ -24314,7 +23880,6 @@
         <vacant>false</vacant>
         <bioguide>C001109</bioguide>
         <thomas>null</thomas>
-        <govtrack>412732</govtrack>
         <opensecrets>N00035504</opensecrets>
         <votesmart>145932</votesmart>
         <fec>H6WY00159</fec>
