@@ -57,9 +57,9 @@
     "address_type": null,
     "website": "https://delgado.house.gov/",
     "contact_page": "https://delgado.house.gov/contact",
-    "facebook_url": null,
-    "twitter_handle": null,
-    "twitter_url": null,
+    "facebook_url": "https://www.facebook.com/HouseDemocrats",
+    "twitter_handle": "housedemocrats",
+    "twitter_url": "https://twitter.com/housedemocrats",
     "photo_url": "https://cdn.civil.services/us-house/headshots/512x512/antonio-delgado.jpg"
   },
   "geometry": {

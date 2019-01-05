@@ -57,9 +57,9 @@
     "address_type": null,
     "website": "https://cunningham.house.gov/",
     "contact_page": "https://cunningham.house.gov/contact",
-    "facebook_url": null,
-    "twitter_handle": null,
-    "twitter_url": null,
+    "facebook_url": "https://www.facebook.com/HouseDemocrats",
+    "twitter_handle": "housedemocrats",
+    "twitter_url": "https://twitter.com/housedemocrats",
     "photo_url": "https://cdn.civil.services/us-house/headshots/512x512/joe-cunningham.jpg"
   },
   "geometry": {

@@ -215,7 +215,7 @@
         <address_type>null</address_type>
         <website>https://mikerogers.house.gov</website>
         <contact_page>https://mikerogers.house.gov/contact-mike/email-me</contact_page>
-        <facebook_url>null</facebook_url>
+        <facebook_url>https://www.facebook.com/MikeRogersforCongress/</facebook_url>
         <twitter_handle>RepMikeRogersAL</twitter_handle>
         <twitter_url>https://twitter.com/RepMikeRogersAL</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/mike-rogers.jpg</photo_url>
@@ -2260,55 +2260,55 @@
         <state_name_slug>california</state_name_slug>
         <state_code>CA</state_code>
         <state_code_slug>ca</state_code_slug>
-        <district>21</district>
+        <district>23</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
-        <bioguide>C001124</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>N00028122</opensecrets>
-        <votesmart>57197</votesmart>
-        <fec>H6CA19113</fec>
-        <maplight>null</maplight>
-        <wikidata>Q59306065</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>representative</title>
-        <party>democrat</party>
-        <name>TJ Cox</name>
-        <name_slug>tj-cox</name_slug>
-        <first_name>TJ</first_name>
+        <bioguide>M001165</bioguide>
+        <thomas>1833</thomas>
+        <opensecrets>N00028152</opensecrets>
+        <votesmart>28918</votesmart>
+        <fec>H6CA22125</fec>
+        <maplight>677</maplight>
+        <wikidata>Q766866</wikidata>
+        <google_entity_id>kg:/m/074qxm</google_entity_id>
+        <title>house-minority-leader</title>
+        <party>republican</party>
+        <name>Kevin McCarthy</name>
+        <name_slug>kevin-mccarthy</name_slug>
+        <first_name>Kevin</first_name>
         <middle_name>null</middle_name>
-        <last_name>Cox</last_name>
+        <last_name>McCarthy</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>TEE-jay KAHKS</pronunciation>
+        <pronunciation>KEH-vin muh-CAR-thee</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
+        <religion>baptist</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1963-07-18</date_of_birth>
-        <entered_office>2019-01-03</entered_office>
+        <date_of_birth>1965-01-26</date_of_birth>
+        <entered_office>2007-01-04</entered_office>
         <term_end>2021-01-03</term_end>
-        <biography>TJ Cox is the Democratic representative from California's 21st Congressional District in the U.S. House. Cox was elected to the office on November 6, 2018.</biography>
-        <phone>202-225-4695</phone>
+        <biography>Kevin McCarthy, a Representative from California; born in Bakersfield, Kern County, Calif., January 26, 1965; attended Bakersfield College, Bakersfield. Calif., 1984-1985; B.S., California State University, Bakersfield, Calif., 1989; M.B.A., California State University, Bakersfield, Calif., 1994; staff, United States Representative William Thomas of California, 1987-2002; member of the California state assembly, 2002-2007, minority leader, 2004-2006; elected as a Republican to the One Hundred Tenth and to the five succeeding Congresses (January 3, 2007-present); majority whip (One Hundred Twelfth and One Hundred Thirteenth Congresses); majority leader (One Hundred Thirteenth through One Hundred Fifteenth Congresses).</biography>
+        <phone>202-225-2915</phone>
         <fax>null</fax>
-        <latitude>38.8871632</latitude>
-        <longitude>-77.0107573</longitude>
-        <address_complete>1122 Longworth House Office Building, Washington, DC 20515</address_complete>
-        <address_number>1122</address_number>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>Longworth House Office</address_street>
-        <address_sec_unit_type>Building</address_sec_unit_type>
-        <address_sec_unit_num>Washingto</address_sec_unit_num>
-        <address_city>n</address_city>
+        <address_street>Rayburn Hob</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>https://cox.house.gov</website>
-        <contact_page>https://cox.house.gov/contact/email-me</contact_page>
-        <facebook_url>https://www.facebook.com/tjcoxforcongress</facebook_url>
-        <twitter_handle>TJCoxCongress</twitter_handle>
-        <twitter_url>https://twitter.com/TJCoxCongress</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/tj-cox.jpg</photo_url>
+        <website>https://kevinmccarthy.house.gov</website>
+        <contact_page>https://kevinmccarthy.house.gov/contact/email-me</contact_page>
+        <facebook_url>https://www.facebook.com/CongressmanKevinMcCarthy/</facebook_url>
+        <twitter_handle>GOPLeader</twitter_handle>
+        <twitter_url>https://twitter.com/GOPLeader</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/kevin-mccarthy.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>California</state_name>
@@ -2361,8 +2361,8 @@
         <website>https://nunes.house.gov</website>
         <contact_page>https://nunes.house.gov/contactform/</contact_page>
         <facebook_url>https://www.facebook.com/devinnunesforcongress/</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <twitter_handle>RepDevinNunes</twitter_handle>
+        <twitter_url>https://twitter.com/RepDevinNunes</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/devin-nunes.jpg</photo_url>
     </councilor>
     <councilor>
@@ -2370,55 +2370,55 @@
         <state_name_slug>california</state_name_slug>
         <state_code>CA</state_code>
         <state_code_slug>ca</state_code_slug>
-        <district>23</district>
+        <district>21</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
-        <bioguide>M001165</bioguide>
-        <thomas>1833</thomas>
-        <opensecrets>N00028152</opensecrets>
-        <votesmart>28918</votesmart>
-        <fec>H6CA22125</fec>
-        <maplight>677</maplight>
-        <wikidata>Q766866</wikidata>
-        <google_entity_id>kg:/m/074qxm</google_entity_id>
-        <title>house-minority-leader</title>
-        <party>republican</party>
-        <name>Kevin McCarthy</name>
-        <name_slug>kevin-mccarthy</name_slug>
-        <first_name>Kevin</first_name>
+        <bioguide>C001124</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00028122</opensecrets>
+        <votesmart>57197</votesmart>
+        <fec>H6CA19113</fec>
+        <maplight>null</maplight>
+        <wikidata>Q59306065</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>representative</title>
+        <party>democrat</party>
+        <name>TJ Cox</name>
+        <name_slug>tj-cox</name_slug>
+        <first_name>TJ</first_name>
         <middle_name>null</middle_name>
-        <last_name>McCarthy</last_name>
+        <last_name>Cox</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>KEH-vin muh-CAR-thee</pronunciation>
+        <pronunciation>TEE-jay KAHKS</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>baptist</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1965-01-26</date_of_birth>
-        <entered_office>2007-01-04</entered_office>
+        <date_of_birth>1963-07-18</date_of_birth>
+        <entered_office>2019-01-03</entered_office>
         <term_end>2021-01-03</term_end>
-        <biography>Kevin McCarthy, a Representative from California; born in Bakersfield, Kern County, Calif., January 26, 1965; attended Bakersfield College, Bakersfield. Calif., 1984-1985; B.S., California State University, Bakersfield, Calif., 1989; M.B.A., California State University, Bakersfield, Calif., 1994; staff, United States Representative William Thomas of California, 1987-2002; member of the California state assembly, 2002-2007, minority leader, 2004-2006; elected as a Republican to the One Hundred Tenth and to the five succeeding Congresses (January 3, 2007-present); majority whip (One Hundred Twelfth and One Hundred Thirteenth Congresses); majority leader (One Hundred Thirteenth through One Hundred Fifteenth Congresses).</biography>
-        <phone>202-225-2915</phone>
+        <biography>TJ Cox is the Democratic representative from California's 21st Congressional District in the U.S. House. Cox was elected to the office on November 6, 2018.</biography>
+        <phone>202-225-4695</phone>
         <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
+        <latitude>38.8871632</latitude>
+        <longitude>-77.0107573</longitude>
+        <address_complete>1122 Longworth House Office Building, Washington, DC 20515</address_complete>
+        <address_number>1122</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>Rayburn Hob</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
+        <address_street>Longworth House Office</address_street>
+        <address_sec_unit_type>Building</address_sec_unit_type>
+        <address_sec_unit_num>Washingto</address_sec_unit_num>
+        <address_city>n</address_city>
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>https://kevinmccarthy.house.gov</website>
-        <contact_page>https://kevinmccarthy.house.gov/contact/email-me</contact_page>
-        <facebook_url>https://www.facebook.com/CongressmanKevinMcCarthy/</facebook_url>
-        <twitter_handle>GOPLeader</twitter_handle>
-        <twitter_url>https://twitter.com/GOPLeader</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/kevin-mccarthy.jpg</photo_url>
+        <website>https://cox.house.gov</website>
+        <contact_page>https://cox.house.gov/contact/email-me</contact_page>
+        <facebook_url>https://www.facebook.com/tjcoxforcongress</facebook_url>
+        <twitter_handle>TJCoxCongress</twitter_handle>
+        <twitter_url>https://twitter.com/TJCoxCongress</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/tj-cox.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>California</state_name>
@@ -2856,8 +2856,8 @@
         <website>https://aguilar.house.gov</website>
         <contact_page>https://aguilar.house.gov/contact/email</contact_page>
         <facebook_url>https://www.facebook.com/reppeteaguilar</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/pete-aguilar.jpg</photo_url>
     </councilor>
     <councilor>
@@ -3131,8 +3131,8 @@
         <website>https://ruiz.house.gov</website>
         <contact_page>https://ruiz.house.gov/contact/email</contact_page>
         <facebook_url>https://www.facebook.com/CongressmanRaulRuizMD</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/raul-ruiz.jpg</photo_url>
     </councilor>
     <councilor>
@@ -3460,7 +3460,7 @@
         <address_type>null</address_type>
         <website>https://calvert.house.gov</website>
         <contact_page>http://calvert.house.gov/contact/</contact_page>
-        <facebook_url>null</facebook_url>
+        <facebook_url>https://www.facebook.com/RepKenCalvert/</facebook_url>
         <twitter_handle>KenCalvert</twitter_handle>
         <twitter_url>https://twitter.com/KenCalvert</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ken-calvert.jpg</photo_url>
@@ -6210,9 +6210,9 @@
         <address_type>null</address_type>
         <website>https://mucarsel-powell.house.gov</website>
         <contact_page>https://mucarsel-powell.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/debbie-mucarsel-powell.jpg</photo_url>
     </councilor>
     <councilor>
@@ -6265,9 +6265,9 @@
         <address_type>null</address_type>
         <website>https://shalala.house.gov</website>
         <contact_page>https://shalala.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/donna-shalala.jpg</photo_url>
     </councilor>
     <councilor>
@@ -6595,9 +6595,9 @@
         <address_type>null</address_type>
         <website>https://mcbath.house.gov</website>
         <contact_page>https://mcbath.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/lucy-mcbath.jpg</photo_url>
     </councilor>
     <councilor>
@@ -7090,9 +7090,9 @@
         <address_type>null</address_type>
         <website>https://case.house.gov/</website>
         <contact_page>https://case.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ed-case.jpg</photo_url>
     </councilor>
     <councilor>
@@ -7200,9 +7200,9 @@
         <address_type>null</address_type>
         <website>https://finkenauer.house.gov/</website>
         <contact_page>https://finkenauer.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/abby-finkenauer.jpg</photo_url>
     </councilor>
     <councilor>
@@ -7310,9 +7310,9 @@
         <address_type>null</address_type>
         <website>https://axne.house.gov/</website>
         <contact_page>https://axne.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/cynthia-axne.jpg</photo_url>
     </councilor>
     <councilor>
@@ -7420,9 +7420,9 @@
         <address_type>null</address_type>
         <website>https://fulcher.house.gov/</website>
         <contact_page>https://fulcher.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/russ-fulcher.jpg</photo_url>
     </councilor>
     <councilor>
@@ -7695,9 +7695,9 @@
         <address_type>null</address_type>
         <website>https://jesusgarcia.house.gov/</website>
         <contact_page>https://jesusgarcia.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/jesus-garcia.jpg</photo_url>
     </councilor>
     <councilor>
@@ -7805,9 +7805,9 @@
         <address_type>null</address_type>
         <website>https://casten.house.gov/</website>
         <contact_page>https://casten.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/sean-casten.jpg</photo_url>
     </councilor>
     <councilor>
@@ -7861,8 +7861,8 @@
         <website>https://davis.house.gov</website>
         <contact_page>https://davis.house.gov/email-me/</contact_page>
         <facebook_url>https://www.facebook.com/CongressmanDKDavis/</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/danny-davis.jpg</photo_url>
     </councilor>
     <councilor>
@@ -8245,9 +8245,9 @@
         <address_type>null</address_type>
         <website>https://underwood.house.gov/</website>
         <contact_page>https://underwood.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/lauren-underwood.jpg</photo_url>
     </councilor>
     <councilor>
@@ -8685,9 +8685,9 @@
         <address_type>null</address_type>
         <website>https://baird.house.gov/</website>
         <contact_page>https://baird.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/james-baird.jpg</photo_url>
     </councilor>
     <councilor>
@@ -8795,9 +8795,9 @@
         <address_type>null</address_type>
         <website>https://pence.house.gov/</website>
         <contact_page>https://pence.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/greg-pence.jpg</photo_url>
     </councilor>
     <councilor>
@@ -8854,6 +8854,61 @@
         <twitter_handle>RepAndreCarson</twitter_handle>
         <twitter_url>https://twitter.com/RepAndreCarson</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/andre-carson.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Indiana</state_name>
+        <state_name_slug>indiana</state_name_slug>
+        <state_code>IN</state_code>
+        <state_code_slug>in</state_code_slug>
+        <district>8</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>B001275</bioguide>
+        <thomas>2018</thomas>
+        <opensecrets>N00031227</opensecrets>
+        <votesmart>120335</votesmart>
+        <fec>H0IN08114</fec>
+        <maplight>1438</maplight>
+        <wikidata>Q944286</wikidata>
+        <google_entity_id>kg:/m/0dd9k_y</google_entity_id>
+        <title>representative</title>
+        <party>republican</party>
+        <name>Larry Bucshon</name>
+        <name_slug>larry-bucshon</name_slug>
+        <first_name>Larry</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Bucshon</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>LAIR-ee boo-SHAHN</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>lutheran</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1962-05-31</date_of_birth>
+        <entered_office>2011-01-05</entered_office>
+        <term_end>2021-01-03</term_end>
+        <biography>Larry Bucshon, a Representative from Indiana; born in Taylorville, Bartholomew County, Ill., May 31, 1962; B.S., University of Illinois, Urbana-Champaign, Ill., 1984; M.D., University of Illinois, Chicago, Ill., 1988; physician; United States Navy Reserve, 1989-1998; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present).</biography>
+        <phone>202-225-4636</phone>
+        <fax>202-225-3284</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn Hob</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://bucshon.house.gov</website>
+        <contact_page>https://bucshon.house.gov/contact</contact_page>
+        <facebook_url>https://www.facebook.com/RepLarryBucshon/</facebook_url>
+        <twitter_handle>RepLarryBucshon</twitter_handle>
+        <twitter_url>https://twitter.com/RepLarryBucshon</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/larry-bucshon.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Indiana</state_name>
@@ -9015,65 +9070,10 @@
         <address_type>null</address_type>
         <website>https://watkins.house.gov/</website>
         <contact_page>https://watkins.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/steven-watkins.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Indiana</state_name>
-        <state_name_slug>indiana</state_name_slug>
-        <state_code>IN</state_code>
-        <state_code_slug>in</state_code_slug>
-        <district>8</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>B001275</bioguide>
-        <thomas>2018</thomas>
-        <opensecrets>N00031227</opensecrets>
-        <votesmart>120335</votesmart>
-        <fec>H0IN08114</fec>
-        <maplight>1438</maplight>
-        <wikidata>Q944286</wikidata>
-        <google_entity_id>kg:/m/0dd9k_y</google_entity_id>
-        <title>representative</title>
-        <party>republican</party>
-        <name>Larry Bucshon</name>
-        <name_slug>larry-bucshon</name_slug>
-        <first_name>Larry</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Bucshon</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>LAIR-ee boo-SHAHN</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>lutheran</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1962-05-31</date_of_birth>
-        <entered_office>2011-01-05</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Larry Bucshon, a Representative from Indiana; born in Taylorville, Bartholomew County, Ill., May 31, 1962; B.S., University of Illinois, Urbana-Champaign, Ill., 1984; M.D., University of Illinois, Chicago, Ill., 1988; physician; United States Navy Reserve, 1989-1998; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present).</biography>
-        <phone>202-225-4636</phone>
-        <fax>202-225-3284</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn Hob</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://bucshon.house.gov</website>
-        <contact_page>https://bucshon.house.gov/contact</contact_page>
-        <facebook_url>https://www.facebook.com/RepLarryBucshon/</facebook_url>
-        <twitter_handle>RepLarryBucshon</twitter_handle>
-        <twitter_url>https://twitter.com/RepLarryBucshon</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/larry-bucshon.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Kansas</state_name>
@@ -9125,9 +9125,9 @@
         <address_type>null</address_type>
         <website>https://davids.house.gov/</website>
         <contact_page>https://davids.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/sharice-davids.jpg</photo_url>
     </councilor>
     <councilor>
@@ -9235,9 +9235,9 @@
         <address_type>null</address_type>
         <website>https://comer.house.gov</website>
         <contact_page>https://comer.house.gov/contact/email</contact_page>
-        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/CongressmanComer/</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/james-comer.jpg</photo_url>
     </councilor>
     <councilor>
@@ -10005,9 +10005,9 @@
         <address_type>null</address_type>
         <website>https://trahan.house.gov/</website>
         <contact_page>https://trahan.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/lori-trahan.jpg</photo_url>
     </councilor>
     <councilor>
@@ -10225,9 +10225,9 @@
         <address_type>null</address_type>
         <website>https://pressley.house.gov/</website>
         <contact_page>https://pressley.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ayanna-pressley.jpg</photo_url>
     </councilor>
     <councilor>
@@ -10556,8 +10556,8 @@
         <website>https://anthonybrown.house.gov</website>
         <contact_page>https://anthonybrown.house.gov/contact</contact_page>
         <facebook_url>https://www.facebook.com/CongresswomanDonnaFEdwards/</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/anthony-brown.jpg</photo_url>
     </councilor>
     <councilor>
@@ -10665,9 +10665,9 @@
         <address_type>null</address_type>
         <website>https://trone.house.gov/</website>
         <contact_page>https://trone.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/david-trone.jpg</photo_url>
     </councilor>
     <councilor>
@@ -10885,9 +10885,9 @@
         <address_type>null</address_type>
         <website>https://golden.house.gov/</website>
         <contact_page>https://golden.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/jared-golden.jpg</photo_url>
     </councilor>
     <councilor>
@@ -11280,61 +11280,6 @@
         <state_name_slug>michigan</state_name_slug>
         <state_code>MI</state_code>
         <state_code_slug>mi</state_code_slug>
-        <district>9</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>L000592</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>N00042149</opensecrets>
-        <votesmart>66287</votesmart>
-        <fec>H8MI09118</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>representative</title>
-        <party>democrat</party>
-        <name>Andy Levin</name>
-        <name_slug>andy-levin</name_slug>
-        <first_name>Andy</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Levin</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>AN-dee LE-vin</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1960-08-10</date_of_birth>
-        <entered_office>2019-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Andy Levin is the Democratic representative from Michigan's 9th Congressional District in the U.S. House. Levin was elected to the office on November 6, 2018. Levin is a former Michigan director of labor and economic growth. Levin served in this position from 2010 to 2011. In 2011, the name of the position was changed to Michigan director of licensing and regulatory affairs.</biography>
-        <phone>202-225-4961</phone>
-        <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>228 Cannon House Office Building, Washington, DC 20003</address_complete>
-        <address_number>228</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Cannon House Office</address_street>
-        <address_sec_unit_type>Building</address_sec_unit_type>
-        <address_sec_unit_num>Washingto</address_sec_unit_num>
-        <address_city>n</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20003</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://andylevin.house.gov/</website>
-        <contact_page>https://andylevin.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/andy-levin.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Michigan</state_name>
-        <state_name_slug>michigan</state_name_slug>
-        <state_code>MI</state_code>
-        <state_code_slug>mi</state_code_slug>
         <district>8</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -11380,10 +11325,65 @@
         <address_type>null</address_type>
         <website>https://slotkin.house.gov/</website>
         <contact_page>https://slotkin.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/elissa-slotkin.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Michigan</state_name>
+        <state_name_slug>michigan</state_name_slug>
+        <state_code>MI</state_code>
+        <state_code_slug>mi</state_code_slug>
+        <district>9</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>L000592</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00042149</opensecrets>
+        <votesmart>66287</votesmart>
+        <fec>H8MI09118</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>representative</title>
+        <party>democrat</party>
+        <name>Andy Levin</name>
+        <name_slug>andy-levin</name_slug>
+        <first_name>Andy</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Levin</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>AN-dee LE-vin</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1960-08-10</date_of_birth>
+        <entered_office>2019-01-03</entered_office>
+        <term_end>2021-01-03</term_end>
+        <biography>Andy Levin is the Democratic representative from Michigan's 9th Congressional District in the U.S. House. Levin was elected to the office on November 6, 2018. Levin is a former Michigan director of labor and economic growth. Levin served in this position from 2010 to 2011. In 2011, the name of the position was changed to Michigan director of licensing and regulatory affairs.</biography>
+        <phone>202-225-4961</phone>
+        <fax>null</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>228 Cannon House Office Building, Washington, DC 20003</address_complete>
+        <address_number>228</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Cannon House Office</address_street>
+        <address_sec_unit_type>Building</address_sec_unit_type>
+        <address_sec_unit_num>Washingto</address_sec_unit_num>
+        <address_city>n</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20003</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://andylevin.house.gov/</website>
+        <contact_page>https://andylevin.house.gov/contact</contact_page>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/andy-levin.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Michigan</state_name>
@@ -11490,9 +11490,9 @@
         <address_type>null</address_type>
         <website>https://stevens.house.gov/</website>
         <contact_page>https://stevens.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/haley-stevens.jpg</photo_url>
     </councilor>
     <councilor>
@@ -11600,9 +11600,9 @@
         <address_type>null</address_type>
         <website>https://tlaib.house.gov/</website>
         <contact_page>https://tlaib.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/rashida-tlaib.jpg</photo_url>
     </councilor>
     <councilor>
@@ -11710,9 +11710,9 @@
         <address_type>null</address_type>
         <website>https://hagedorn.house.gov/</website>
         <contact_page>https://hagedorn.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/jim-hagedorn.jpg</photo_url>
     </councilor>
     <councilor>
@@ -11765,9 +11765,9 @@
         <address_type>null</address_type>
         <website>https://craig.house.gov/</website>
         <contact_page>https://craig.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/angie-craig.jpg</photo_url>
     </councilor>
     <councilor>
@@ -11820,9 +11820,9 @@
         <address_type>null</address_type>
         <website>https://phillips.house.gov/</website>
         <contact_page>https://phillips.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/dean-phillips.jpg</photo_url>
     </councilor>
     <councilor>
@@ -11930,9 +11930,9 @@
         <address_type>null</address_type>
         <website>https://omar.house.gov/</website>
         <contact_page>https://omar.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ilhan-omar.jpg</photo_url>
     </councilor>
     <councilor>
@@ -12041,8 +12041,8 @@
         <website>https://collinpeterson.house.gov</website>
         <contact_page>https://collinpeterson.house.gov/contact-me/email-me</contact_page>
         <facebook_url>https://www.facebook.com/Collin-Peterson-6595227967/</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/collin-peterson.jpg</photo_url>
     </councilor>
     <councilor>
@@ -12095,9 +12095,9 @@
         <address_type>null</address_type>
         <website>https://stauber.house.gov/</website>
         <contact_page>https://stauber.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/pete-stauber.jpg</photo_url>
     </councilor>
     <councilor>
@@ -12151,8 +12151,8 @@
         <website>https://lacyclay.house.gov</website>
         <contact_page>https://lacyclay.house.gov/contact/email</contact_page>
         <facebook_url>https://www.facebook.com/Congressman-Wm-Lacy-Clay-109135405838588/</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/william-clay.jpg</photo_url>
     </councilor>
     <councilor>
@@ -12261,8 +12261,8 @@
         <website>https://luetkemeyer.house.gov</website>
         <contact_page>http://luetkemeyer.house.gov/contact/</contact_page>
         <facebook_url>https://www.facebook.com/BlaineLuetkemeyer/</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <twitter_handle>RepBlaine</twitter_handle>
+        <twitter_url>https://twitter.com/RepBlaine</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/blaine-luetkemeyer.jpg</photo_url>
     </councilor>
     <councilor>
@@ -12480,7 +12480,7 @@
         <address_type>null</address_type>
         <website>https://long.house.gov</website>
         <contact_page>https://long.house.gov/email-billy/</contact_page>
-        <facebook_url>null</facebook_url>
+        <facebook_url>https://www.facebook.com/Rep.Billy.Long/</facebook_url>
         <twitter_handle>USRepLong</twitter_handle>
         <twitter_url>https://twitter.com/USRepLong</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/billy-long.jpg</photo_url>
@@ -12591,8 +12591,8 @@
         <website>https://trentkelly.house.gov</website>
         <contact_page>http://trentkelly.house.gov/contact/</contact_page>
         <facebook_url>https://www.facebook.com/RepTrentKelly/</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <twitter_handle>reptrentkelly</twitter_handle>
+        <twitter_url>https://twitter.com/reptrentkelly</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/trent-kelly.jpg</photo_url>
     </councilor>
     <councilor>
@@ -12700,9 +12700,9 @@
         <address_type>null</address_type>
         <website>https://guest.house.gov/</website>
         <contact_page>https://guest.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/michael-guest.jpg</photo_url>
     </councilor>
     <councilor>
@@ -13030,7 +13030,7 @@
         <address_type>null</address_type>
         <website>https://priceforms.house.gov</website>
         <contact_page>https://priceforms.house.gov/contact/</contact_page>
-        <facebook_url>null</facebook_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
         <twitter_handle>RepDavidEPrice</twitter_handle>
         <twitter_url>https://twitter.com/RepDavidEPrice</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/david-price.jpg</photo_url>
@@ -13305,9 +13305,9 @@
         <address_type>null</address_type>
         <website>null</website>
         <contact_page>null</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>null</photo_url>
     </councilor>
     <councilor>
@@ -13580,9 +13580,9 @@
         <address_type>null</address_type>
         <website>https://armstrong.house.gov/</website>
         <contact_page>https://armstrong.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/kelly-armstrong.jpg</photo_url>
     </councilor>
     <councilor>
@@ -13745,7 +13745,7 @@
         <address_type>null</address_type>
         <website>https://adriansmith.house.gov</website>
         <contact_page>https://adriansmith.house.gov/contact-me/email-me</contact_page>
-        <facebook_url>null</facebook_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
         <twitter_handle>RepAdrianSmith</twitter_handle>
         <twitter_url>https://twitter.com/RepAdrianSmith</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/adrian-smith.jpg</photo_url>
@@ -13800,9 +13800,9 @@
         <address_type>null</address_type>
         <website>https://pappas.house.gov/</website>
         <contact_page>https://pappas.house.gov/contact/</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/chris-pappas.jpg</photo_url>
     </councilor>
     <councilor>
@@ -13965,9 +13965,9 @@
         <address_type>null</address_type>
         <website>https://vandrew.house.gov/</website>
         <contact_page>https://vandrew.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/jefferson-van-drew.jpg</photo_url>
     </councilor>
     <councilor>
@@ -14020,9 +14020,9 @@
         <address_type>null</address_type>
         <website>https://kim.house.gov/</website>
         <contact_page>https://kim.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/andrew-kim.jpg</photo_url>
     </councilor>
     <councilor>
@@ -14240,65 +14240,10 @@
         <address_type>null</address_type>
         <website>https://malinowski.house.gov/</website>
         <contact_page>https://malinowski.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/tom-malinowski.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>New Jersey</state_name>
-        <state_name_slug>new-jersey</state_name_slug>
-        <state_code>NJ</state_code>
-        <state_code_slug>nj</state_code_slug>
-        <district>8</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>S001165</bioguide>
-        <thomas>1818</thomas>
-        <opensecrets>N00027523</opensecrets>
-        <votesmart>22510</votesmart>
-        <fec>H6NJ13191</fec>
-        <maplight>673</maplight>
-        <wikidata>Q527509</wikidata>
-        <google_entity_id>kg:/m/08bt8r</google_entity_id>
-        <title>representative</title>
-        <party>democrat</party>
-        <name>Albio Sires</name>
-        <name_slug>albio-sires</name_slug>
-        <first_name>Albio</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Sires</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>AL-bee-oh SEAR-ees</pronunciation>
-        <gender>male</gender>
-        <ethnicity>hispanic-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1951-01-26</date_of_birth>
-        <entered_office>2006-11-13</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Albio Sires, a Representative from New Jersey; born in Bejucal, Cuba, January 26, 1951; graduated from Memorial High School, West New York, N.J.; B.A., St. Peter's College, Jersey City, N.J., 1974; M.A., Middlebury College, Middlebury, Vt., 1985; businessman; teacher; unsuccessful candidate for election to the One Hundredth Congress in 1986; mayor of West New York, N.J., 1995- 2007; member of the New Jersey state general assembly, 2000-2006, speaker, 2002-2006; elected as a Democrat to the One Hundred Ninth Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Robert Menendez, and reelected to the six succeeding Congresses (November 7, 2006-present).</biography>
-        <phone>202-225-7919</phone>
-        <fax>202-226-0792</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn Hob</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://sires.house.gov</website>
-        <contact_page>http://sires.house.gov/contact/email</contact_page>
-        <facebook_url>https://www.facebook.com/RepAlbioSires/</facebook_url>
-        <twitter_handle>RepSires</twitter_handle>
-        <twitter_url>https://twitter.com/RepSires</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/albio-sires.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>New Jersey</state_name>
@@ -14354,6 +14299,61 @@
         <twitter_handle>BillPascrell</twitter_handle>
         <twitter_url>https://twitter.com/BillPascrell</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/bill-pascrell.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>New Jersey</state_name>
+        <state_name_slug>new-jersey</state_name_slug>
+        <state_code>NJ</state_code>
+        <state_code_slug>nj</state_code_slug>
+        <district>8</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>S001165</bioguide>
+        <thomas>1818</thomas>
+        <opensecrets>N00027523</opensecrets>
+        <votesmart>22510</votesmart>
+        <fec>H6NJ13191</fec>
+        <maplight>673</maplight>
+        <wikidata>Q527509</wikidata>
+        <google_entity_id>kg:/m/08bt8r</google_entity_id>
+        <title>representative</title>
+        <party>democrat</party>
+        <name>Albio Sires</name>
+        <name_slug>albio-sires</name_slug>
+        <first_name>Albio</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Sires</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>AL-bee-oh SEAR-ees</pronunciation>
+        <gender>male</gender>
+        <ethnicity>hispanic-american</ethnicity>
+        <religion>roman-catholic</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1951-01-26</date_of_birth>
+        <entered_office>2006-11-13</entered_office>
+        <term_end>2021-01-03</term_end>
+        <biography>Albio Sires, a Representative from New Jersey; born in Bejucal, Cuba, January 26, 1951; graduated from Memorial High School, West New York, N.J.; B.A., St. Peter's College, Jersey City, N.J., 1974; M.A., Middlebury College, Middlebury, Vt., 1985; businessman; teacher; unsuccessful candidate for election to the One Hundredth Congress in 1986; mayor of West New York, N.J., 1995- 2007; member of the New Jersey state general assembly, 2000-2006, speaker, 2002-2006; elected as a Democrat to the One Hundred Ninth Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Robert Menendez, and reelected to the six succeeding Congresses (November 7, 2006-present).</biography>
+        <phone>202-225-7919</phone>
+        <fax>202-226-0792</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn Hob</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://sires.house.gov</website>
+        <contact_page>http://sires.house.gov/contact/email</contact_page>
+        <facebook_url>https://www.facebook.com/RepAlbioSires/</facebook_url>
+        <twitter_handle>RepSires</twitter_handle>
+        <twitter_url>https://twitter.com/RepSires</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/albio-sires.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>New Jersey</state_name>
@@ -14460,9 +14460,9 @@
         <address_type>null</address_type>
         <website>https://sherrill.house.gov/</website>
         <contact_page>https://sherrill.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/mikie-sherrill.jpg</photo_url>
     </councilor>
     <councilor>
@@ -14570,9 +14570,9 @@
         <address_type>null</address_type>
         <website>https://haaland.house.gov/</website>
         <contact_page>https://haaland.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/debra-haaland.jpg</photo_url>
     </councilor>
     <councilor>
@@ -14625,9 +14625,9 @@
         <address_type>null</address_type>
         <website>https://torressmall.house.gov/</website>
         <contact_page>https://torressmall.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/xochitl-torres-small.jpg</photo_url>
     </councilor>
     <councilor>
@@ -14845,9 +14845,9 @@
         <address_type>null</address_type>
         <website>https://susielee.house.gov/</website>
         <contact_page>https://susielee.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/susie-lee.jpg</photo_url>
     </councilor>
     <councilor>
@@ -14900,9 +14900,9 @@
         <address_type>null</address_type>
         <website>https://horsford.house.gov/</website>
         <contact_page>https://horsford.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/steven-horsford.jpg</photo_url>
     </councilor>
     <councilor>
@@ -14956,8 +14956,8 @@
         <website>https://zeldin.house.gov</website>
         <contact_page>https://zeldin.house.gov/contact/email</contact_page>
         <facebook_url>https://www.facebook.com/RepLeeZeldin</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <twitter_handle>RepLeeZeldin</twitter_handle>
+        <twitter_url>https://twitter.com/RepLeeZeldin</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/lee-zeldin.jpg</photo_url>
     </councilor>
     <councilor>
@@ -15010,7 +15010,7 @@
         <address_type>null</address_type>
         <website>https://peteking.house.gov</website>
         <contact_page>https://peteking.house.gov/contact/email-me</contact_page>
-        <facebook_url>null</facebook_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
         <twitter_handle>RepPeteKing</twitter_handle>
         <twitter_url>https://twitter.com/RepPeteKing</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/pete-king.jpg</photo_url>
@@ -15505,9 +15505,9 @@
         <address_type>null</address_type>
         <website>https://maxrose.house.gov/</website>
         <contact_page>https://maxrose.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/max-rose.jpg</photo_url>
     </councilor>
     <councilor>
@@ -15560,7 +15560,7 @@
         <address_type>null</address_type>
         <website>https://maloney.house.gov</website>
         <contact_page>http://maloney.house.gov/services/email-me</contact_page>
-        <facebook_url>null</facebook_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
         <twitter_handle>RepMaloney</twitter_handle>
         <twitter_url>https://twitter.com/RepMaloney</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/carolyn-maloney.jpg</photo_url>
@@ -15670,9 +15670,9 @@
         <address_type>null</address_type>
         <website>https://ocasio-cortez.house.gov/</website>
         <contact_page>https://ocasio-cortez.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/alexandria-ocasio-cortez.jpg</photo_url>
     </councilor>
     <councilor>
@@ -15945,9 +15945,9 @@
         <address_type>null</address_type>
         <website>https://delgado.house.gov/</website>
         <contact_page>https://delgado.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/antonio-delgado.jpg</photo_url>
     </councilor>
     <councilor>
@@ -16110,9 +16110,9 @@
         <address_type>null</address_type>
         <website>https://brindisi.house.gov/</website>
         <contact_page>https://brindisi.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/anthony-brindisi.jpg</photo_url>
     </councilor>
     <councilor>
@@ -17265,9 +17265,9 @@
         <address_type>null</address_type>
         <website>https://anthonygonzalez.house.gov/</website>
         <contact_page>https://anthonygonzalez.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/anthony-gonzalez.jpg</photo_url>
     </councilor>
     <councilor>
@@ -17540,9 +17540,9 @@
         <address_type>null</address_type>
         <website>https://horn.house.gov/</website>
         <contact_page>https://horn.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/kendra-horn.jpg</photo_url>
     </councilor>
     <councilor>
@@ -17981,8 +17981,8 @@
         <website>https://evans.house.gov</website>
         <contact_page>https://evans.house.gov/contact/email</contact_page>
         <facebook_url>https://www.facebook.com/RepresentativeDwightEvans</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <twitter_handle>RepDwightEvans</twitter_handle>
+        <twitter_url>https://twitter.com/RepDwightEvans</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/dwight-evans.jpg</photo_url>
     </councilor>
     <councilor>
@@ -18035,9 +18035,9 @@
         <address_type>null</address_type>
         <website>https://dean.house.gov/</website>
         <contact_page>https://dean.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/madeleine-dean.jpg</photo_url>
     </councilor>
     <councilor>
@@ -18090,9 +18090,9 @@
         <address_type>null</address_type>
         <website>https://scanlon.house.gov/</website>
         <contact_page>https://scanlon.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/mary-gay-scanlon.jpg</photo_url>
     </councilor>
     <councilor>
@@ -18145,9 +18145,9 @@
         <address_type>null</address_type>
         <website>https://houlahan.house.gov/</website>
         <contact_page>https://houlahan.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/chrissy-houlahan.jpg</photo_url>
     </councilor>
     <councilor>
@@ -18200,9 +18200,9 @@
         <address_type>null</address_type>
         <website>https://wild.house.gov/</website>
         <contact_page>https://wild.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/susan-wild.jpg</photo_url>
     </councilor>
     <councilor>
@@ -18310,9 +18310,9 @@
         <address_type>null</address_type>
         <website>https://meuser.house.gov/</website>
         <contact_page>https://meuser.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/daniel-meuser.jpg</photo_url>
     </councilor>
     <councilor>
@@ -18530,9 +18530,9 @@
         <address_type>null</address_type>
         <website>https://johnjoyce.house.gov/</website>
         <contact_page>https://johnjoyce.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/john-joyce.jpg</photo_url>
     </councilor>
     <councilor>
@@ -18585,9 +18585,9 @@
         <address_type>null</address_type>
         <website>https://reschenthaler.house.gov/</website>
         <contact_page>https://reschenthaler.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/guy-reschenthaler.jpg</photo_url>
     </councilor>
     <councilor>
@@ -18750,9 +18750,9 @@
         <address_type>null</address_type>
         <website>https://lamb.house.gov/</website>
         <contact_page>https://lamb.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/RepConorLamb</facebook_url>
+        <twitter_handle>RepConorLamb</twitter_handle>
+        <twitter_url>https://twitter.com/RepConorLamb</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/conor-lamb.jpg</photo_url>
     </councilor>
     <councilor>
@@ -18970,9 +18970,9 @@
         <address_type>null</address_type>
         <website>https://cunningham.house.gov/</website>
         <contact_page>https://cunningham.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/joe-cunningham.jpg</photo_url>
     </councilor>
     <councilor>
@@ -19135,9 +19135,9 @@
         <address_type>null</address_type>
         <website>https://timmons.house.gov/</website>
         <contact_page>https://timmons.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/william-timmons.jpg</photo_url>
     </councilor>
     <councilor>
@@ -19355,9 +19355,9 @@
         <address_type>null</address_type>
         <website>https://dustyjohnson.house.gov/</website>
         <contact_page>https://dustyjohnson.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/dusty-johnson.jpg</photo_url>
     </councilor>
     <councilor>
@@ -19465,9 +19465,9 @@
         <address_type>null</address_type>
         <website>https://burchett.house.gov/</website>
         <contact_page>https://burchett.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/tim-burchett.jpg</photo_url>
     </councilor>
     <councilor>
@@ -19685,9 +19685,9 @@
         <address_type>null</address_type>
         <website>https://johnrose.house.gov/</website>
         <contact_page>https://johnrose.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/john-rose.jpg</photo_url>
     </councilor>
     <councilor>
@@ -19740,9 +19740,9 @@
         <address_type>null</address_type>
         <website>https://markgreen.house.gov/</website>
         <contact_page>https://markgreen.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/mark-green.jpg</photo_url>
     </councilor>
     <councilor>
@@ -19960,9 +19960,9 @@
         <address_type>null</address_type>
         <website>https://crenshaw.house.gov/</website>
         <contact_page>https://crenshaw.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/dan-crenshaw.jpg</photo_url>
     </councilor>
     <councilor>
@@ -20015,9 +20015,9 @@
         <address_type>null</address_type>
         <website>https://vantaylor.house.gov/</website>
         <contact_page>https://vantaylor.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/van-taylor.jpg</photo_url>
     </councilor>
     <councilor>
@@ -20125,9 +20125,9 @@
         <address_type>null</address_type>
         <website>https://gooden.house.gov/</website>
         <contact_page>https://gooden.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/lance-gooden.jpg</photo_url>
     </councilor>
     <councilor>
@@ -20180,9 +20180,9 @@
         <address_type>null</address_type>
         <website>https://wright.house.gov/</website>
         <contact_page>https://wright.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ronald-wright.jpg</photo_url>
     </councilor>
     <councilor>
@@ -20235,9 +20235,9 @@
         <address_type>null</address_type>
         <website>https://fletcher.house.gov/</website>
         <contact_page>https://fletcher.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/lizzie-fletcher.jpg</photo_url>
     </councilor>
     <councilor>
@@ -20730,9 +20730,9 @@
         <address_type>null</address_type>
         <website>https://escobar.house.gov/</website>
         <contact_page>https://escobar.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/veronica-escobar.jpg</photo_url>
     </councilor>
     <councilor>
@@ -21005,9 +21005,9 @@
         <address_type>null</address_type>
         <website>https://roy.house.gov/</website>
         <contact_page>https://roy.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/chip-roy.jpg</photo_url>
     </councilor>
     <councilor>
@@ -21445,9 +21445,9 @@
         <address_type>null</address_type>
         <website>https://sylviagarcia.house.gov/</website>
         <contact_page>https://sylviagarcia.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/sylvia-garcia.jpg</photo_url>
     </councilor>
     <councilor>
@@ -21610,9 +21610,9 @@
         <address_type>null</address_type>
         <website>https://allred.house.gov/</website>
         <contact_page>https://allred.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/colin-allred.jpg</photo_url>
     </councilor>
     <councilor>
@@ -22050,9 +22050,9 @@
         <address_type>null</address_type>
         <website>https://mcadams.house.gov/</website>
         <contact_page>https://mcadams.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ben-mcadams.jpg</photo_url>
     </councilor>
     <councilor>
@@ -22160,9 +22160,9 @@
         <address_type>null</address_type>
         <website>https://luria.house.gov/</website>
         <contact_page>https://luria.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/elaine-luria.jpg</photo_url>
     </councilor>
     <councilor>
@@ -22325,9 +22325,9 @@
         <address_type>null</address_type>
         <website>https://riggleman.house.gov/</website>
         <contact_page>https://riggleman.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/denver-riggleman.jpg</photo_url>
     </councilor>
     <councilor>
@@ -22380,9 +22380,9 @@
         <address_type>null</address_type>
         <website>https://cline.house.gov/</website>
         <contact_page>https://cline.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ben-cline.jpg</photo_url>
     </councilor>
     <councilor>
@@ -22435,9 +22435,9 @@
         <address_type>null</address_type>
         <website>https://spanberger.house.gov/</website>
         <contact_page>https://spanberger.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/abigail-spanberger.jpg</photo_url>
     </councilor>
     <councilor>
@@ -22600,9 +22600,9 @@
         <address_type>null</address_type>
         <website>https://wexton.house.gov/</website>
         <contact_page>https://wexton.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/jennifer-wexton.jpg</photo_url>
     </councilor>
     <councilor>
@@ -23150,9 +23150,9 @@
         <address_type>null</address_type>
         <website>https://schrier.house.gov/</website>
         <contact_page>https://schrier.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/kim-schrier.jpg</photo_url>
     </councilor>
     <councilor>
@@ -23315,9 +23315,9 @@
         <address_type>null</address_type>
         <website>https://steil.house.gov/</website>
         <contact_page>https://steil.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/bryan-steil.jpg</photo_url>
     </councilor>
     <councilor>
@@ -23865,9 +23865,9 @@
         <address_type>null</address_type>
         <website>https://miller.house.gov/</website>
         <contact_page>https://miller.house.gov/contact</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
+        <facebook_url>https://www.facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/carol-miller.jpg</photo_url>
     </councilor>
     <councilor>
