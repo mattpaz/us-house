@@ -830,61 +830,6 @@
         <state_name_slug>arizona</state_name_slug>
         <state_code>AZ</state_code>
         <state_code_slug>az</state_code_slug>
-        <district>4</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>G000565</bioguide>
-        <thomas>1992</thomas>
-        <opensecrets>N00030771</opensecrets>
-        <votesmart>123491</votesmart>
-        <fec>H0AZ01259</fec>
-        <maplight>1411</maplight>
-        <wikidata>Q2059832</wikidata>
-        <google_entity_id>kg:/m/0czdqz0</google_entity_id>
-        <title>representative</title>
-        <party>republican</party>
-        <name>Paul Gosar</name>
-        <name_slug>paul-gosar</name_slug>
-        <first_name>Paul</first_name>
-        <middle_name>A.</middle_name>
-        <last_name>Gosar</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>PAWL GOH-sar</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1958-11-22</date_of_birth>
-        <entered_office>2011-01-05</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Paul Gosar, a Representative from Arizona; born in Rock Springs, Sweetwater County, Wyo., November 22, 1958; graduated from Pinedale High School, Pinedale, Wyo., 1977; B.S., Creighton University, Omaha, Nebr., 1981; D.D.S., Creighton University, Omaha, Nebr., 1985; dentist; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present).</biography>
-        <phone>202-225-2315</phone>
-        <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn Hob</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://paulgosar.house.gov</website>
-        <contact_page>http://paulgosar.house.gov/contact/</contact_page>
-        <facebook_url>https://www.facebook.com/repgosar/</facebook_url>
-        <twitter_handle>RepGosar</twitter_handle>
-        <twitter_url>https://twitter.com/RepGosar</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/paul-gosar.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Arizona</state_name>
-        <state_name_slug>arizona</state_name_slug>
-        <state_code>AZ</state_code>
-        <state_code_slug>az</state_code_slug>
         <district>5</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -934,6 +879,61 @@
         <twitter_handle>RepAndyBiggsAZ</twitter_handle>
         <twitter_url>https://twitter.com/RepAndyBiggsAZ</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/andy-biggs.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Arizona</state_name>
+        <state_name_slug>arizona</state_name_slug>
+        <state_code>AZ</state_code>
+        <state_code_slug>az</state_code_slug>
+        <district>4</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>G000565</bioguide>
+        <thomas>1992</thomas>
+        <opensecrets>N00030771</opensecrets>
+        <votesmart>123491</votesmart>
+        <fec>H0AZ01259</fec>
+        <maplight>1411</maplight>
+        <wikidata>Q2059832</wikidata>
+        <google_entity_id>kg:/m/0czdqz0</google_entity_id>
+        <title>representative</title>
+        <party>republican</party>
+        <name>Paul Gosar</name>
+        <name_slug>paul-gosar</name_slug>
+        <first_name>Paul</first_name>
+        <middle_name>A.</middle_name>
+        <last_name>Gosar</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>PAWL GOH-sar</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>roman-catholic</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1958-11-22</date_of_birth>
+        <entered_office>2011-01-05</entered_office>
+        <term_end>2021-01-03</term_end>
+        <biography>Paul Gosar, a Representative from Arizona; born in Rock Springs, Sweetwater County, Wyo., November 22, 1958; graduated from Pinedale High School, Pinedale, Wyo., 1977; B.S., Creighton University, Omaha, Nebr., 1981; D.D.S., Creighton University, Omaha, Nebr., 1985; dentist; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present).</biography>
+        <phone>202-225-2315</phone>
+        <fax>null</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn Hob</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://paulgosar.house.gov</website>
+        <contact_page>http://paulgosar.house.gov/contact/</contact_page>
+        <facebook_url>https://www.facebook.com/repgosar/</facebook_url>
+        <twitter_handle>RepGosar</twitter_handle>
+        <twitter_url>https://twitter.com/RepGosar</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/paul-gosar.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Arizona</state_name>
@@ -1325,61 +1325,6 @@
         <state_name_slug>california</state_name_slug>
         <state_code>CA</state_code>
         <state_code_slug>ca</state_code_slug>
-        <district>4</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>M001177</bioguide>
-        <thomas>1908</thomas>
-        <opensecrets>N00006863</opensecrets>
-        <votesmart>9715</votesmart>
-        <fec>H8CA04152</fec>
-        <maplight>777</maplight>
-        <wikidata>Q535887</wikidata>
-        <google_entity_id>kg:/m/01r6jp</google_entity_id>
-        <title>representative</title>
-        <party>republican</party>
-        <name>Tom McClintock</name>
-        <name_slug>tom-mcclintock</name_slug>
-        <first_name>Tom</first_name>
-        <middle_name>null</middle_name>
-        <last_name>McClintock</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>TAHM mu-KLIN-tahk</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>baptist</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1956-07-10</date_of_birth>
-        <entered_office>2009-01-06</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Tom McClintock, a Representative from California; born in Bronxville, Westchester County, N.Y., July 10, 1956; B.A., University of California, Los Angeles, Calif., 1988; journalist; public policy analyst; member of the California state assembly, 1982-1992, 1996-2000; member of the California state senate, 2000-2008; unsuccessful candidate for election to the One Hundred Third Congress in 1992; unsuccessful candidate for election for Governor of California in 2003; elected as a Republican to the One Hundred Eleventh and to the four succeeding Congresses (January 3, 2009-present).</biography>
-        <phone>202-225-2511</phone>
-        <fax>202-225-5444</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn Hob</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://mcclintock.house.gov</website>
-        <contact_page>https://mcclintock.house.gov/contact/email-me</contact_page>
-        <facebook_url>https://www.facebook.com/Congressman-Tom-McClintock-81125319109/</facebook_url>
-        <twitter_handle>RepMcClintock</twitter_handle>
-        <twitter_url>https://twitter.com/RepMcClintock</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/tom-mcclintock.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>California</state_name>
-        <state_name_slug>california</state_name_slug>
-        <state_code>CA</state_code>
-        <state_code_slug>ca</state_code_slug>
         <district>5</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -1435,61 +1380,6 @@
         <state_name_slug>california</state_name_slug>
         <state_code>CA</state_code>
         <state_code_slug>ca</state_code_slug>
-        <district>6</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>M001163</bioguide>
-        <thomas>1814</thomas>
-        <opensecrets>N00027459</opensecrets>
-        <votesmart>28593</votesmart>
-        <fec>H6CA05195</fec>
-        <maplight>668</maplight>
-        <wikidata>Q399561</wikidata>
-        <google_entity_id>kg:/m/059hdf</google_entity_id>
-        <title>representative</title>
-        <party>democrat</party>
-        <name>Doris Matsui</name>
-        <name_slug>doris-matsui</name_slug>
-        <first_name>Doris</first_name>
-        <middle_name>O.</middle_name>
-        <last_name>Matsui</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>DOR-iss matt-SOO-ee</pronunciation>
-        <gender>female</gender>
-        <ethnicity>asian-american</ethnicity>
-        <religion>methodist</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1944-09-25</date_of_birth>
-        <entered_office>2005-03-10</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Doris Matsui, (wife of Robert Matsui), a Representative from California; born in Poston, La Paz County, Arizona, September 25, 1944; B.A., University of California, Berkeley, Calif., 1966; staff, transition team for President-elect William J. Clinton, 1992-1993; deputy assistant, Office of the Public Liaison, President William J. Clinton administration, 1993-1998; professional advocate; elected as a Democrat to the One Hundred Ninth Congress, by special election, to fill the vacancy caused by the death of her husband, United States Representative Robert Matsui, and reelected to the six succeeding Congresses (March 8, 2005-present).</biography>
-        <phone>202-225-7163</phone>
-        <fax>202-225-0566</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn Hob</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://matsui.house.gov</website>
-        <contact_page>https://matsui.house.gov/email-representative-matsui</contact_page>
-        <facebook_url>https://www.facebook.com/doris.matsui/</facebook_url>
-        <twitter_handle>DorisMatsui</twitter_handle>
-        <twitter_url>https://twitter.com/DorisMatsui</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/doris-matsui.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>California</state_name>
-        <state_name_slug>california</state_name_slug>
-        <state_code>CA</state_code>
-        <state_code_slug>ca</state_code_slug>
         <district>7</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -1539,61 +1429,6 @@
         <twitter_handle>RepBera</twitter_handle>
         <twitter_url>https://twitter.com/RepBera</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ami-bera.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>California</state_name>
-        <state_name_slug>california</state_name_slug>
-        <state_code>CA</state_code>
-        <state_code_slug>ca</state_code_slug>
-        <district>8</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>C001094</bioguide>
-        <thomas>2103</thomas>
-        <opensecrets>N00034224</opensecrets>
-        <votesmart>58121</votesmart>
-        <fec>H2CA08164</fec>
-        <maplight>1737</maplight>
-        <wikidata>Q3408766</wikidata>
-        <google_entity_id>kg:/m/0288t_6</google_entity_id>
-        <title>representative</title>
-        <party>republican</party>
-        <name>Paul Cook</name>
-        <name_slug>paul-cook</name_slug>
-        <first_name>Paul</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Cook</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>PAWL COOK</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1943-03-03</date_of_birth>
-        <entered_office>2013-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Paul Cook, a Representative from California; born in Meriden, New Haven County, Conn., March 3, 1943; B.S., Southern Connecticut State University, New Haven, Conn., 1966; M.P.A., California State University, San Bernardino, Calif., 1996; M.A., University of California, Riverside, Calif., 2000; United States Marine Corps, 1966-1992; professor; member of the Yucca Valley, Calif. town council, 1998-2006; Mayor of Yucca Valley, Calif.; member of the California state assembly, 2006-2012; elected as a Republican to the One Hundred Thirteenth and to the two succeeding Congresses (January 3, 2013-present).</biography>
-        <phone>202-225-5861</phone>
-        <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn Hob</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://cookforms.house.gov</website>
-        <contact_page>http://cookforms.house.gov/contact/</contact_page>
-        <facebook_url>https://www.facebook.com/RepPaulCook</facebook_url>
-        <twitter_handle>RepPaulCook</twitter_handle>
-        <twitter_url>https://twitter.com/RepPaulCook</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/paul-cook.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>California</state_name>
@@ -2260,55 +2095,55 @@
         <state_name_slug>california</state_name_slug>
         <state_code>CA</state_code>
         <state_code_slug>ca</state_code_slug>
-        <district>23</district>
+        <district>21</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
-        <bioguide>M001165</bioguide>
-        <thomas>1833</thomas>
-        <opensecrets>N00028152</opensecrets>
-        <votesmart>28918</votesmart>
-        <fec>H6CA22125</fec>
-        <maplight>677</maplight>
-        <wikidata>Q766866</wikidata>
-        <google_entity_id>kg:/m/074qxm</google_entity_id>
-        <title>house-minority-leader</title>
-        <party>republican</party>
-        <name>Kevin McCarthy</name>
-        <name_slug>kevin-mccarthy</name_slug>
-        <first_name>Kevin</first_name>
+        <bioguide>C001124</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00028122</opensecrets>
+        <votesmart>57197</votesmart>
+        <fec>H6CA19113</fec>
+        <maplight>null</maplight>
+        <wikidata>Q59306065</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>representative</title>
+        <party>democrat</party>
+        <name>TJ Cox</name>
+        <name_slug>tj-cox</name_slug>
+        <first_name>TJ</first_name>
         <middle_name>null</middle_name>
-        <last_name>McCarthy</last_name>
+        <last_name>Cox</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>KEH-vin muh-CAR-thee</pronunciation>
+        <pronunciation>TEE-jay KAHKS</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>baptist</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1965-01-26</date_of_birth>
-        <entered_office>2007-01-04</entered_office>
+        <date_of_birth>1963-07-18</date_of_birth>
+        <entered_office>2019-01-03</entered_office>
         <term_end>2021-01-03</term_end>
-        <biography>Kevin McCarthy, a Representative from California; born in Bakersfield, Kern County, Calif., January 26, 1965; attended Bakersfield College, Bakersfield. Calif., 1984-1985; B.S., California State University, Bakersfield, Calif., 1989; M.B.A., California State University, Bakersfield, Calif., 1994; staff, United States Representative William Thomas of California, 1987-2002; member of the California state assembly, 2002-2007, minority leader, 2004-2006; elected as a Republican to the One Hundred Tenth and to the five succeeding Congresses (January 3, 2007-present); majority whip (One Hundred Twelfth and One Hundred Thirteenth Congresses); majority leader (One Hundred Thirteenth through One Hundred Fifteenth Congresses).</biography>
-        <phone>202-225-2915</phone>
+        <biography>TJ Cox is the Democratic representative from California's 21st Congressional District in the U.S. House. Cox was elected to the office on November 6, 2018.</biography>
+        <phone>202-225-4695</phone>
         <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
+        <latitude>38.8871632</latitude>
+        <longitude>-77.0107573</longitude>
+        <address_complete>1122 Longworth House Office Building, Washington, DC 20515</address_complete>
+        <address_number>1122</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>Rayburn Hob</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
+        <address_street>Longworth House Office</address_street>
+        <address_sec_unit_type>Building</address_sec_unit_type>
+        <address_sec_unit_num>Washingto</address_sec_unit_num>
+        <address_city>n</address_city>
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>https://kevinmccarthy.house.gov</website>
-        <contact_page>https://kevinmccarthy.house.gov/contact/email-me</contact_page>
-        <facebook_url>https://www.facebook.com/CongressmanKevinMcCarthy/</facebook_url>
-        <twitter_handle>GOPLeader</twitter_handle>
-        <twitter_url>https://twitter.com/GOPLeader</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/kevin-mccarthy.jpg</photo_url>
+        <website>https://cox.house.gov</website>
+        <contact_page>https://cox.house.gov/contact/email-me</contact_page>
+        <facebook_url>https://www.facebook.com/tjcoxforcongress</facebook_url>
+        <twitter_handle>TJCoxCongress</twitter_handle>
+        <twitter_url>https://twitter.com/TJCoxCongress</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/tj-cox.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>California</state_name>
@@ -2370,55 +2205,55 @@
         <state_name_slug>california</state_name_slug>
         <state_code>CA</state_code>
         <state_code_slug>ca</state_code_slug>
-        <district>21</district>
+        <district>23</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
-        <bioguide>C001124</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>N00028122</opensecrets>
-        <votesmart>57197</votesmart>
-        <fec>H6CA19113</fec>
-        <maplight>null</maplight>
-        <wikidata>Q59306065</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>representative</title>
-        <party>democrat</party>
-        <name>TJ Cox</name>
-        <name_slug>tj-cox</name_slug>
-        <first_name>TJ</first_name>
+        <bioguide>M001165</bioguide>
+        <thomas>1833</thomas>
+        <opensecrets>N00028152</opensecrets>
+        <votesmart>28918</votesmart>
+        <fec>H6CA22125</fec>
+        <maplight>677</maplight>
+        <wikidata>Q766866</wikidata>
+        <google_entity_id>kg:/m/074qxm</google_entity_id>
+        <title>house-minority-leader</title>
+        <party>republican</party>
+        <name>Kevin McCarthy</name>
+        <name_slug>kevin-mccarthy</name_slug>
+        <first_name>Kevin</first_name>
         <middle_name>null</middle_name>
-        <last_name>Cox</last_name>
+        <last_name>McCarthy</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>TEE-jay KAHKS</pronunciation>
+        <pronunciation>KEH-vin muh-CAR-thee</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
+        <religion>baptist</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1963-07-18</date_of_birth>
-        <entered_office>2019-01-03</entered_office>
+        <date_of_birth>1965-01-26</date_of_birth>
+        <entered_office>2007-01-04</entered_office>
         <term_end>2021-01-03</term_end>
-        <biography>TJ Cox is the Democratic representative from California's 21st Congressional District in the U.S. House. Cox was elected to the office on November 6, 2018.</biography>
-        <phone>202-225-4695</phone>
+        <biography>Kevin McCarthy, a Representative from California; born in Bakersfield, Kern County, Calif., January 26, 1965; attended Bakersfield College, Bakersfield. Calif., 1984-1985; B.S., California State University, Bakersfield, Calif., 1989; M.B.A., California State University, Bakersfield, Calif., 1994; staff, United States Representative William Thomas of California, 1987-2002; member of the California state assembly, 2002-2007, minority leader, 2004-2006; elected as a Republican to the One Hundred Tenth and to the five succeeding Congresses (January 3, 2007-present); majority whip (One Hundred Twelfth and One Hundred Thirteenth Congresses); majority leader (One Hundred Thirteenth through One Hundred Fifteenth Congresses).</biography>
+        <phone>202-225-2915</phone>
         <fax>null</fax>
-        <latitude>38.8871632</latitude>
-        <longitude>-77.0107573</longitude>
-        <address_complete>1122 Longworth House Office Building, Washington, DC 20515</address_complete>
-        <address_number>1122</address_number>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>Longworth House Office</address_street>
-        <address_sec_unit_type>Building</address_sec_unit_type>
-        <address_sec_unit_num>Washingto</address_sec_unit_num>
-        <address_city>n</address_city>
+        <address_street>Rayburn Hob</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>https://cox.house.gov</website>
-        <contact_page>https://cox.house.gov/contact/email-me</contact_page>
-        <facebook_url>https://www.facebook.com/tjcoxforcongress</facebook_url>
-        <twitter_handle>TJCoxCongress</twitter_handle>
-        <twitter_url>https://twitter.com/TJCoxCongress</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/tj-cox.jpg</photo_url>
+        <website>https://kevinmccarthy.house.gov</website>
+        <contact_page>https://kevinmccarthy.house.gov/contact/email-me</contact_page>
+        <facebook_url>https://www.facebook.com/CongressmanKevinMcCarthy/</facebook_url>
+        <twitter_handle>GOPLeader</twitter_handle>
+        <twitter_url>https://twitter.com/GOPLeader</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/kevin-mccarthy.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>California</state_name>
@@ -2755,37 +2590,37 @@
         <state_name_slug>california</state_name_slug>
         <state_code>CA</state_code>
         <state_code_slug>ca</state_code_slug>
-        <district>30</district>
+        <district>6</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
-        <bioguide>S000344</bioguide>
-        <thomas>1526</thomas>
-        <opensecrets>N00006897</opensecrets>
-        <votesmart>142</votesmart>
-        <fec>H6CA24113</fec>
-        <maplight>462</maplight>
-        <wikidata>Q672919</wikidata>
-        <google_entity_id>kg:/m/024tkr</google_entity_id>
+        <bioguide>M001163</bioguide>
+        <thomas>1814</thomas>
+        <opensecrets>N00027459</opensecrets>
+        <votesmart>28593</votesmart>
+        <fec>H6CA05195</fec>
+        <maplight>668</maplight>
+        <wikidata>Q399561</wikidata>
+        <google_entity_id>kg:/m/059hdf</google_entity_id>
         <title>representative</title>
         <party>democrat</party>
-        <name>Brad Sherman</name>
-        <name_slug>brad-sherman</name_slug>
-        <first_name>Brad</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Sherman</last_name>
+        <name>Doris Matsui</name>
+        <name_slug>doris-matsui</name_slug>
+        <first_name>Doris</first_name>
+        <middle_name>O.</middle_name>
+        <last_name>Matsui</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>BRADD SHUR-muhn</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>jewish</religion>
+        <pronunciation>DOR-iss matt-SOO-ee</pronunciation>
+        <gender>female</gender>
+        <ethnicity>asian-american</ethnicity>
+        <religion>methodist</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1954-10-24</date_of_birth>
-        <entered_office>1997-01-07</entered_office>
+        <date_of_birth>1944-09-25</date_of_birth>
+        <entered_office>2005-03-10</entered_office>
         <term_end>2021-01-03</term_end>
-        <biography>Brad Sherman, a Representative from California; born in Los Angeles, Los Angeles County, Calif., October 24, 1954; B.A., University of California, Los Angeles, Calif., 1974; J.D., Harvard University, Cambridge, Mass., 1979; lawyer, private practice; certified public accountant; member of the California state board of equalization, 1990-1995; chair, California state board of equalization, 1991-1995; elected as a Democrat to the One Hundred Fifth and to the ten succeeding Congresses (January 3, 1997-present).</biography>
-        <phone>202-225-5911</phone>
-        <fax>202-225-5879</fax>
+        <biography>Doris Matsui, (wife of Robert Matsui), a Representative from California; born in Poston, La Paz County, Arizona, September 25, 1944; B.A., University of California, Berkeley, Calif., 1966; staff, transition team for President-elect William J. Clinton, 1992-1993; deputy assistant, Office of the Public Liaison, President William J. Clinton administration, 1993-1998; professional advocate; elected as a Democrat to the One Hundred Ninth Congress, by special election, to fill the vacancy caused by the death of her husband, United States Representative Robert Matsui, and reelected to the six succeeding Congresses (March 8, 2005-present).</biography>
+        <phone>202-225-7163</phone>
+        <fax>202-225-0566</fax>
         <latitude>38.8863235</latitude>
         <longitude>-77.011373</longitude>
         <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
@@ -2798,12 +2633,12 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>https://sherman.house.gov</website>
-        <contact_page>https://sherman.house.gov/contact/contact-congressman-sherman-form</contact_page>
-        <facebook_url>https://www.facebook.com/CongressmanBradSherman/</facebook_url>
-        <twitter_handle>BradSherman</twitter_handle>
-        <twitter_url>https://twitter.com/BradSherman</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/brad-sherman.jpg</photo_url>
+        <website>https://matsui.house.gov</website>
+        <contact_page>https://matsui.house.gov/email-representative-matsui</contact_page>
+        <facebook_url>https://www.facebook.com/doris.matsui/</facebook_url>
+        <twitter_handle>DorisMatsui</twitter_handle>
+        <twitter_url>https://twitter.com/DorisMatsui</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/doris-matsui.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>California</state_name>
@@ -2920,37 +2755,37 @@
         <state_name_slug>california</state_name_slug>
         <state_code>CA</state_code>
         <state_code_slug>ca</state_code_slug>
-        <district>33</district>
+        <district>4</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
-        <bioguide>L000582</bioguide>
-        <thomas>2230</thomas>
-        <opensecrets>N00035825</opensecrets>
-        <votesmart>null</votesmart>
-        <fec>H4CA33119</fec>
-        <maplight>2072</maplight>
-        <wikidata>Q7693450</wikidata>
-        <google_entity_id>kg:/m/0f3y2w</google_entity_id>
+        <bioguide>M001177</bioguide>
+        <thomas>1908</thomas>
+        <opensecrets>N00006863</opensecrets>
+        <votesmart>9715</votesmart>
+        <fec>H8CA04152</fec>
+        <maplight>777</maplight>
+        <wikidata>Q535887</wikidata>
+        <google_entity_id>kg:/m/01r6jp</google_entity_id>
         <title>representative</title>
-        <party>democrat</party>
-        <name>Ted Lieu</name>
-        <name_slug>ted-lieu</name_slug>
-        <first_name>Ted</first_name>
+        <party>republican</party>
+        <name>Tom McClintock</name>
+        <name_slug>tom-mcclintock</name_slug>
+        <first_name>Tom</first_name>
         <middle_name>null</middle_name>
-        <last_name>Lieu</last_name>
+        <last_name>McClintock</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>TEDD LOO</pronunciation>
+        <pronunciation>TAHM mu-KLIN-tahk</pronunciation>
         <gender>male</gender>
-        <ethnicity>asian-american</ethnicity>
-        <religion>roman-catholic</religion>
+        <ethnicity>white-american</ethnicity>
+        <religion>baptist</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1969-03-29</date_of_birth>
-        <entered_office>2015-01-06</entered_office>
+        <date_of_birth>1956-07-10</date_of_birth>
+        <entered_office>2009-01-06</entered_office>
         <term_end>2021-01-03</term_end>
-        <biography>Ted Lieu, a Representative from California; born in Taipei, Taiwan, March 29, 1969; graduated from St. Ignatius High School, Cleveland, Ohio, 1987; B.A., Stanford University, Stanford, Calif., 1991; B.S., Stanford University, Stanford, Calif., 1991; J.D., Georgetown University, Washington, D.C., 1994; United States Air Force, 1995-1999; United States Air Force Reserve, 2000-present; judicial clerk, United States Court of Appeals, Ninth Circuit; lawyer, private practice; member of the Torrance, Calif., city council, 2002-2005; member of the California state assembly, 2005-2010; unsuccessful candidate for election for California state attorney general in 2010; member of the California state senate, 2011-2014; elected as a Democrat to the One Hundred Fourteenth and to the succeeding Congress (January 3, 2015-present).</biography>
-        <phone>202-225-3976</phone>
-        <fax>null</fax>
+        <biography>Tom McClintock, a Representative from California; born in Bronxville, Westchester County, N.Y., July 10, 1956; B.A., University of California, Los Angeles, Calif., 1988; journalist; public policy analyst; member of the California state assembly, 1982-1992, 1996-2000; member of the California state senate, 2000-2008; unsuccessful candidate for election to the One Hundred Third Congress in 1992; unsuccessful candidate for election for Governor of California in 2003; elected as a Republican to the One Hundred Eleventh and to the four succeeding Congresses (January 3, 2009-present).</biography>
+        <phone>202-225-2511</phone>
+        <fax>202-225-5444</fax>
         <latitude>38.8863235</latitude>
         <longitude>-77.011373</longitude>
         <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
@@ -2963,12 +2798,12 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>https://lieu.house.gov</website>
-        <contact_page>https://lieu.house.gov/contact/email</contact_page>
-        <facebook_url>https://www.facebook.com/RepTedLieu/</facebook_url>
-        <twitter_handle>RepTedLieu</twitter_handle>
-        <twitter_url>https://twitter.com/RepTedLieu</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ted-lieu.jpg</photo_url>
+        <website>https://mcclintock.house.gov</website>
+        <contact_page>https://mcclintock.house.gov/contact/email-me</contact_page>
+        <facebook_url>https://www.facebook.com/Congressman-Tom-McClintock-81125319109/</facebook_url>
+        <twitter_handle>RepMcClintock</twitter_handle>
+        <twitter_url>https://twitter.com/RepMcClintock</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/tom-mcclintock.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>California</state_name>
@@ -3525,6 +3360,171 @@
         <state_name_slug>california</state_name_slug>
         <state_code>CA</state_code>
         <state_code_slug>ca</state_code_slug>
+        <district>30</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>S000344</bioguide>
+        <thomas>1526</thomas>
+        <opensecrets>N00006897</opensecrets>
+        <votesmart>142</votesmart>
+        <fec>H6CA24113</fec>
+        <maplight>462</maplight>
+        <wikidata>Q672919</wikidata>
+        <google_entity_id>kg:/m/024tkr</google_entity_id>
+        <title>representative</title>
+        <party>democrat</party>
+        <name>Brad Sherman</name>
+        <name_slug>brad-sherman</name_slug>
+        <first_name>Brad</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Sherman</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>BRADD SHUR-muhn</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>jewish</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1954-10-24</date_of_birth>
+        <entered_office>1997-01-07</entered_office>
+        <term_end>2021-01-03</term_end>
+        <biography>Brad Sherman, a Representative from California; born in Los Angeles, Los Angeles County, Calif., October 24, 1954; B.A., University of California, Los Angeles, Calif., 1974; J.D., Harvard University, Cambridge, Mass., 1979; lawyer, private practice; certified public accountant; member of the California state board of equalization, 1990-1995; chair, California state board of equalization, 1991-1995; elected as a Democrat to the One Hundred Fifth and to the ten succeeding Congresses (January 3, 1997-present).</biography>
+        <phone>202-225-5911</phone>
+        <fax>202-225-5879</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn Hob</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://sherman.house.gov</website>
+        <contact_page>https://sherman.house.gov/contact/contact-congressman-sherman-form</contact_page>
+        <facebook_url>https://www.facebook.com/CongressmanBradSherman/</facebook_url>
+        <twitter_handle>BradSherman</twitter_handle>
+        <twitter_url>https://twitter.com/BradSherman</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/brad-sherman.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>California</state_name>
+        <state_name_slug>california</state_name_slug>
+        <state_code>CA</state_code>
+        <state_code_slug>ca</state_code_slug>
+        <district>8</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>C001094</bioguide>
+        <thomas>2103</thomas>
+        <opensecrets>N00034224</opensecrets>
+        <votesmart>58121</votesmart>
+        <fec>H2CA08164</fec>
+        <maplight>1737</maplight>
+        <wikidata>Q3408766</wikidata>
+        <google_entity_id>kg:/m/0288t_6</google_entity_id>
+        <title>representative</title>
+        <party>republican</party>
+        <name>Paul Cook</name>
+        <name_slug>paul-cook</name_slug>
+        <first_name>Paul</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Cook</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>PAWL COOK</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>roman-catholic</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1943-03-03</date_of_birth>
+        <entered_office>2013-01-03</entered_office>
+        <term_end>2021-01-03</term_end>
+        <biography>Paul Cook, a Representative from California; born in Meriden, New Haven County, Conn., March 3, 1943; B.S., Southern Connecticut State University, New Haven, Conn., 1966; M.P.A., California State University, San Bernardino, Calif., 1996; M.A., University of California, Riverside, Calif., 2000; United States Marine Corps, 1966-1992; professor; member of the Yucca Valley, Calif. town council, 1998-2006; Mayor of Yucca Valley, Calif.; member of the California state assembly, 2006-2012; elected as a Republican to the One Hundred Thirteenth and to the two succeeding Congresses (January 3, 2013-present).</biography>
+        <phone>202-225-5861</phone>
+        <fax>null</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn Hob</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://cookforms.house.gov</website>
+        <contact_page>http://cookforms.house.gov/contact/</contact_page>
+        <facebook_url>https://www.facebook.com/RepPaulCook</facebook_url>
+        <twitter_handle>RepPaulCook</twitter_handle>
+        <twitter_url>https://twitter.com/RepPaulCook</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/paul-cook.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>California</state_name>
+        <state_name_slug>california</state_name_slug>
+        <state_code>CA</state_code>
+        <state_code_slug>ca</state_code_slug>
+        <district>33</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>L000582</bioguide>
+        <thomas>2230</thomas>
+        <opensecrets>N00035825</opensecrets>
+        <votesmart>null</votesmart>
+        <fec>H4CA33119</fec>
+        <maplight>2072</maplight>
+        <wikidata>Q7693450</wikidata>
+        <google_entity_id>kg:/m/0f3y2w</google_entity_id>
+        <title>representative</title>
+        <party>democrat</party>
+        <name>Ted Lieu</name>
+        <name_slug>ted-lieu</name_slug>
+        <first_name>Ted</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Lieu</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>TEDD LOO</pronunciation>
+        <gender>male</gender>
+        <ethnicity>asian-american</ethnicity>
+        <religion>roman-catholic</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1969-03-29</date_of_birth>
+        <entered_office>2015-01-06</entered_office>
+        <term_end>2021-01-03</term_end>
+        <biography>Ted Lieu, a Representative from California; born in Taipei, Taiwan, March 29, 1969; graduated from St. Ignatius High School, Cleveland, Ohio, 1987; B.A., Stanford University, Stanford, Calif., 1991; B.S., Stanford University, Stanford, Calif., 1991; J.D., Georgetown University, Washington, D.C., 1994; United States Air Force, 1995-1999; United States Air Force Reserve, 2000-present; judicial clerk, United States Court of Appeals, Ninth Circuit; lawyer, private practice; member of the Torrance, Calif., city council, 2002-2005; member of the California state assembly, 2005-2010; unsuccessful candidate for election for California state attorney general in 2010; member of the California state senate, 2011-2014; elected as a Democrat to the One Hundred Fourteenth and to the succeeding Congress (January 3, 2015-present).</biography>
+        <phone>202-225-3976</phone>
+        <fax>null</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn Hob</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://lieu.house.gov</website>
+        <contact_page>https://lieu.house.gov/contact/email</contact_page>
+        <facebook_url>https://www.facebook.com/RepTedLieu/</facebook_url>
+        <twitter_handle>RepTedLieu</twitter_handle>
+        <twitter_url>https://twitter.com/RepTedLieu</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ted-lieu.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>California</state_name>
+        <state_name_slug>california</state_name_slug>
+        <state_code>CA</state_code>
+        <state_code_slug>ca</state_code_slug>
         <district>44</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -3961,41 +3961,41 @@
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/juan-vargas.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>California</state_name>
-        <state_name_slug>california</state_name_slug>
-        <state_code>CA</state_code>
-        <state_code_slug>ca</state_code_slug>
-        <district>52</district>
+        <state_name>Colorado</state_name>
+        <state_name_slug>colorado</state_name_slug>
+        <state_code>CO</state_code>
+        <state_code_slug>co</state_code_slug>
+        <district>1</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
-        <bioguide>P000608</bioguide>
-        <thomas>2113</thomas>
-        <opensecrets>N00033591</opensecrets>
-        <votesmart>70351</votesmart>
-        <fec>H2CA52089</fec>
-        <maplight>1747</maplight>
-        <wikidata>Q3791514</wikidata>
-        <google_entity_id>kg:/m/02rymxd</google_entity_id>
+        <bioguide>D000197</bioguide>
+        <thomas>1479</thomas>
+        <opensecrets>N00006134</opensecrets>
+        <votesmart>561</votesmart>
+        <fec>H6CO01141</fec>
+        <maplight>214</maplight>
+        <wikidata>Q437159</wikidata>
+        <google_entity_id>kg:/m/024z95</google_entity_id>
         <title>representative</title>
         <party>democrat</party>
-        <name>Scott Peters</name>
-        <name_slug>scott-peters</name_slug>
-        <first_name>Scott</first_name>
+        <name>Diana DeGette</name>
+        <name_slug>diana-degette</name_slug>
+        <first_name>Diana</first_name>
         <middle_name>null</middle_name>
-        <last_name>Peters</last_name>
+        <last_name>DeGette</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>SKAHT PEE-terz</pronunciation>
-        <gender>male</gender>
+        <pronunciation>die-ANN-uh duh-GET</pronunciation>
+        <gender>female</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>lutheran</religion>
+        <religion>presbyterian</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1958-06-17</date_of_birth>
-        <entered_office>2013-01-03</entered_office>
+        <date_of_birth>1957-07-29</date_of_birth>
+        <entered_office>1997-01-07</entered_office>
         <term_end>2021-01-03</term_end>
-        <biography>Scott Peters, a Representative from California; born in Springfield, Clark County, Ohio, June 17, 1958; B.A., Duke University, Durham, N.C., 1980; J.D., New York University, New York, N.Y., 1984; lawyer, private practice; economist, United States Environmental Protection Agency, 1980-1981; deputy attorney, city of San Diego, Calif., 1991-1996; member of the San Diego, Calif., city council, 2000-2008; president of the San Diego, Calif., city council, 2006-2008; commissioner, San Diego unified port district, 2009-2012; elected as a Democrat to the One Hundred Thirteenth and to the two succeeding Congresses (January 3, 2013-present).</biography>
-        <phone>202-225-0508</phone>
-        <fax>null</fax>
+        <biography>Diana DeGette, a Representative from Colorado; born in Tachikawa, Japan, July 29, 1957; graduated from South High School, Denver, Colo., 1975; B.A., Colorado College, Colorado Springs, Colo., 1979; J.D., New York University, New York, N.Y., 1982; member of the Colorado state house of representatives, 1992-1996; elected as a Democrat to the One Hundred Fifth and to the ten succeeding Congresses (January 3, 1997-present).</biography>
+        <phone>202-225-4431</phone>
+        <fax>202-225-5657</fax>
         <latitude>38.8863235</latitude>
         <longitude>-77.011373</longitude>
         <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
@@ -4008,12 +4008,12 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>https://scottpeters.house.gov</website>
-        <contact_page>https://scottpeters.house.gov/contact</contact_page>
-        <facebook_url>https://www.facebook.com/scottpeterssandiego/</facebook_url>
-        <twitter_handle>RepScottPeters</twitter_handle>
-        <twitter_url>https://twitter.com/RepScottPeters</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/scott-peters.jpg</photo_url>
+        <website>https://degette.house.gov</website>
+        <contact_page>http://degette.house.gov/contact/send-me-an-email</contact_page>
+        <facebook_url>https://www.facebook.com/DianaDeGette/</facebook_url>
+        <twitter_handle>RepDianaDeGette</twitter_handle>
+        <twitter_url>https://twitter.com/RepDianaDeGette</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/diana-degette.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>California</state_name>
@@ -4071,41 +4071,41 @@
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/susan-davis.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Colorado</state_name>
-        <state_name_slug>colorado</state_name_slug>
-        <state_code>CO</state_code>
-        <state_code_slug>co</state_code_slug>
-        <district>1</district>
+        <state_name>California</state_name>
+        <state_name_slug>california</state_name_slug>
+        <state_code>CA</state_code>
+        <state_code_slug>ca</state_code_slug>
+        <district>52</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
-        <bioguide>D000197</bioguide>
-        <thomas>1479</thomas>
-        <opensecrets>N00006134</opensecrets>
-        <votesmart>561</votesmart>
-        <fec>H6CO01141</fec>
-        <maplight>214</maplight>
-        <wikidata>Q437159</wikidata>
-        <google_entity_id>kg:/m/024z95</google_entity_id>
+        <bioguide>P000608</bioguide>
+        <thomas>2113</thomas>
+        <opensecrets>N00033591</opensecrets>
+        <votesmart>70351</votesmart>
+        <fec>H2CA52089</fec>
+        <maplight>1747</maplight>
+        <wikidata>Q3791514</wikidata>
+        <google_entity_id>kg:/m/02rymxd</google_entity_id>
         <title>representative</title>
         <party>democrat</party>
-        <name>Diana DeGette</name>
-        <name_slug>diana-degette</name_slug>
-        <first_name>Diana</first_name>
+        <name>Scott Peters</name>
+        <name_slug>scott-peters</name_slug>
+        <first_name>Scott</first_name>
         <middle_name>null</middle_name>
-        <last_name>DeGette</last_name>
+        <last_name>Peters</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>die-ANN-uh duh-GET</pronunciation>
-        <gender>female</gender>
+        <pronunciation>SKAHT PEE-terz</pronunciation>
+        <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>presbyterian</religion>
+        <religion>lutheran</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1957-07-29</date_of_birth>
-        <entered_office>1997-01-07</entered_office>
+        <date_of_birth>1958-06-17</date_of_birth>
+        <entered_office>2013-01-03</entered_office>
         <term_end>2021-01-03</term_end>
-        <biography>Diana DeGette, a Representative from Colorado; born in Tachikawa, Japan, July 29, 1957; graduated from South High School, Denver, Colo., 1975; B.A., Colorado College, Colorado Springs, Colo., 1979; J.D., New York University, New York, N.Y., 1982; member of the Colorado state house of representatives, 1992-1996; elected as a Democrat to the One Hundred Fifth and to the ten succeeding Congresses (January 3, 1997-present).</biography>
-        <phone>202-225-4431</phone>
-        <fax>202-225-5657</fax>
+        <biography>Scott Peters, a Representative from California; born in Springfield, Clark County, Ohio, June 17, 1958; B.A., Duke University, Durham, N.C., 1980; J.D., New York University, New York, N.Y., 1984; lawyer, private practice; economist, United States Environmental Protection Agency, 1980-1981; deputy attorney, city of San Diego, Calif., 1991-1996; member of the San Diego, Calif., city council, 2000-2008; president of the San Diego, Calif., city council, 2006-2008; commissioner, San Diego unified port district, 2009-2012; elected as a Democrat to the One Hundred Thirteenth and to the two succeeding Congresses (January 3, 2013-present).</biography>
+        <phone>202-225-0508</phone>
+        <fax>null</fax>
         <latitude>38.8863235</latitude>
         <longitude>-77.011373</longitude>
         <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
@@ -4118,12 +4118,12 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>https://degette.house.gov</website>
-        <contact_page>http://degette.house.gov/contact/send-me-an-email</contact_page>
-        <facebook_url>https://www.facebook.com/DianaDeGette/</facebook_url>
-        <twitter_handle>RepDianaDeGette</twitter_handle>
-        <twitter_url>https://twitter.com/RepDianaDeGette</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/diana-degette.jpg</photo_url>
+        <website>https://scottpeters.house.gov</website>
+        <contact_page>https://scottpeters.house.gov/contact</contact_page>
+        <facebook_url>https://www.facebook.com/scottpeterssandiego/</facebook_url>
+        <twitter_handle>RepScottPeters</twitter_handle>
+        <twitter_url>https://twitter.com/RepScottPeters</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/scott-peters.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Colorado</state_name>
@@ -13975,61 +13975,6 @@
         <state_name_slug>new-jersey</state_name_slug>
         <state_code>NJ</state_code>
         <state_code_slug>nj</state_code_slug>
-        <district>3</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>K000394</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>N00041370</opensecrets>
-        <votesmart>179640</votesmart>
-        <fec>H8NJ03206</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>representative</title>
-        <party>democrat</party>
-        <name>Andrew Kim</name>
-        <name_slug>andrew-kim</name_slug>
-        <first_name>Andrew</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Kim</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Andy</goes_by>
-        <pronunciation>AN-droo KIM</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1982-07-12</date_of_birth>
-        <entered_office>2019-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Andrew Kim is the Democratic representative from New Jersey's 3rd Congressional District in the U.S. House. Kim was elected to the office on November 6, 2018.</biography>
-        <phone>202-225-4765</phone>
-        <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>531 Longworth House Office Building, Washington, DC 20003</address_complete>
-        <address_number>531</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Longworth House Office</address_street>
-        <address_sec_unit_type>Building</address_sec_unit_type>
-        <address_sec_unit_num>Washingto</address_sec_unit_num>
-        <address_city>n</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20003</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://kim.house.gov/</website>
-        <contact_page>https://kim.house.gov/contact</contact_page>
-        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
-        <twitter_handle>housedemocrats</twitter_handle>
-        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/andrew-kim.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>New Jersey</state_name>
-        <state_name_slug>new-jersey</state_name_slug>
-        <state_code>NJ</state_code>
-        <state_code_slug>nj</state_code_slug>
         <district>4</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -14079,6 +14024,61 @@
         <twitter_handle>RepChrisSmith</twitter_handle>
         <twitter_url>https://twitter.com/RepChrisSmith</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/christopher-smith.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>New Jersey</state_name>
+        <state_name_slug>new-jersey</state_name_slug>
+        <state_code>NJ</state_code>
+        <state_code_slug>nj</state_code_slug>
+        <district>3</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>K000394</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00041370</opensecrets>
+        <votesmart>179640</votesmart>
+        <fec>H8NJ03206</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>representative</title>
+        <party>democrat</party>
+        <name>Andrew Kim</name>
+        <name_slug>andrew-kim</name_slug>
+        <first_name>Andrew</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Kim</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Andy</goes_by>
+        <pronunciation>AN-droo KIM</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1982-07-12</date_of_birth>
+        <entered_office>2019-01-03</entered_office>
+        <term_end>2021-01-03</term_end>
+        <biography>Andrew Kim is the Democratic representative from New Jersey's 3rd Congressional District in the U.S. House. Kim was elected to the office on November 6, 2018.</biography>
+        <phone>202-225-4765</phone>
+        <fax>null</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>531 Longworth House Office Building, Washington, DC 20003</address_complete>
+        <address_number>531</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Longworth House Office</address_street>
+        <address_sec_unit_type>Building</address_sec_unit_type>
+        <address_sec_unit_num>Washingto</address_sec_unit_num>
+        <address_city>n</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20003</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://kim.house.gov/</website>
+        <contact_page>https://kim.house.gov/contact</contact_page>
+        <facebook_url>https://www.facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/andrew-kim.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>New Jersey</state_name>
@@ -14250,61 +14250,6 @@
         <state_name_slug>new-jersey</state_name_slug>
         <state_code>NJ</state_code>
         <state_code_slug>nj</state_code_slug>
-        <district>9</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>P000096</bioguide>
-        <thomas>1510</thomas>
-        <opensecrets>N00000751</opensecrets>
-        <votesmart>478</votesmart>
-        <fec>H6NJ08118</fec>
-        <maplight>403</maplight>
-        <wikidata>Q529090</wikidata>
-        <google_entity_id>kg:/m/03txs_</google_entity_id>
-        <title>representative</title>
-        <party>democrat</party>
-        <name>Bill Pascrell</name>
-        <name_slug>bill-pascrell</name_slug>
-        <first_name>Bill</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Pascrell</last_name>
-        <name_suffix>Jr.</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>BILL PASS-KRELL [equal stress]</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1937-01-25</date_of_birth>
-        <entered_office>1997-01-07</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Bill Pascrell, a Representative from New Jersey; born in Paterson, Passaic County, N.J., January 25, 1937; graduated from St. John the Baptist High School, Paterson, N.J., 1955; B.A., Fordham University, New York, N.Y., 1959; M.A., Fordham University, New York, N.Y., 1961; United States Army, 1961-1962; United States Army Reserve, 1962-1967; teacher; president of the Paterson, N.J., board of education, 1979-1982; member of the New Jersey state general assembly, 1988-1996, minority leader pro tempore; mayor of Paterson, N.J., 1990-1996; elected as a Democrat to the One Hundred Fifth and to the ten succeeding Congresses (January 3, 1997-present).</biography>
-        <phone>202-225-5751</phone>
-        <fax>202-225-5782</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn Hob</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://pascrell.house.gov</website>
-        <contact_page>https://pascrell.house.gov/contact/email-me</contact_page>
-        <facebook_url>https://www.facebook.com/pascrell</facebook_url>
-        <twitter_handle>BillPascrell</twitter_handle>
-        <twitter_url>https://twitter.com/BillPascrell</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/bill-pascrell.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>New Jersey</state_name>
-        <state_name_slug>new-jersey</state_name_slug>
-        <state_code>NJ</state_code>
-        <state_code_slug>nj</state_code_slug>
         <district>8</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -14354,6 +14299,61 @@
         <twitter_handle>RepSires</twitter_handle>
         <twitter_url>https://twitter.com/RepSires</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/albio-sires.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>New Jersey</state_name>
+        <state_name_slug>new-jersey</state_name_slug>
+        <state_code>NJ</state_code>
+        <state_code_slug>nj</state_code_slug>
+        <district>9</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>P000096</bioguide>
+        <thomas>1510</thomas>
+        <opensecrets>N00000751</opensecrets>
+        <votesmart>478</votesmart>
+        <fec>H6NJ08118</fec>
+        <maplight>403</maplight>
+        <wikidata>Q529090</wikidata>
+        <google_entity_id>kg:/m/03txs_</google_entity_id>
+        <title>representative</title>
+        <party>democrat</party>
+        <name>Bill Pascrell</name>
+        <name_slug>bill-pascrell</name_slug>
+        <first_name>Bill</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Pascrell</last_name>
+        <name_suffix>Jr.</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>BILL PASS-KRELL [equal stress]</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>roman-catholic</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1937-01-25</date_of_birth>
+        <entered_office>1997-01-07</entered_office>
+        <term_end>2021-01-03</term_end>
+        <biography>Bill Pascrell, a Representative from New Jersey; born in Paterson, Passaic County, N.J., January 25, 1937; graduated from St. John the Baptist High School, Paterson, N.J., 1955; B.A., Fordham University, New York, N.Y., 1959; M.A., Fordham University, New York, N.Y., 1961; United States Army, 1961-1962; United States Army Reserve, 1962-1967; teacher; president of the Paterson, N.J., board of education, 1979-1982; member of the New Jersey state general assembly, 1988-1996, minority leader pro tempore; mayor of Paterson, N.J., 1990-1996; elected as a Democrat to the One Hundred Fifth and to the ten succeeding Congresses (January 3, 1997-present).</biography>
+        <phone>202-225-5751</phone>
+        <fax>202-225-5782</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn Hob</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://pascrell.house.gov</website>
+        <contact_page>https://pascrell.house.gov/contact/email-me</contact_page>
+        <facebook_url>https://www.facebook.com/pascrell</facebook_url>
+        <twitter_handle>BillPascrell</twitter_handle>
+        <twitter_url>https://twitter.com/BillPascrell</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/bill-pascrell.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>New Jersey</state_name>
@@ -16233,52 +16233,52 @@
         <district>25</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
-        <bioguide>S000480</bioguide>
-        <thomas>1069</thomas>
-        <opensecrets>N00001311</opensecrets>
-        <votesmart>26991</votesmart>
-        <fec>H6NY03031</fec>
-        <maplight>468</maplight>
-        <wikidata>Q299833</wikidata>
-        <google_entity_id>kg:/m/03tvt9</google_entity_id>
+        <bioguide>M001206</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00043207</opensecrets>
+        <votesmart>4362</votesmart>
+        <fec>H8NY25105</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
         <title>representative</title>
         <party>democrat</party>
-        <name>Louise Slaughter</name>
-        <name_slug>louise-slaughter</name_slug>
-        <first_name>Louise</first_name>
+        <name>Joseph Morelle</name>
+        <name_slug>joseph-morelle</name_slug>
+        <first_name>Joseph</first_name>
         <middle_name>null</middle_name>
-        <last_name>Slaughter</last_name>
+        <last_name>Morelle</last_name>
         <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>loo-EES SLAW-ter</pronunciation>
-        <gender>female</gender>
+        <goes_by>Joe</goes_by>
+        <pronunciation>JOH-zuhf MUH-rel</pronunciation>
+        <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>episcopalian</religion>
+        <religion>christian</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1929-08-14</date_of_birth>
-        <entered_office>1987-01-06</entered_office>
+        <date_of_birth>1957-04-29</date_of_birth>
+        <entered_office>2019-01-03</entered_office>
         <term_end>2021-01-03</term_end>
-        <biography>Louise Slaughter, a Representative from New York; born Louise McIntosh in Harlan County, Ky., August 14, 1929; B.S., University of Kentucky, Lexington, Ky., 1951; M.S., University of Kentucky, Lexington, Ky., 1953; elected to the Monroe County, N.Y., legislature, 1976-1979; regional coordinator for New York department of state, 1976-1979; coordinator, regional office of New York lieutenant governor, 1979-1982; member of the New York state assembly, 1982-1986; elected as a Democrat to the One Hundredth and to the fifteen succeeding Congresses (January 3, 1987-present); chair, Committee on Rules (One Hundred Tenth and One Hundred Eleventh Congresses).</biography>
+        <biography>Joseph Morelle a Representative from New York; born in Utica, Oneida County, N.Y., April 29, 1957; graduated from Eastridge High School, Irondequoit, N.Y., 1975; B.A., SUNY Geneseo, Geneseo, N.Y., 1986; staff, New York state assembly; businessman; member, Monroe County legislature, 1984-1990; member, New York state assembly, 1990-2018; elected simultaneously as a Democrat to the One Hundred Fifteenth and One Hundred Sixteenth Congresses, by special election, to fill the vacancy caused by the death of United States Representative Louise Slaughter (November 6, 2018-present).</biography>
         <phone>202-225-3615</phone>
-        <fax>202-225-7822</fax>
+        <fax>null</fax>
         <latitude>38.8863235</latitude>
         <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
+        <address_complete>1317 Longworth House Office Building, Washington, DC 20515</address_complete>
+        <address_number>1317</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>Rayburn Hob</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
+        <address_street>Longworth House Office</address_street>
+        <address_sec_unit_type>Building</address_sec_unit_type>
+        <address_sec_unit_num>Washingto</address_sec_unit_num>
+        <address_city>n</address_city>
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>https://louise.house.gov</website>
-        <contact_page>https://louise.house.gov/contact/email-louise</contact_page>
-        <facebook_url>https://www.facebook.com/RepLouiseSlaughter</facebook_url>
-        <twitter_handle>louiseslaughter</twitter_handle>
-        <twitter_url>https://twitter.com/louiseslaughter</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/louise-slaughter.jpg</photo_url>
+        <website>https://morelle.house.gov</website>
+        <contact_page>https://morelle.house.gov/contact</contact_page>
+        <facebook_url>https://www.facebook.com/RepJoeMorelle</facebook_url>
+        <twitter_handle>RepJoeMorelle</twitter_handle>
+        <twitter_url>https://twitter.com/RepJoeMorelle</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/joseph-morelle.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>New York</state_name>
