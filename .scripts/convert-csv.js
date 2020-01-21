@@ -17,7 +17,7 @@ if (fs.existsSync(core)) {
   fs.truncate(converted, 0, function() {
     var stream = fs.createReadStream(core);
 
-    csv.fromStream(stream, {headers : true}).validate(function(data){
+    csv.parseStream(stream, {headers : true}).validate(function(data){
 
       var validGender = [
         'female',
