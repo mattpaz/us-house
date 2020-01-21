@@ -1,8 +1,22 @@
 var fs = require('fs');
 var path = require('path');
 
+var date = new Date();
+var year = date.getFullYear().toString();
+var month = (date.getMonth() + 1).toString();
+var day = date.getDate().toString();
+
+if (month.length === 1) {
+  month = '0' + month;
+}
+
+if (day.length === 1) {
+  day = '0' + day;
+}
+
+var prefix = year + month + day;
 var collection, data;
-var seeder_file = path.join(__dirname, '../us-house/data/20190101000000-house-seeder.js');
+var seeder_file = path.join(__dirname, '../us-house/data/' + prefix + '000000-house-seeder.js');
 var data_file = path.join(__dirname, '../us-house/data/us-house.json');
 
 function createSeeder() {
