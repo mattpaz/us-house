@@ -24,6 +24,14 @@ Introduction
 This project provides the __[United States House of Representatives Data](./us-house)__, Headshots & City Photo for New York, NY ( GeoJSON, JSON, XML, CSV, SQL & YML formats ).  See [Provided Data](#provided-data) below for full list of data in this project.
 
 
+Data Source
+---
+
+Our team Manages the [116th Congress - United States House Members - Demographic Data](http://bit.ly/116th-congress-us-house).  This document is Read Only for the general public.  If you would like to update this document, [Join our Slack Team](https://slack.civil.services/bkx7n2) to learn how.
+
+> **IMPORTANT**: All data in this repository comes directly from [This Spreadsheet](http://bit.ly/116th-congress-us-house).  If you edit the data in this repo manually, it will get overwritten.
+
+
 Completed Tasks
 ---
 
@@ -148,7 +156,7 @@ Updating House Data can be done with the following instructions:
 <details>
   <summary>View Instructions</summary>
 
-1. [Download Latest CSV](https://docs.google.com/spreadsheets/d/1R5YEDPBZnlKzDtq3tf8pF55Ud68EYoBhbyMhq6ymB2Q/export?format=csv&id=1R5YEDPBZnlKzDtq3tf8pF55Ud68EYoBhbyMhq6ymB2Q&gid=539831285) from Google Sheets
+1. [Download Latest CSV](http://bit.ly/116th-congress-us-house) from Google Sheets
 2. Replace [./source/us-house.csv](./source/us-house.csv) with this new file
 3. Run the following commands:
 

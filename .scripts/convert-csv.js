@@ -1,6 +1,5 @@
 var fs = require('fs');
 var csv = require('fast-csv');
-var pjson = JSON.parse(fs.readFileSync('package.json', 'utf8'));
 var values = require('object.values');
 var slug = require('slug');
 var parser = require('parse-address');
@@ -99,7 +98,7 @@ if (fs.existsSync(core)) {
       } else if (data.vacant !== 'yes' && data.twitter_url !== '' && data.twitter_url.indexOf('https://twitter.com/') === -1) {
         console.error('× Invalid Twitter URL for ');
         return false;
-      } else if (data.vacant !== 'yes' && data.facebook_url !== '' && data.facebook_url.indexOf('https://www.facebook.com') === -1) {
+      } else if (data.vacant !== 'yes' && data.facebook_url !== '' && data.facebook_url.indexOf('https://facebook.com/') === -1) {
         console.error('× Invalid Facebook URL for ' + data.first_name + ' ' + data.last_name);
         return false;
       }
@@ -189,11 +188,11 @@ if (fs.existsSync(core)) {
 
       if (currentRow === 0) {
         var header = Object.keys(convertedData).join(',') + '\n';
-        fs.appendFile(converted, header);
+        fs.appendFile(converted, header, function (){});
       }
 
       var row = '"' + Object.values(convertedData).join('","').replace(/""/g, '') + '"' + '\n';
-      fs.appendFile(converted, row);
+      fs.appendFile(converted, row, function (){});
 
       console.log('✓ Processed ' + data.first_name + ' ' + data.last_name);
 

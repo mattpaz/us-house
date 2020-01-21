@@ -51,7 +51,7 @@ function createDistrictMap(geoJSON) {
 
     var districtID = (parseInt(geoJSON.properties.district, 10) > 0) ? '-' + geoJSON.properties.district : '';
     var filename = 'us-house/geojson/us-house-' + geoJSON.properties.state_code_slug + districtID + '.geojson';
-    fs.writeFile(filename, JSON.stringify(district, null, 2));
+    fs.writeFile(filename, JSON.stringify(district, null, 2), function (){});
 
     console.log('✓ Created ./' + filename);
   } else {
@@ -64,7 +64,7 @@ function createDistrictMap(geoJSON) {
  */
 function createDistrictsMap() {
   var filename = 'us-house/geojson/us-house.geojson';
-  fs.writeFile(filename, JSON.stringify(collection, null, 2));
+  fs.writeFile(filename, JSON.stringify(collection, null, 2), function (){});
 
   console.log('✓ Created ./' + filename);
 }

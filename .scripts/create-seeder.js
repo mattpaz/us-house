@@ -32,7 +32,7 @@ function createSeeder() {
   seeder = seeder.replace(/"new Date\(\)"/g, 'new Date()');
   seeder = seeder.replace(/"([a-z_]+)":/g, '$1:');
 
-  fs.writeFile(seeder_file, seeder);
+  fs.writeFile(seeder_file, seeder, function (){});
 }
 
 if (!fs.existsSync(data_file)) {
