@@ -5,7 +5,7 @@ __Civil Services__ is a collection of tools that make it possible for citizens t
 [![Donate](https://cdn.civil.services/donate-button.png)](https://www.paypal.me/civilservices)
 
 
-116th Congress United States House of Representatives
+117th Congress United States House of Representatives
 ===
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/CivilServiceUSA/us-house/master/LICENSE)  [![GitHub contributors](https://img.shields.io/github/contributors/CivilServiceUSA/us-house.svg)](https://github.com/CivilServiceUSA/us-house/graphs/contributors)
@@ -27,9 +27,9 @@ This project provides the __[United States House of Representatives Data](./us-h
 Data Source
 ---
 
-Our team Manages the [116th Congress - United States House Members - Demographic Data](http://bit.ly/116th-congress-us-house).  This document is Read Only for the general public.  If you would like to update this document, [Join our Slack Team](https://slack.civil.services/bkx7n2) to learn how.
+Our team Manages the [117th Congress - United States House Members - Demographic Data](http://bit.ly/117th-congress-us-house).  This document is Read Only for the general public.  If you would like to update this document, [Join our Slack Team](https://slack.civil.services/bkx7n2) to learn how.
 
-> **IMPORTANT**: All data in this repository comes directly from [This Spreadsheet](http://bit.ly/116th-congress-us-house).  If you edit the data in this repo manually, it will get overwritten.
+> **IMPORTANT**: All data in this repository comes directly from [This Spreadsheet](http://bit.ly/117th-congress-us-house).  If you edit the data in this repo manually, it will get overwritten.
 
 
 Completed Tasks
@@ -47,7 +47,7 @@ We have completed the following Data Collection [Watch Project](https://github.c
 Representative Data
 ---
 
-This project offers data for the 116th United States House in the following formats:
+This project offers data for the 117th United States House in the following formats:
 
 * [CSV](us-house/data/us-house.csv)
 * [JSON](us-house/data/us-house.json)
@@ -156,7 +156,7 @@ Updating House Data can be done with the following instructions:
 <details>
   <summary>View Instructions</summary>
 
-1. [Download Latest CSV](http://bit.ly/116th-congress-us-house) from Google Sheets
+1. [Download Latest CSV](http://bit.ly/117th-congress-us-house) from Google Sheets
 2. Replace [./source/us-house.csv](./source/us-house.csv) with this new file
 3. Run the following commands:
 

@@ -8,7 +8,7 @@ var data_file = path.join(__dirname, '../us-house/data/us-house.json');
 var collection = {
   "type": "FeatureCollection",
   "provider": {
-    "name": "Civil Services",
+    "name": "Civil Services - 117th Congress United States House of Representatives",
     "email": "hello@civil.services",
     "twitter": "https://twitter.com/CivilServiceUSA",
     "homepage": "https://civil.services",
@@ -24,7 +24,7 @@ var collection = {
  */
 function getProperties(props) {
   for (var i = 0; i < data.length; i++) {
-    if (data[i].state_name.toString() === props.state_name.toString() && (!data[i].district || !props.district || parseInt(data[i].district, 10) === parseInt(props.district, 10)) && data[i].at_large.toString() === props.at_large.toString()) {
+    if (data[i].state_code.toString() === props.STATE_ABBR.toString() && (!data[i].district || !props.CDFIPS || parseInt(data[i].district, 10) === parseInt(props.CDFIPS, 10))) {
       return data[i];
     }
   }
@@ -39,7 +39,7 @@ function createDistrictMap(geoJSON) {
     var district = {
       "type": "Feature",
       "provider": {
-        "name": "Civil Services",
+        "name": "Civil Services - 117th Congress United States House of Representatives",
         "email": "hello@civil.services",
         "twitter": "https://twitter.com/CivilServiceUSA",
         "homepage": "https://civil.services",
@@ -51,7 +51,7 @@ function createDistrictMap(geoJSON) {
 
     var districtID = (parseInt(geoJSON.properties.district, 10) > 0) ? '-' + geoJSON.properties.district : '';
     var filename = 'us-house/geojson/us-house-' + geoJSON.properties.state_code_slug + districtID + '.geojson';
-    fs.writeFile(filename, JSON.stringify(district, null, 2), function (){});
+    fs.writeFile(filename, JSON.stringify(district), function (){});
 
     console.log('✓ Created ./' + filename);
   } else {
@@ -64,7 +64,7 @@ function createDistrictMap(geoJSON) {
  */
 function createDistrictsMap() {
   var filename = 'us-house/geojson/us-house.geojson';
-  fs.writeFile(filename, JSON.stringify(collection, null, 2), function (){});
+  fs.writeFile(filename, JSON.stringify(collection), function (){});
 
   console.log('✓ Created ./' + filename);
 }
@@ -80,11 +80,13 @@ if (!fs.existsSync(geojson_file)) {
   data = JSON.parse(fs.readFileSync(data_file, 'utf8'));
 
   for (var i = 0; i < geojson.features.length; i++) {
-    geojson.features[i].properties = getProperties(geojson.features[i]);
+    var currentProps  = geojson.features[i].properties;
 
-    collection.features.push(geojson.features[i]);
-
-    createDistrictMap(geojson.features[i]);
+    if (currentProps.CDFIPS !== '98') {
+      geojson.features[i].properties = getProperties(currentProps);
+      collection.features.push(geojson.features[i]);
+      createDistrictMap(geojson.features[i]);
+    }
   }
 
   createDistrictsMap();
