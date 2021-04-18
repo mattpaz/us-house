@@ -3208,11 +3208,11 @@
         <google_entity_id>kg:/m/024xc7</google_entity_id>
         <title>representative</title>
         <party>democrat</party>
-        <name>Linda Sánchez</name>
+        <name>Linda Sanchez</name>
         <name_slug>linda-sanchez</name_slug>
         <first_name>Linda</first_name>
         <middle_name>null</middle_name>
-        <last_name>Sánchez</last_name>
+        <last_name>Sanchez</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>LIN-duh SAN-chez</pronunciation>
@@ -3862,7 +3862,7 @@
         <thomas>1640</thomas>
         <opensecrets>N00007017</opensecrets>
         <votesmart>16553</votesmart>
-        <fec>H0CA48024,S8CA00135</fec>
+        <fec>H0CA48024</fec>
         <maplight>null</maplight>
         <wikidata>null</wikidata>
         <google_entity_id>null</google_entity_id>
@@ -7113,9 +7113,9 @@
         <google_entity_id>null</google_entity_id>
         <title>representative</title>
         <party>democrat</party>
-        <name>Kaialiʻi Kahele</name>
+        <name>Kaiali'i Kahele</name>
         <name_slug>kaialii-kahele</name_slug>
-        <first_name>Kaialiʻi</first_name>
+        <first_name>Kaiali'i</first_name>
         <middle_name>null</middle_name>
         <last_name>Kahele</last_name>
         <name_suffix>null</name_suffix>
@@ -7663,11 +7663,11 @@
         <google_entity_id>null</google_entity_id>
         <title>representative</title>
         <party>democrat</party>
-        <name>Jesús García</name>
+        <name>Jesus Garcia</name>
         <name_slug>jesus-garcia</name_slug>
-        <first_name>Jesús</first_name>
+        <first_name>Jesus</first_name>
         <middle_name>G.</middle_name>
-        <last_name>García</last_name>
+        <last_name>Garcia</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>HAY-soos GARR-SEE-uh</pronunciation>
@@ -7760,61 +7760,6 @@
         <state_name_slug>illinois</state_name_slug>
         <state_code>IL</state_code>
         <state_code_slug>il</state_code_slug>
-        <district>7</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>D000096</bioguide>
-        <thomas>1477</thomas>
-        <opensecrets>N00004884</opensecrets>
-        <votesmart>233</votesmart>
-        <fec>H4IL07037</fec>
-        <maplight>209</maplight>
-        <wikidata>Q1164657</wikidata>
-        <google_entity_id>kg:/m/0256k7</google_entity_id>
-        <title>representative</title>
-        <party>democrat</party>
-        <name>Danny Davis</name>
-        <name_slug>danny-davis</name_slug>
-        <first_name>Danny</first_name>
-        <middle_name>K.</middle_name>
-        <last_name>Davis</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>DAN-ee DAY-viss</pronunciation>
-        <gender>male</gender>
-        <ethnicity>african-american</ethnicity>
-        <religion>baptist</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1941-09-06</date_of_birth>
-        <entered_office>1997-01-07</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Danny Davis, a Representative from Illinois; born in Parkdale, Ashley County, Ark., September 6, 1941; graduated from Savage High School, Parkdale, Ark., 1957; B.A., Arkansas A.M.&amp;N. College, Pine Bluff, Ark., 1961; M.S., Chicago State University, Chicago, Ill., 1968; Ph.D., Union Institute, Cincinnati, Ohio, 1977; clerk, Chicago, Ill., Post Office, 1961-1965; teacher, Chicago, Ill., public schools, 1962-1968; executive director, Greater Lawndale Conservation Commission, 1969; director of training, Martin L. King Neighborhood Health Center, 1969-1971; executive director, Westside Health Center, 1975-1981; alderman, Chicago, Ill., city council, 1979-1990; commissioner, Cook County, Ill., board, 1990-1996; college professor; unsuccessful candidate for election to the United States House of Representatives in 1984 and 1986; elected as a Democrat to the One Hundred Fifth and to the ten succeeding Congresses (January 3, 1997-present).</biography>
-        <phone>202-225-5006</phone>
-        <fax>202-225-5641</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn HOB</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://davis.house.gov</website>
-        <contact_page>https://davis.house.gov/email-me</contact_page>
-        <facebook_url>https://facebook.com/CongressmanDKDavis</facebook_url>
-        <twitter_handle>housedemocrats</twitter_handle>
-        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/danny-davis.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Illinois</state_name>
-        <state_name_slug>illinois</state_name_slug>
-        <state_code>IL</state_code>
-        <state_code_slug>il</state_code_slug>
         <district>6</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -7864,6 +7809,61 @@
         <twitter_handle>housedemocrats</twitter_handle>
         <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/sean-casten.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Illinois</state_name>
+        <state_name_slug>illinois</state_name_slug>
+        <state_code>IL</state_code>
+        <state_code_slug>il</state_code_slug>
+        <district>7</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>D000096</bioguide>
+        <thomas>1477</thomas>
+        <opensecrets>N00004884</opensecrets>
+        <votesmart>233</votesmart>
+        <fec>H4IL07037</fec>
+        <maplight>209</maplight>
+        <wikidata>Q1164657</wikidata>
+        <google_entity_id>kg:/m/0256k7</google_entity_id>
+        <title>representative</title>
+        <party>democrat</party>
+        <name>Danny Davis</name>
+        <name_slug>danny-davis</name_slug>
+        <first_name>Danny</first_name>
+        <middle_name>K.</middle_name>
+        <last_name>Davis</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>DAN-ee DAY-viss</pronunciation>
+        <gender>male</gender>
+        <ethnicity>african-american</ethnicity>
+        <religion>baptist</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1941-09-06</date_of_birth>
+        <entered_office>1997-01-07</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Danny Davis, a Representative from Illinois; born in Parkdale, Ashley County, Ark., September 6, 1941; graduated from Savage High School, Parkdale, Ark., 1957; B.A., Arkansas A.M.&amp;N. College, Pine Bluff, Ark., 1961; M.S., Chicago State University, Chicago, Ill., 1968; Ph.D., Union Institute, Cincinnati, Ohio, 1977; clerk, Chicago, Ill., Post Office, 1961-1965; teacher, Chicago, Ill., public schools, 1962-1968; executive director, Greater Lawndale Conservation Commission, 1969; director of training, Martin L. King Neighborhood Health Center, 1969-1971; executive director, Westside Health Center, 1975-1981; alderman, Chicago, Ill., city council, 1979-1990; commissioner, Cook County, Ill., board, 1990-1996; college professor; unsuccessful candidate for election to the United States House of Representatives in 1984 and 1986; elected as a Democrat to the One Hundred Fifth and to the ten succeeding Congresses (January 3, 1997-present).</biography>
+        <phone>202-225-5006</phone>
+        <fax>202-225-5641</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn HOB</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://davis.house.gov</website>
+        <contact_page>https://davis.house.gov/email-me</contact_page>
+        <facebook_url>https://facebook.com/CongressmanDKDavis</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/danny-davis.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Illinois</state_name>
@@ -10125,61 +10125,6 @@
         <state_name_slug>massachusetts</state_name_slug>
         <state_code>MA</state_code>
         <state_code_slug>ma</state_code_slug>
-        <district>7</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>P000617</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>N00042581</opensecrets>
-        <votesmart>122700</votesmart>
-        <fec>H8MA07032</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>representative</title>
-        <party>democrat</party>
-        <name>Ayanna Pressley</name>
-        <name_slug>ayanna-pressley</name_slug>
-        <first_name>Ayanna</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Pressley</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>UH-YAH-nuh PRES-lee</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1974-02-03</date_of_birth>
-        <entered_office>2019-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Ayanna Pressley is the Democratic representative from Massachusetts' 7th Congressional District in the U.S. House. Pressley was elected to the office on November 6, 2018.</biography>
-        <phone>202-225-5111</phone>
-        <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>229 Longworth HOB, Washington, DC 20003</address_complete>
-        <address_number>229</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Longworth HOB</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20003</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://pressley.house.gov</website>
-        <contact_page>https://pressley.house.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/HouseDemocrats</facebook_url>
-        <twitter_handle>housedemocrats</twitter_handle>
-        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ayanna-pressley.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Massachusetts</state_name>
-        <state_name_slug>massachusetts</state_name_slug>
-        <state_code>MA</state_code>
-        <state_code_slug>ma</state_code_slug>
         <district>6</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -10229,6 +10174,61 @@
         <twitter_handle>sethmoulton</twitter_handle>
         <twitter_url>https://twitter.com/sethmoulton</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/seth-moulton.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Massachusetts</state_name>
+        <state_name_slug>massachusetts</state_name_slug>
+        <state_code>MA</state_code>
+        <state_code_slug>ma</state_code_slug>
+        <district>7</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>P000617</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00042581</opensecrets>
+        <votesmart>122700</votesmart>
+        <fec>H8MA07032</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>representative</title>
+        <party>democrat</party>
+        <name>Ayanna Pressley</name>
+        <name_slug>ayanna-pressley</name_slug>
+        <first_name>Ayanna</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Pressley</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>UH-YAH-nuh PRES-lee</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1974-02-03</date_of_birth>
+        <entered_office>2019-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Ayanna Pressley is the Democratic representative from Massachusetts' 7th Congressional District in the U.S. House. Pressley was elected to the office on November 6, 2018.</biography>
+        <phone>202-225-5111</phone>
+        <fax>null</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>229 Longworth HOB, Washington, DC 20003</address_complete>
+        <address_number>229</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Longworth HOB</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20003</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://pressley.house.gov</website>
+        <contact_page>https://pressley.house.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ayanna-pressley.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Massachusetts</state_name>
@@ -13370,61 +13370,6 @@
         <state_name_slug>north-carolina</state_name_slug>
         <state_code>NC</state_code>
         <state_code_slug>nc</state_code_slug>
-        <district>12</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>A000370</bioguide>
-        <thomas>2201</thomas>
-        <opensecrets>N00035451</opensecrets>
-        <votesmart>5935</votesmart>
-        <fec>H4NC12100</fec>
-        <maplight>2063</maplight>
-        <wikidata>Q4733597</wikidata>
-        <google_entity_id>kg:/m/02b45d</google_entity_id>
-        <title>representative</title>
-        <party>democrat</party>
-        <name>Alma Adams</name>
-        <name_slug>alma-adams</name_slug>
-        <first_name>Alma</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Adams</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>AL-muh ADD-umz</pronunciation>
-        <gender>female</gender>
-        <ethnicity>african-american</ethnicity>
-        <religion>baptist</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1946-05-27</date_of_birth>
-        <entered_office>2014-11-12</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Alma Adams, a Representative from North Carolina; born in High Point, Guilford County, N.C., May 27, 1946; graduated from West Side High School, Newark, N.J., 1964; B.S., North Carolina Agricultural and Technical State University, Greensboro, N.C., 1968; M.S., North Carolina Agricultural and Technical State University, Greensboro, N.C., 1972; Ph.D., Ohio State University, Columbus, Ohio, 1981; artist; faculty, Bennett College, Greensboro, N.C., 1972-2012; member of the Greensboro, N.C., school board, 1984-1986; member of the Greensboro, N.C., city council, 1987-1994; member of the North Carolina state house of representatives, 1994-2014; elected simultaneously as a Democrat to the One Hundred Thirteenth and One Hundred Fourteenth Congresses, by special election, to fill the vacancy caused by the resignation of United States Representative Melvin L. Watt, and reelected to the succeeding Congress (November 4, 2014-present).</biography>
-        <phone>202-225-1510</phone>
-        <fax>202-225-1512</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn HOB</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://adamsforms.house.gov</website>
-        <contact_page>https://adamsforms.house.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/CongresswomanAdams</facebook_url>
-        <twitter_handle>RepAdams</twitter_handle>
-        <twitter_url>https://twitter.com/RepAdams</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/alma-adams.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>North Carolina</state_name>
-        <state_name_slug>north-carolina</state_name_slug>
-        <state_code>NC</state_code>
-        <state_code_slug>nc</state_code_slug>
         <district>11</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -13474,6 +13419,61 @@
         <twitter_handle>RepCawthorn</twitter_handle>
         <twitter_url>https://twitter.com/RepCawthorn</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/david-cawthorn.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>North Carolina</state_name>
+        <state_name_slug>north-carolina</state_name_slug>
+        <state_code>NC</state_code>
+        <state_code_slug>nc</state_code_slug>
+        <district>12</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>A000370</bioguide>
+        <thomas>2201</thomas>
+        <opensecrets>N00035451</opensecrets>
+        <votesmart>5935</votesmart>
+        <fec>H4NC12100</fec>
+        <maplight>2063</maplight>
+        <wikidata>Q4733597</wikidata>
+        <google_entity_id>kg:/m/02b45d</google_entity_id>
+        <title>representative</title>
+        <party>democrat</party>
+        <name>Alma Adams</name>
+        <name_slug>alma-adams</name_slug>
+        <first_name>Alma</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Adams</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>AL-muh ADD-umz</pronunciation>
+        <gender>female</gender>
+        <ethnicity>african-american</ethnicity>
+        <religion>baptist</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1946-05-27</date_of_birth>
+        <entered_office>2014-11-12</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Alma Adams, a Representative from North Carolina; born in High Point, Guilford County, N.C., May 27, 1946; graduated from West Side High School, Newark, N.J., 1964; B.S., North Carolina Agricultural and Technical State University, Greensboro, N.C., 1968; M.S., North Carolina Agricultural and Technical State University, Greensboro, N.C., 1972; Ph.D., Ohio State University, Columbus, Ohio, 1981; artist; faculty, Bennett College, Greensboro, N.C., 1972-2012; member of the Greensboro, N.C., school board, 1984-1986; member of the Greensboro, N.C., city council, 1987-1994; member of the North Carolina state house of representatives, 1994-2014; elected simultaneously as a Democrat to the One Hundred Thirteenth and One Hundred Fourteenth Congresses, by special election, to fill the vacancy caused by the resignation of United States Representative Melvin L. Watt, and reelected to the succeeding Congress (November 4, 2014-present).</biography>
+        <phone>202-225-1510</phone>
+        <fax>202-225-1512</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn HOB</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://adamsforms.house.gov</website>
+        <contact_page>https://adamsforms.house.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/CongresswomanAdams</facebook_url>
+        <twitter_handle>RepAdams</twitter_handle>
+        <twitter_url>https://twitter.com/RepAdams</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/alma-adams.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>North Carolina</state_name>
@@ -15240,6 +15240,61 @@
         <state_name_slug>new-york</state_name_slug>
         <state_code>NY</state_code>
         <state_code_slug>ny</state_code_slug>
+        <district>8</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>J000294</bioguide>
+        <thomas>2149</thomas>
+        <opensecrets>N00033640</opensecrets>
+        <votesmart>55285</votesmart>
+        <fec>H2NY10092</fec>
+        <maplight>1785</maplight>
+        <wikidata>Q5640425</wikidata>
+        <google_entity_id>kg:/m/025_74m</google_entity_id>
+        <title>representative</title>
+        <party>democrat</party>
+        <name>Hakeem Jeffries</name>
+        <name_slug>hakeem-jeffries</name_slug>
+        <first_name>Hakeem</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Jeffries</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>hah-KEEM JEFF-reez</pronunciation>
+        <gender>male</gender>
+        <ethnicity>african-american</ethnicity>
+        <religion>baptist</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1970-08-04</date_of_birth>
+        <entered_office>2013-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Hakeem Jeffries, a Representative from New York; born in Brooklyn, Kings County, N.Y., August 4, 1970; B.A., Binghamton University, Vestal, N.Y., 1992; M.P.P., Georgetown University, Washington, D.C., 1994; J.D., New York University, New York, N.Y., 1997; law clerk, United States District Court for the Southern District of New York, 1997-1998; lawyer, private practice; member of the New York state assembly, 2007-2012; elected as a Democrat to the One Hundred Thirteenth and to the two succeeding Congresses (January 3, 2013-present).</biography>
+        <phone>202-225-5936</phone>
+        <fax>null</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn HOB</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://jeffries.house.gov</website>
+        <contact_page>https://jeffries.house.gov/contact/email-me</contact_page>
+        <facebook_url>https://facebook.com/RepHakeemJeffries</facebook_url>
+        <twitter_handle>RepJeffries</twitter_handle>
+        <twitter_url>https://twitter.com/RepJeffries</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/hakeem-jeffries.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>New York</state_name>
+        <state_name_slug>new-york</state_name_slug>
+        <state_code>NY</state_code>
+        <state_code_slug>ny</state_code_slug>
         <district>7</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -15253,11 +15308,11 @@
         <google_entity_id>kg:/m/03sjbt</google_entity_id>
         <title>representative</title>
         <party>democrat</party>
-        <name>Nydia Velázquez</name>
+        <name>Nydia Velazquez</name>
         <name_slug>nydia-velazquez</name_slug>
         <first_name>Nydia</first_name>
         <middle_name>M.</middle_name>
-        <last_name>Velázquez</last_name>
+        <last_name>Velazquez</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>NEE-dee-uh vuh-LASS-kess</pronunciation>
@@ -15399,61 +15454,6 @@
         <twitter_handle>RepJerryNadler</twitter_handle>
         <twitter_url>https://twitter.com/RepJerryNadler</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/jerrold-nadler.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>New York</state_name>
-        <state_name_slug>new-york</state_name_slug>
-        <state_code>NY</state_code>
-        <state_code_slug>ny</state_code_slug>
-        <district>8</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>J000294</bioguide>
-        <thomas>2149</thomas>
-        <opensecrets>N00033640</opensecrets>
-        <votesmart>55285</votesmart>
-        <fec>H2NY10092</fec>
-        <maplight>1785</maplight>
-        <wikidata>Q5640425</wikidata>
-        <google_entity_id>kg:/m/025_74m</google_entity_id>
-        <title>representative</title>
-        <party>democrat</party>
-        <name>Hakeem Jeffries</name>
-        <name_slug>hakeem-jeffries</name_slug>
-        <first_name>Hakeem</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Jeffries</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>hah-KEEM JEFF-reez</pronunciation>
-        <gender>male</gender>
-        <ethnicity>african-american</ethnicity>
-        <religion>baptist</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1970-08-04</date_of_birth>
-        <entered_office>2013-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Hakeem Jeffries, a Representative from New York; born in Brooklyn, Kings County, N.Y., August 4, 1970; B.A., Binghamton University, Vestal, N.Y., 1992; M.P.P., Georgetown University, Washington, D.C., 1994; J.D., New York University, New York, N.Y., 1997; law clerk, United States District Court for the Southern District of New York, 1997-1998; lawyer, private practice; member of the New York state assembly, 2007-2012; elected as a Democrat to the One Hundred Thirteenth and to the two succeeding Congresses (January 3, 2013-present).</biography>
-        <phone>202-225-5936</phone>
-        <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn HOB</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://jeffries.house.gov</website>
-        <contact_page>https://jeffries.house.gov/contact/email-me</contact_page>
-        <facebook_url>https://facebook.com/RepHakeemJeffries</facebook_url>
-        <twitter_handle>RepJeffries</twitter_handle>
-        <twitter_url>https://twitter.com/RepJeffries</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/hakeem-jeffries.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>New York</state_name>
@@ -16285,6 +16285,61 @@
         <state_name_slug>new-york</state_name_slug>
         <state_code>NY</state_code>
         <state_code_slug>ny</state_code_slug>
+        <district>26</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>H001038</bioguide>
+        <thomas>1794</thomas>
+        <opensecrets>N00027060</opensecrets>
+        <votesmart>23127</votesmart>
+        <fec>H4NY27076</fec>
+        <maplight>647</maplight>
+        <wikidata>Q505581</wikidata>
+        <google_entity_id>kg:/m/04fc7g</google_entity_id>
+        <title>representative</title>
+        <party>democrat</party>
+        <name>Brian Higgins</name>
+        <name_slug>brian-higgins</name_slug>
+        <first_name>Brian</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Higgins</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>BRAHY-uhn HIG-inz</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>roman-catholic</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1959-10-06</date_of_birth>
+        <entered_office>2005-01-04</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Brian Higgins, a Representative from New York; born in Buffalo, Erie County, N.Y., October 6, 1959; B.A., Buffalo State College, Buffalo, N.Y., 1984; M.A., Buffalo State College, Buffalo, N.Y., 1985; M.P.A., Harvard University, Cambridge, Mass., 1996; lecturer, Buffalo State College, Buffalo, N.Y.; member of the Buffalo, N.Y. common council, 1988-1994; member of the New York state assembly, 1999-2004; elected as a Democrat to the One Hundred Ninth and to the six succeeding Congresses (January 3, 2005-present).</biography>
+        <phone>202-225-3306</phone>
+        <fax>202-226-0347</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn HOB</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://higgins.house.gov</website>
+        <contact_page>higgins.house.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/RepBrianHiggins</facebook_url>
+        <twitter_handle>RepBrianHiggins</twitter_handle>
+        <twitter_url>https://twitter.com/RepBrianHiggins</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/brian-higgins.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>New York</state_name>
+        <state_name_slug>new-york</state_name_slug>
+        <state_code>NY</state_code>
+        <state_code_slug>ny</state_code_slug>
         <district>27</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -16389,6 +16444,116 @@
         <twitter_handle>RepSteveChabot</twitter_handle>
         <twitter_url>https://twitter.com/RepSteveChabot</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/steve-chabot.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Ohio</state_name>
+        <state_name_slug>ohio</state_name_slug>
+        <state_code>OH</state_code>
+        <state_code_slug>oh</state_code_slug>
+        <district>2</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>W000815</bioguide>
+        <thomas>2152</thomas>
+        <opensecrets>N00033310</opensecrets>
+        <votesmart>135326</votesmart>
+        <fec>H2OH02085</fec>
+        <maplight>1788</maplight>
+        <wikidata>Q892413</wikidata>
+        <google_entity_id>kg:/m/0j63b7n</google_entity_id>
+        <title>representative</title>
+        <party>republican</party>
+        <name>Brad Wenstrup</name>
+        <name_slug>brad-wenstrup</name_slug>
+        <first_name>Brad</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Wenstrup</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>BRADD WHEN-stroop [OO as in good]</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>roman-catholic</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1958-06-17</date_of_birth>
+        <entered_office>2013-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Brad Wenstrup, a Representative from Ohio; born in Cincinnati, Hamilton County, Ohio, June 17, 1958; graduated from St. Xavier High School, Finneytown, Ohio, 1976; B.A., University of Cincinnati, Cincinnati, Ohio, 1980; B.S. and D.P.M., William M. Scholl College of Podiatric Medicine, Chicago, Ill., 1985; United States Army Reserve, 1998-present; physician; unsuccessful candidate for mayor of Cincinnati, Ohio, in 2009; elected as a Republican to the One Hundred Thirteenth and to the two succeeding Congresses (January 3, 2013-present).</biography>
+        <phone>202-225-3164</phone>
+        <fax>202-225-1992</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn HOB</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://wenstrup.house.gov</website>
+        <contact_page>https://wenstrup.house.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/RepBradWenstrup</facebook_url>
+        <twitter_handle>RepBradWenstrup</twitter_handle>
+        <twitter_url>https://twitter.com/RepBradWenstrup</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/brad-wenstrup.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Ohio</state_name>
+        <state_name_slug>ohio</state_name_slug>
+        <state_code>OH</state_code>
+        <state_code_slug>oh</state_code_slug>
+        <district>3</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>B001281</bioguide>
+        <thomas>2153</thomas>
+        <opensecrets>N00033904</opensecrets>
+        <votesmart>2427</votesmart>
+        <fec>H2OH03125</fec>
+        <maplight>1789</maplight>
+        <wikidata>Q976417</wikidata>
+        <google_entity_id>kg:/m/03lcwb</google_entity_id>
+        <title>representative</title>
+        <party>democrat</party>
+        <name>Joyce Beatty</name>
+        <name_slug>joyce-beatty</name_slug>
+        <first_name>Joyce</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Beatty</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>JOYS BAY-tee</pronunciation>
+        <gender>female</gender>
+        <ethnicity>african-american</ethnicity>
+        <religion>baptist</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1950-03-12</date_of_birth>
+        <entered_office>2013-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Joyce Beatty, a Representative from Ohio; born in Dayton, Montgomery County, Ohio, March 12, 1950; graduated from Nettie Lee Roth High School, Dayton, Ohio; B.A., Central State University, Wilberforce, Ohio, 1972; M.S., Wright State University, Fairborn, Ohio, 1974; attended University of Cincinnati, Cincinnati, Ohio; Montgomery County, Ohio, executive director, human services; professor, Sinclair Community College, Dayton, Ohio, 1975-1983; businesswoman; member of the Ohio state house of representatives, 1999-2008; delegate to the Democratic National Convention, 1996, 2000, 2004, 2008, 2012; administrator, The Ohio State University, Columbus, Ohio, 2008-2012; elected as a Democrat to the One Hundred Thirteenth and to the two succeeding Congresses (January 3, 2013-present).</biography>
+        <phone>202-225-4324</phone>
+        <fax>202-225-1984</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn HOB</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://beatty.house.gov</website>
+        <contact_page>https://beatty.house.gov/contact/email-me</contact_page>
+        <facebook_url>https://facebook.com/pagesJoyce-Beatty/656884781042633</facebook_url>
+        <twitter_handle>RepBeatty</twitter_handle>
+        <twitter_url>https://twitter.com/RepBeatty</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/joyce-beatty.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Ohio</state_name>
@@ -18701,61 +18866,6 @@
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/david-cicilline.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>South Carolina</state_name>
-        <state_name_slug>south-carolina</state_name_slug>
-        <state_code>SC</state_code>
-        <state_code_slug>sc</state_code_slug>
-        <district>1</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>M000194</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>null</opensecrets>
-        <votesmart>null</votesmart>
-        <fec>H0SC01394</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>representative</title>
-        <party>republican</party>
-        <name>Nancy Mace</name>
-        <name_slug>nancy-mace</name_slug>
-        <first_name>Nancy</first_name>
-        <middle_name>Ruth</middle_name>
-        <last_name>Mace</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>nan-cy mace</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>christian</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1977-12-04</date_of_birth>
-        <entered_office>2021-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Mace graduated from The Citadel, the Military College of South Carolina, and received a master's degree in mass communication from the University of Georgia. She worked in public relations, in marketing, and as a coalitions director on Donald Trump's 2016 campaign. In 2014, she began working in commercial real estate.</biography>
-        <phone>202-225-3176</phone>
-        <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>212 Cannon House Office Building Washington DC 20515-4001</address_complete>
-        <address_number>212</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Cannon</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>House Office Building Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://mace.house.gov</website>
-        <contact_page>https://mace.house.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/RepNancyMace</facebook_url>
-        <twitter_handle>RepNancyMace</twitter_handle>
-        <twitter_url>https://twitter.com/RepNancyMace</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/nancy-mace.jpg</photo_url>
-    </councilor>
-    <councilor>
         <state_name>Rhode Island</state_name>
         <state_name_slug>rhode-island</state_name_slug>
         <state_code>RI</state_code>
@@ -18809,6 +18919,61 @@
         <twitter_handle>jimlangevin</twitter_handle>
         <twitter_url>https://twitter.com/jimlangevin</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/jim-langevin.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>South Carolina</state_name>
+        <state_name_slug>south-carolina</state_name_slug>
+        <state_code>SC</state_code>
+        <state_code_slug>sc</state_code_slug>
+        <district>1</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>M000194</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>null</opensecrets>
+        <votesmart>null</votesmart>
+        <fec>H0SC01394</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>representative</title>
+        <party>republican</party>
+        <name>Nancy Mace</name>
+        <name_slug>nancy-mace</name_slug>
+        <first_name>Nancy</first_name>
+        <middle_name>Ruth</middle_name>
+        <last_name>Mace</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>nan-cy mace</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>christian</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1977-12-04</date_of_birth>
+        <entered_office>2021-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Mace graduated from The Citadel, the Military College of South Carolina, and received a master's degree in mass communication from the University of Georgia. She worked in public relations, in marketing, and as a coalitions director on Donald Trump's 2016 campaign. In 2014, she began working in commercial real estate.</biography>
+        <phone>202-225-3176</phone>
+        <fax>null</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>212 Cannon House Office Building Washington DC 20515-4001</address_complete>
+        <address_number>212</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Cannon</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>House Office Building Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://mace.house.gov</website>
+        <contact_page>https://mace.house.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/RepNancyMace</facebook_url>
+        <twitter_handle>RepNancyMace</twitter_handle>
+        <twitter_url>https://twitter.com/RepNancyMace</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/nancy-mace.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>South Carolina</state_name>
@@ -18870,61 +19035,6 @@
         <state_name_slug>south-carolina</state_name_slug>
         <state_code>SC</state_code>
         <state_code_slug>sc</state_code_slug>
-        <district>4</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>T000480</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>N00042715</opensecrets>
-        <votesmart>168923</votesmart>
-        <fec>H8SC04250</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>representative</title>
-        <party>republican</party>
-        <name>William Timmons</name>
-        <name_slug>william-timmons</name_slug>
-        <first_name>William</first_name>
-        <middle_name>R.</middle_name>
-        <last_name>Timmons</last_name>
-        <name_suffix>IV</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>WIL-yem TI-menz</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1984-04-30</date_of_birth>
-        <entered_office>2019-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>William Timmons is the Republican representative from South Carolina's 4th Congressional District in the U.S. House. Timmons was elected to the office on November 6, 2018.</biography>
-        <phone>202-225-6030</phone>
-        <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>313 Cannon HOB, Washington, DC 20003</address_complete>
-        <address_number>313</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Cannon HOB</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20003</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://timmons.house.gov</website>
-        <contact_page>https://timmons.house.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/HouseRepublicans</facebook_url>
-        <twitter_handle>housegop</twitter_handle>
-        <twitter_url>https://twitter.com/housegop</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/william-timmons.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>South Carolina</state_name>
-        <state_name_slug>south-carolina</state_name_slug>
-        <state_code>SC</state_code>
-        <state_code_slug>sc</state_code_slug>
         <district>3</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -18980,6 +19090,61 @@
         <state_name_slug>south-carolina</state_name_slug>
         <state_code>SC</state_code>
         <state_code_slug>sc</state_code_slug>
+        <district>4</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>T000480</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00042715</opensecrets>
+        <votesmart>168923</votesmart>
+        <fec>H8SC04250</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>representative</title>
+        <party>republican</party>
+        <name>William Timmons</name>
+        <name_slug>william-timmons</name_slug>
+        <first_name>William</first_name>
+        <middle_name>R.</middle_name>
+        <last_name>Timmons</last_name>
+        <name_suffix>IV</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>WIL-yem TI-menz</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1984-04-30</date_of_birth>
+        <entered_office>2019-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>William Timmons is the Republican representative from South Carolina's 4th Congressional District in the U.S. House. Timmons was elected to the office on November 6, 2018.</biography>
+        <phone>202-225-6030</phone>
+        <fax>null</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>313 Cannon HOB, Washington, DC 20003</address_complete>
+        <address_number>313</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Cannon HOB</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20003</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://timmons.house.gov</website>
+        <contact_page>https://timmons.house.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/william-timmons.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>South Carolina</state_name>
+        <state_name_slug>south-carolina</state_name_slug>
+        <state_code>SC</state_code>
+        <state_code_slug>sc</state_code_slug>
         <district>5</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -19029,171 +19194,6 @@
         <twitter_handle>RepRalphNorman</twitter_handle>
         <twitter_url>https://twitter.com/RepRalphNorman</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ralph-norman.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Ohio</state_name>
-        <state_name_slug>ohio</state_name_slug>
-        <state_code>OH</state_code>
-        <state_code_slug>oh</state_code_slug>
-        <district>2</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>W000815</bioguide>
-        <thomas>2152</thomas>
-        <opensecrets>N00033310</opensecrets>
-        <votesmart>135326</votesmart>
-        <fec>H2OH02085</fec>
-        <maplight>1788</maplight>
-        <wikidata>Q892413</wikidata>
-        <google_entity_id>kg:/m/0j63b7n</google_entity_id>
-        <title>representative</title>
-        <party>republican</party>
-        <name>Brad Wenstrup</name>
-        <name_slug>brad-wenstrup</name_slug>
-        <first_name>Brad</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Wenstrup</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>BRADD WHEN-stroop [OO as in good]</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1958-06-17</date_of_birth>
-        <entered_office>2013-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Brad Wenstrup, a Representative from Ohio; born in Cincinnati, Hamilton County, Ohio, June 17, 1958; graduated from St. Xavier High School, Finneytown, Ohio, 1976; B.A., University of Cincinnati, Cincinnati, Ohio, 1980; B.S. and D.P.M., William M. Scholl College of Podiatric Medicine, Chicago, Ill., 1985; United States Army Reserve, 1998-present; physician; unsuccessful candidate for mayor of Cincinnati, Ohio, in 2009; elected as a Republican to the One Hundred Thirteenth and to the two succeeding Congresses (January 3, 2013-present).</biography>
-        <phone>202-225-3164</phone>
-        <fax>202-225-1992</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn HOB</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://wenstrup.house.gov</website>
-        <contact_page>https://wenstrup.house.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/RepBradWenstrup</facebook_url>
-        <twitter_handle>RepBradWenstrup</twitter_handle>
-        <twitter_url>https://twitter.com/RepBradWenstrup</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/brad-wenstrup.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Ohio</state_name>
-        <state_name_slug>ohio</state_name_slug>
-        <state_code>OH</state_code>
-        <state_code_slug>oh</state_code_slug>
-        <district>3</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>B001281</bioguide>
-        <thomas>2153</thomas>
-        <opensecrets>N00033904</opensecrets>
-        <votesmart>2427</votesmart>
-        <fec>H2OH03125</fec>
-        <maplight>1789</maplight>
-        <wikidata>Q976417</wikidata>
-        <google_entity_id>kg:/m/03lcwb</google_entity_id>
-        <title>representative</title>
-        <party>democrat</party>
-        <name>Joyce Beatty</name>
-        <name_slug>joyce-beatty</name_slug>
-        <first_name>Joyce</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Beatty</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>JOYS BAY-tee</pronunciation>
-        <gender>female</gender>
-        <ethnicity>african-american</ethnicity>
-        <religion>baptist</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1950-03-12</date_of_birth>
-        <entered_office>2013-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Joyce Beatty, a Representative from Ohio; born in Dayton, Montgomery County, Ohio, March 12, 1950; graduated from Nettie Lee Roth High School, Dayton, Ohio; B.A., Central State University, Wilberforce, Ohio, 1972; M.S., Wright State University, Fairborn, Ohio, 1974; attended University of Cincinnati, Cincinnati, Ohio; Montgomery County, Ohio, executive director, human services; professor, Sinclair Community College, Dayton, Ohio, 1975-1983; businesswoman; member of the Ohio state house of representatives, 1999-2008; delegate to the Democratic National Convention, 1996, 2000, 2004, 2008, 2012; administrator, The Ohio State University, Columbus, Ohio, 2008-2012; elected as a Democrat to the One Hundred Thirteenth and to the two succeeding Congresses (January 3, 2013-present).</biography>
-        <phone>202-225-4324</phone>
-        <fax>202-225-1984</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn HOB</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://beatty.house.gov</website>
-        <contact_page>https://beatty.house.gov/contact/email-me</contact_page>
-        <facebook_url>https://facebook.com/pagesJoyce-Beatty/656884781042633</facebook_url>
-        <twitter_handle>RepBeatty</twitter_handle>
-        <twitter_url>https://twitter.com/RepBeatty</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/joyce-beatty.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>New York</state_name>
-        <state_name_slug>new-york</state_name_slug>
-        <state_code>NY</state_code>
-        <state_code_slug>ny</state_code_slug>
-        <district>26</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>H001038</bioguide>
-        <thomas>1794</thomas>
-        <opensecrets>N00027060</opensecrets>
-        <votesmart>23127</votesmart>
-        <fec>H4NY27076</fec>
-        <maplight>647</maplight>
-        <wikidata>Q505581</wikidata>
-        <google_entity_id>kg:/m/04fc7g</google_entity_id>
-        <title>representative</title>
-        <party>democrat</party>
-        <name>Brian Higgins</name>
-        <name_slug>brian-higgins</name_slug>
-        <first_name>Brian</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Higgins</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>BRAHY-uhn HIG-inz</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1959-10-06</date_of_birth>
-        <entered_office>2005-01-04</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Brian Higgins, a Representative from New York; born in Buffalo, Erie County, N.Y., October 6, 1959; B.A., Buffalo State College, Buffalo, N.Y., 1984; M.A., Buffalo State College, Buffalo, N.Y., 1985; M.P.A., Harvard University, Cambridge, Mass., 1996; lecturer, Buffalo State College, Buffalo, N.Y.; member of the Buffalo, N.Y. common council, 1988-1994; member of the New York state assembly, 1999-2004; elected as a Democrat to the One Hundred Ninth and to the six succeeding Congresses (January 3, 2005-present).</biography>
-        <phone>202-225-3306</phone>
-        <fax>202-226-0347</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn HOB</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://higgins.house.gov</website>
-        <contact_page>higgins.house.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/RepBrianHiggins</facebook_url>
-        <twitter_handle>RepBrianHiggins</twitter_handle>
-        <twitter_url>https://twitter.com/RepBrianHiggins</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/brian-higgins.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>South Carolina</state_name>
@@ -19365,61 +19365,6 @@
         <state_name_slug>tennessee</state_name_slug>
         <state_code>TN</state_code>
         <state_code_slug>tn</state_code_slug>
-        <district>2</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>B001309</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>N00041594</opensecrets>
-        <votesmart>24379</votesmart>
-        <fec>H8TN02119</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>representative</title>
-        <party>republican</party>
-        <name>Tim Burchett</name>
-        <name_slug>tim-burchett</name_slug>
-        <first_name>Tim</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Burchett</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>TIM BUR-chet</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1964-08-25</date_of_birth>
-        <entered_office>2019-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Tim Burchett is the Republican representative from Tennessee's 2nd Congressional District in the U.S. House. Burchett was elected to the office on November 6, 2018.</biography>
-        <phone>202-225-5435</phone>
-        <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>227 Longworth HOB, Washington, DC 20003</address_complete>
-        <address_number>227</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Longworth HOB</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20003</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://burchett.house.gov</website>
-        <contact_page>https://burchett.house.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/HouseRepublicans</facebook_url>
-        <twitter_handle>housegop</twitter_handle>
-        <twitter_url>https://twitter.com/housegop</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/tim-burchett.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Tennessee</state_name>
-        <state_name_slug>tennessee</state_name_slug>
-        <state_code>TN</state_code>
-        <state_code_slug>tn</state_code_slug>
         <district>1</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -19469,6 +19414,61 @@
         <twitter_handle>RepHarshbarger</twitter_handle>
         <twitter_url>https://twitter.com/RepHarshbarger</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/diana-harshbarger.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Tennessee</state_name>
+        <state_name_slug>tennessee</state_name_slug>
+        <state_code>TN</state_code>
+        <state_code_slug>tn</state_code_slug>
+        <district>2</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>B001309</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00041594</opensecrets>
+        <votesmart>24379</votesmart>
+        <fec>H8TN02119</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>representative</title>
+        <party>republican</party>
+        <name>Tim Burchett</name>
+        <name_slug>tim-burchett</name_slug>
+        <first_name>Tim</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Burchett</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>TIM BUR-chet</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1964-08-25</date_of_birth>
+        <entered_office>2019-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Tim Burchett is the Republican representative from Tennessee's 2nd Congressional District in the U.S. House. Burchett was elected to the office on November 6, 2018.</biography>
+        <phone>202-225-5435</phone>
+        <fax>null</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>227 Longworth HOB, Washington, DC 20003</address_complete>
+        <address_number>227</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Longworth HOB</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20003</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://burchett.house.gov</website>
+        <contact_page>https://burchett.house.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/tim-burchett.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Tennessee</state_name>
@@ -20135,61 +20135,6 @@
         <state_name_slug>texas</state_name_slug>
         <state_code>TX</state_code>
         <state_code_slug>tx</state_code_slug>
-        <district>6</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>W000827</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>N00042240</opensecrets>
-        <votesmart>78666</votesmart>
-        <fec>H8TX06233</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>representative</title>
-        <party>republican</party>
-        <name>Ronald Wright</name>
-        <name_slug>ronald-wright</name_slug>
-        <first_name>Ronald</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Wright</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Ron</goes_by>
-        <pronunciation>RAWN WRYT</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>christian</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1953-04-08</date_of_birth>
-        <entered_office>2019-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Ronald Jack Wright (born April 8, 1953) is an American politician from the state of Texas. He is the member-elect to the United States House of Representatives. Wright served on the Arlington City Council and as mayor pro-tem of Arlington. He then served as chief of staff and district director for Joe Barton. Wright was appointed Tarrant County Tax Assessor-Collector in 2011.</biography>
-        <phone>202-225-2002</phone>
-        <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn HOB</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://wright.house.gov</website>
-        <contact_page>https://wright.house.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/HouseRepublicans</facebook_url>
-        <twitter_handle>housegop</twitter_handle>
-        <twitter_url>https://twitter.com/housegop</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ronald-wright.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Texas</state_name>
-        <state_name_slug>texas</state_name_slug>
-        <state_code>TX</state_code>
-        <state_code_slug>tx</state_code_slug>
         <district>7</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -20239,6 +20184,61 @@
         <twitter_handle>housedemocrats</twitter_handle>
         <twitter_url>https://twitter.com/housedemocrats</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/lizzie-fletcher.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Texas</state_name>
+        <state_name_slug>texas</state_name_slug>
+        <state_code>TX</state_code>
+        <state_code_slug>tx</state_code_slug>
+        <district>6</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>W000827</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00042240</opensecrets>
+        <votesmart>78666</votesmart>
+        <fec>H8TX06233</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>representative</title>
+        <party>republican</party>
+        <name>Ronald Wright</name>
+        <name_slug>ronald-wright</name_slug>
+        <first_name>Ronald</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Wright</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Ron</goes_by>
+        <pronunciation>RAWN WRYT</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>christian</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1953-04-08</date_of_birth>
+        <entered_office>2019-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Ronald Jack Wright (born April 8, 1953) is an American politician from the state of Texas. He is the member-elect to the United States House of Representatives. Wright served on the Arlington City Council and as mayor pro-tem of Arlington. He then served as chief of staff and district director for Joe Barton. Wright was appointed Tarrant County Tax Assessor-Collector in 2011.</biography>
+        <phone>202-225-2002</phone>
+        <fax>null</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn HOB</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://wright.house.gov</website>
+        <contact_page>https://wright.house.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ronald-wright.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Texas</state_name>
@@ -20643,11 +20643,11 @@
         <google_entity_id>null</google_entity_id>
         <title>representative</title>
         <party>democrat</party>
-        <name>Vicente González</name>
+        <name>Vicente Gonzalez</name>
         <name_slug>vicente-gonzalez</name_slug>
         <first_name>Vicente</first_name>
         <middle_name>null</middle_name>
-        <last_name>González</last_name>
+        <last_name>Gonzalez</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>vi-SEN-tay gon-ZAH-lez</pronunciation>
@@ -20960,61 +20960,6 @@
         <state_name_slug>texas</state_name_slug>
         <state_code>TX</state_code>
         <state_code_slug>tx</state_code_slug>
-        <district>22</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>N000026</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>null</opensecrets>
-        <votesmart>188334</votesmart>
-        <fec>H0TX22302</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>representative</title>
-        <party>republican</party>
-        <name>Troy Nehls</name>
-        <name_slug>troy-nehls</name_slug>
-        <first_name>Troy</first_name>
-        <middle_name>E.</middle_name>
-        <last_name>Nehls</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>troy nehls</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>christian</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1968-04-07</date_of_birth>
-        <entered_office>2021-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Nehls graduated from Liberty University and received a master's degree in criminal justice from the University of Houston Downtown. He served in the U.S. Army Reserve for 21 years. At the time of his 2020 campaign, Nehls had worked in law enforcement for over 25 years.</biography>
-        <phone>202-225-5951</phone>
-        <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>1104 Longworth House Office Building Washington DC 20515-4322</address_complete>
-        <address_number>1104</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Longworth</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>House Office Building Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://nehls.house.gov</website>
-        <contact_page>https://nehls.house.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/RepTroyNehls</facebook_url>
-        <twitter_handle>RepTroyNehls</twitter_handle>
-        <twitter_url>https://twitter.com/RepTroyNehls</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/troy-nehls.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Texas</state_name>
-        <state_name_slug>texas</state_name_slug>
-        <state_code>TX</state_code>
-        <state_code_slug>tx</state_code_slug>
         <district>21</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -21070,41 +21015,41 @@
         <state_name_slug>texas</state_name_slug>
         <state_code>TX</state_code>
         <state_code_slug>tx</state_code_slug>
-        <district>24</district>
+        <district>22</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
-        <bioguide>V000134</bioguide>
+        <bioguide>N000026</bioguide>
         <thomas>null</thomas>
         <opensecrets>null</opensecrets>
-        <votesmart>79150</votesmart>
-        <fec>H0TX24209</fec>
+        <votesmart>188334</votesmart>
+        <fec>H0TX22302</fec>
         <maplight>null</maplight>
         <wikidata>null</wikidata>
         <google_entity_id>null</google_entity_id>
         <title>representative</title>
         <party>republican</party>
-        <name>Beth Van Duyne</name>
-        <name_slug>beth-van-duyne</name_slug>
-        <first_name>Beth</first_name>
-        <middle_name>Ann</middle_name>
-        <last_name>Van Duyne</last_name>
+        <name>Troy Nehls</name>
+        <name_slug>troy-nehls</name_slug>
+        <first_name>Troy</first_name>
+        <middle_name>E.</middle_name>
+        <last_name>Nehls</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>beth van duyne</pronunciation>
-        <gender>female</gender>
+        <pronunciation>troy nehls</pronunciation>
+        <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>episcopalian</religion>
+        <religion>christian</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1970-11-16</date_of_birth>
+        <date_of_birth>1968-04-07</date_of_birth>
         <entered_office>2021-01-03</entered_office>
         <term_end>2023-01-03</term_end>
-        <biography>Van Duyne received a bachelor's degree in government and law from Cornell University. She worked as a consultant, as president of BCI Marketing Group, and as a regional administrator for the U.S. Department of Housing and Urban Development in the Trump administration.</biography>
-        <phone>202-225-6605</phone>
+        <biography>Nehls graduated from Liberty University and received a master's degree in criminal justice from the University of Houston Downtown. He served in the U.S. Army Reserve for 21 years. At the time of his 2020 campaign, Nehls had worked in law enforcement for over 25 years.</biography>
+        <phone>202-225-5951</phone>
         <fax>null</fax>
         <latitude>38.8863235</latitude>
         <longitude>-77.011373</longitude>
-        <address_complete>1337 Longworth House Office Building Washington DC 20515-4324</address_complete>
-        <address_number>1337</address_number>
+        <address_complete>1104 Longworth House Office Building Washington DC 20515-4322</address_complete>
+        <address_number>1104</address_number>
         <address_prefix>null</address_prefix>
         <address_street>Longworth</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
@@ -21113,12 +21058,12 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>https://vanduyne.house.gov</website>
-        <contact_page>https://vanduyne.house.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/RepBethVanDuyne</facebook_url>
-        <twitter_handle>RepBethVanDuyne</twitter_handle>
-        <twitter_url>https://twitter.com/RepBethVanDuyne</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/beth-van-duyne.jpg</photo_url>
+        <website>https://nehls.house.gov</website>
+        <contact_page>https://nehls.house.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/RepTroyNehls</facebook_url>
+        <twitter_handle>RepTroyNehls</twitter_handle>
+        <twitter_url>https://twitter.com/RepTroyNehls</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/troy-nehls.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Texas</state_name>
@@ -21174,6 +21119,61 @@
         <twitter_handle>RepTonyGonzales</twitter_handle>
         <twitter_url>https://twitter.com/RepTonyGonzales</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ernest-gonzales.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Texas</state_name>
+        <state_name_slug>texas</state_name_slug>
+        <state_code>TX</state_code>
+        <state_code_slug>tx</state_code_slug>
+        <district>24</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>V000134</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>null</opensecrets>
+        <votesmart>79150</votesmart>
+        <fec>H0TX24209</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>representative</title>
+        <party>republican</party>
+        <name>Beth Van Duyne</name>
+        <name_slug>beth-van-duyne</name_slug>
+        <first_name>Beth</first_name>
+        <middle_name>Ann</middle_name>
+        <last_name>Van Duyne</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>beth van duyne</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>episcopalian</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1970-11-16</date_of_birth>
+        <entered_office>2021-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Van Duyne received a bachelor's degree in government and law from Cornell University. She worked as a consultant, as president of BCI Marketing Group, and as a regional administrator for the U.S. Department of Housing and Urban Development in the Trump administration.</biography>
+        <phone>202-225-6605</phone>
+        <fax>null</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>1337 Longworth House Office Building Washington DC 20515-4324</address_complete>
+        <address_number>1337</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Longworth</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>House Office Building Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://vanduyne.house.gov</website>
+        <contact_page>https://vanduyne.house.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/RepBethVanDuyne</facebook_url>
+        <twitter_handle>RepBethVanDuyne</twitter_handle>
+        <twitter_url>https://twitter.com/RepBethVanDuyne</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/beth-van-duyne.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Texas</state_name>
@@ -22001,61 +22001,6 @@
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/john-curtis.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Utah</state_name>
-        <state_name_slug>utah</state_name_slug>
-        <state_code>UT</state_code>
-        <state_code_slug>ut</state_code_slug>
-        <district>4</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>O000086</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>null</opensecrets>
-        <votesmart>null</votesmart>
-        <fec>H0UT04076</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>representative</title>
-        <party>republican</party>
-        <name>Clarence Owens</name>
-        <name_slug>clarence-owens</name_slug>
-        <first_name>Clarence</first_name>
-        <middle_name>Burgess</middle_name>
-        <last_name>Owens</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Burgess</goes_by>
-        <pronunciation>buh-jus oh-wens</pronunciation>
-        <gender>male</gender>
-        <ethnicity>african-american</ethnicity>
-        <religion>mormon</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1951-08-02</date_of_birth>
-        <entered_office>2021-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Owens received a bachelor's degree in biology and chemistry from the University of Miami where he played football. He played professional football with the New York Jets and Oakland Raiders including as part of the Raiders' 1981 Super Bowl Championship team. Owens later founded Second Chance 4 Youth, a nonprofit supporting incarcerated juveniles.</biography>
-        <phone>202-225-3011</phone>
-        <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>1039 Longworth House Office Building Washington DC 20515-4404</address_complete>
-        <address_number>1039</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Longworth</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>House Office Building Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://owens.house.gov</website>
-        <contact_page>https://owens.house.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/CongressmanBurgessOwens</facebook_url>
-        <twitter_handle>RepBurgessOwens</twitter_handle>
-        <twitter_url>https://twitter.com/RepBurgessOwens</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/clarence-owens.jpg</photo_url>
-    </councilor>
-    <councilor>
         <state_name>Virginia</state_name>
         <state_name_slug>virginia</state_name_slug>
         <state_code>VA</state_code>
@@ -22109,6 +22054,61 @@
         <twitter_handle>RobWittman</twitter_handle>
         <twitter_url>https://twitter.com/RobWittman</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/robert-wittman.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Utah</state_name>
+        <state_name_slug>utah</state_name_slug>
+        <state_code>UT</state_code>
+        <state_code_slug>ut</state_code_slug>
+        <district>4</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>O000086</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>null</opensecrets>
+        <votesmart>null</votesmart>
+        <fec>H0UT04076</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>representative</title>
+        <party>republican</party>
+        <name>Clarence Owens</name>
+        <name_slug>clarence-owens</name_slug>
+        <first_name>Clarence</first_name>
+        <middle_name>Burgess</middle_name>
+        <last_name>Owens</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Burgess</goes_by>
+        <pronunciation>buh-jus oh-wens</pronunciation>
+        <gender>male</gender>
+        <ethnicity>african-american</ethnicity>
+        <religion>mormon</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1951-08-02</date_of_birth>
+        <entered_office>2021-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Owens received a bachelor's degree in biology and chemistry from the University of Miami where he played football. He played professional football with the New York Jets and Oakland Raiders including as part of the Raiders' 1981 Super Bowl Championship team. Owens later founded Second Chance 4 Youth, a nonprofit supporting incarcerated juveniles.</biography>
+        <phone>202-225-3011</phone>
+        <fax>null</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>1039 Longworth House Office Building Washington DC 20515-4404</address_complete>
+        <address_number>1039</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Longworth</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>House Office Building Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://owens.house.gov</website>
+        <contact_page>https://owens.house.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/CongressmanBurgessOwens</facebook_url>
+        <twitter_handle>RepBurgessOwens</twitter_handle>
+        <twitter_url>https://twitter.com/RepBurgessOwens</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/clarence-owens.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Virginia</state_name>
@@ -22555,61 +22555,6 @@
         <state_name_slug>virginia</state_name_slug>
         <state_code>VA</state_code>
         <state_code_slug>va</state_code_slug>
-        <district>10</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>W000825</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>N00041002</opensecrets>
-        <votesmart>147013</votesmart>
-        <fec>H8VA10106</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>representative</title>
-        <party>democrat</party>
-        <name>Jennifer Wexton</name>
-        <name_slug>jennifer-wexton</name_slug>
-        <first_name>Jennifer</first_name>
-        <middle_name>T.</middle_name>
-        <last_name>Wexton</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>JE-ni-fer WEKS-ten</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1968-05-27</date_of_birth>
-        <entered_office>2019-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Wexton graduated from the University of Maryland in College Park and earned her JD from the College of William and Mary in Williamsburg. She worked as an assistant commonwealth's attorney for Loudoun County before going into private practice. In 2010, she became a substitute judge in the district court.</biography>
-        <phone>202-225-5136</phone>
-        <fax>null</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn HOB</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://wexton.house.gov</website>
-        <contact_page>https://wexton.house.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/HouseDemocrats</facebook_url>
-        <twitter_handle>housedemocrats</twitter_handle>
-        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/jennifer-wexton.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Virginia</state_name>
-        <state_name_slug>virginia</state_name_slug>
-        <state_code>VA</state_code>
-        <state_code_slug>va</state_code_slug>
         <district>11</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -22659,6 +22604,61 @@
         <twitter_handle>GerryConnolly</twitter_handle>
         <twitter_url>https://twitter.com/GerryConnolly</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/gerald-connolly.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Virginia</state_name>
+        <state_name_slug>virginia</state_name_slug>
+        <state_code>VA</state_code>
+        <state_code_slug>va</state_code_slug>
+        <district>10</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>W000825</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00041002</opensecrets>
+        <votesmart>147013</votesmart>
+        <fec>H8VA10106</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>representative</title>
+        <party>democrat</party>
+        <name>Jennifer Wexton</name>
+        <name_slug>jennifer-wexton</name_slug>
+        <first_name>Jennifer</first_name>
+        <middle_name>T.</middle_name>
+        <last_name>Wexton</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>JE-ni-fer WEKS-ten</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1968-05-27</date_of_birth>
+        <entered_office>2019-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Wexton graduated from the University of Maryland in College Park and earned her JD from the College of William and Mary in Williamsburg. She worked as an assistant commonwealth's attorney for Loudoun County before going into private practice. In 2010, she became a substitute judge in the district court.</biography>
+        <phone>202-225-5136</phone>
+        <fax>null</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn HOB</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://wexton.house.gov</website>
+        <contact_page>https://wexton.house.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/HouseDemocrats</facebook_url>
+        <twitter_handle>housedemocrats</twitter_handle>
+        <twitter_url>https://twitter.com/housedemocrats</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/jennifer-wexton.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Vermont</state_name>
@@ -23545,6 +23545,61 @@
         <state_name_slug>wisconsin</state_name_slug>
         <state_code>WI</state_code>
         <state_code_slug>wi</state_code_slug>
+        <district>6</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>G000576</bioguide>
+        <thomas>2276</thomas>
+        <opensecrets>N00036409</opensecrets>
+        <votesmart>3493</votesmart>
+        <fec>H4WI06048</fec>
+        <maplight>2117</maplight>
+        <wikidata>Q5568836</wikidata>
+        <google_entity_id>kg:/m/02pnsk2</google_entity_id>
+        <title>representative</title>
+        <party>republican</party>
+        <name>Glenn Grothman</name>
+        <name_slug>glenn-grothman</name_slug>
+        <first_name>Glenn</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Grothman</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>GLENN GROHTH-muhn</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>lutheran</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1955-07-03</date_of_birth>
+        <entered_office>2015-01-06</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Glenn Grothman, a Representative from Wisconsin; born in Milwaukee, Milwaukee County, Wis., July 3, 1955; graduated from Homestead High School, Mequon, Wisconsin, 1973; B.B.A., University of Wisconsin, Madison, Wis., 1978; J.D., University of Wisconsin, Madison, Wis., 1983; lawyer, private practice; member of the Wisconsin state assembly, 1993-2004; member of the Wisconsin state senate, 2004-2014; elected as a Republican to the One Hundred Fourteenth and to the succeeding Congress (January 3, 2015-present).</biography>
+        <phone>202-225-2476</phone>
+        <fax>202-225-2356</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn HOB</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://grothman.house.gov</website>
+        <contact_page>https://grothman.house.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/RepGrothman</facebook_url>
+        <twitter_handle>RepGrothman</twitter_handle>
+        <twitter_url>https://twitter.com/RepGrothman</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/glenn-grothman.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Wisconsin</state_name>
+        <state_name_slug>wisconsin</state_name_slug>
+        <state_code>WI</state_code>
+        <state_code_slug>wi</state_code_slug>
         <district>7</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -23710,116 +23765,6 @@
         <state_name_slug>west-virginia</state_name_slug>
         <state_code>WV</state_code>
         <state_code_slug>wv</state_code_slug>
-        <district>3</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>M001205</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>N00041542</opensecrets>
-        <votesmart>52123</votesmart>
-        <fec>H8WV03097</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>representative</title>
-        <party>republican</party>
-        <name>Carol Miller</name>
-        <name_slug>carol-miller</name_slug>
-        <first_name>Carol</first_name>
-        <middle_name>D.</middle_name>
-        <last_name>Miller</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>KA-rel MI-ler</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>baptist</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1950-11-04</date_of_birth>
-        <entered_office>2019-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Carol Miller earned a bachelor's degree in history and political science from Columbia College in 1972. Her career experience includes working as a self-employed real estate manager since 1985. She has owned Swann Ridge Bison Farm since 1994. Miller ran for the West Virginia House of Delegates in 2004 but was not elected. Miller was elected to represent West Virginia's District 15 seat in 2006 and held that seat until being redistricted to District 16 in the 2012 election. As of 2018, Miller was the majority whip in the state House of Delegates.</biography>
-        <phone>202-225-3452</phone>
-        <fax>202-225-3452</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn HOB</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://miller.house.gov</website>
-        <contact_page>https://miller.house.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/HouseRepublicans</facebook_url>
-        <twitter_handle>housegop</twitter_handle>
-        <twitter_url>https://twitter.com/housegop</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/carol-miller.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Wisconsin</state_name>
-        <state_name_slug>wisconsin</state_name_slug>
-        <state_code>WI</state_code>
-        <state_code_slug>wi</state_code_slug>
-        <district>6</district>
-        <at_large>false</at_large>
-        <vacant>false</vacant>
-        <bioguide>G000576</bioguide>
-        <thomas>2276</thomas>
-        <opensecrets>N00036409</opensecrets>
-        <votesmart>3493</votesmart>
-        <fec>H4WI06048</fec>
-        <maplight>2117</maplight>
-        <wikidata>Q5568836</wikidata>
-        <google_entity_id>kg:/m/02pnsk2</google_entity_id>
-        <title>representative</title>
-        <party>republican</party>
-        <name>Glenn Grothman</name>
-        <name_slug>glenn-grothman</name_slug>
-        <first_name>Glenn</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Grothman</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>GLENN GROHTH-muhn</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>lutheran</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1955-07-03</date_of_birth>
-        <entered_office>2015-01-06</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Glenn Grothman, a Representative from Wisconsin; born in Milwaukee, Milwaukee County, Wis., July 3, 1955; graduated from Homestead High School, Mequon, Wisconsin, 1973; B.B.A., University of Wisconsin, Madison, Wis., 1978; J.D., University of Wisconsin, Madison, Wis., 1983; lawyer, private practice; member of the Wisconsin state assembly, 1993-2004; member of the Wisconsin state senate, 2004-2014; elected as a Republican to the One Hundred Fourteenth and to the succeeding Congress (January 3, 2015-present).</biography>
-        <phone>202-225-2476</phone>
-        <fax>202-225-2356</fax>
-        <latitude>38.8863235</latitude>
-        <longitude>-77.011373</longitude>
-        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
-        <address_number>2436</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Rayburn HOB</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20515</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://grothman.house.gov</website>
-        <contact_page>https://grothman.house.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/RepGrothman</facebook_url>
-        <twitter_handle>RepGrothman</twitter_handle>
-        <twitter_url>https://twitter.com/RepGrothman</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/glenn-grothman.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>West Virginia</state_name>
-        <state_name_slug>west-virginia</state_name_slug>
-        <state_code>WV</state_code>
-        <state_code_slug>wv</state_code_slug>
         <district>2</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
@@ -23869,6 +23814,61 @@
         <twitter_handle>RepAlexMooney</twitter_handle>
         <twitter_url>https://twitter.com/RepAlexMooney</twitter_url>
         <photo_url>https://cdn.civil.services/us-house/headshots/512x512/alex-mooney.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>West Virginia</state_name>
+        <state_name_slug>west-virginia</state_name_slug>
+        <state_code>WV</state_code>
+        <state_code_slug>wv</state_code_slug>
+        <district>3</district>
+        <at_large>false</at_large>
+        <vacant>false</vacant>
+        <bioguide>M001205</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00041542</opensecrets>
+        <votesmart>52123</votesmart>
+        <fec>H8WV03097</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>representative</title>
+        <party>republican</party>
+        <name>Carol Miller</name>
+        <name_slug>carol-miller</name_slug>
+        <first_name>Carol</first_name>
+        <middle_name>D.</middle_name>
+        <last_name>Miller</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>KA-rel MI-ler</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>baptist</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1950-11-04</date_of_birth>
+        <entered_office>2019-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Carol Miller earned a bachelor's degree in history and political science from Columbia College in 1972. Her career experience includes working as a self-employed real estate manager since 1985. She has owned Swann Ridge Bison Farm since 1994. Miller ran for the West Virginia House of Delegates in 2004 but was not elected. Miller was elected to represent West Virginia's District 15 seat in 2006 and held that seat until being redistricted to District 16 in the 2012 election. As of 2018, Miller was the majority whip in the state House of Delegates.</biography>
+        <phone>202-225-3452</phone>
+        <fax>202-225-3452</fax>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn HOB, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Rayburn HOB</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://miller.house.gov</website>
+        <contact_page>https://miller.house.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/HouseRepublicans</facebook_url>
+        <twitter_handle>housegop</twitter_handle>
+        <twitter_url>https://twitter.com/housegop</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/carol-miller.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Wyoming</state_name>
