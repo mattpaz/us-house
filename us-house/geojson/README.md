@@ -25,7 +25,14 @@ Here is the process I normally use for updating the District Maps, we only need 
 
     ```bash
     npm install -g geojson-precision
-    geojson-precision -p 4 congress.geojson us-house.geojson
+    geojson-precision -p 4 congress.geojson us-house-min.geojson
     ```
 
-5. Then I just copy that `us-house.geojson` into the `./source/us-house.geojson` and I can run `npm run build-geojson`
+5. Then we can verify that all the shapes are closed properly by running it through a great tool from MapBox that fixes any issues it finds with the shapes
+
+    ```bash
+    npm install -g geojson-rewind
+    geojson-rewind us-house-min.geojson > us-house.geojson
+    ```
+
+6. Then I just copy that `us-house.geojson` into the `./source/us-house.geojson` and I can run `npm run build-geojson`
